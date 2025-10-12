@@ -12,7 +12,9 @@ module.exports = {
         "telegram_id": 6620259933,
         "telegram_username": "LMJSHOP",
         "activated_at": "2025-10-13T03:17:53.059016"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-13T03:17:59.468433"
     }
   }
 };
