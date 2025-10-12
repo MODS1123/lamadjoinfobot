@@ -7,7 +7,12 @@ module.exports = {
       "discord_server_nick": "Alberto_Lmj",
       "created_at": "2025 12 10 22:16",
       "expires_at": "2025 12 10 22:18",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 6620259933,
+        "telegram_username": "LMJSHOP",
+        "activated_at": "2025-10-13T03:17:53.059016"
+      }
     }
   }
 };
