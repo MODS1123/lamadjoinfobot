@@ -26,7 +26,9 @@ module.exports = {
       },
       "grace_period_until": "2025-10-13T15:19:23.282478",
       "telegram_unban_previous_reason": "unsubscribed",
-      "telegram_subscribed_at": "2025-10-13T03:19:36.701377"
+      "telegram_subscribed_at": "2025-10-13T03:19:36.701377",
+      "last_invite_issued_at": "2025-10-13T03:19:44.690847",
+      "invite_link_issued": true
     }
   }
 };
