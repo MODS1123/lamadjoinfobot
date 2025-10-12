@@ -14,7 +14,7 @@ module.exports = {
         "activated_at": "2025-10-13T03:17:53.059016"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-13T03:17:59.468433"
+      "telegram_resubscribed_at": "2025-10-13T03:18:04.762891"
     }
   }
 };
