@@ -45,8 +45,8 @@ module.exports = {
         "telegram_username": "guns298",
         "activated_at": "2025-10-14T00:40:51.157767"
       },
-      "telegram_subscribed": false,
-      "telegram_resubscribed_at": "2025-10-14T00:40:54.009706",
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-14T01:01:54.099435",
       "telegram_unsubscribed_at": "2025-10-14T00:54:38.488099",
       "telegram_banned": false,
       "telegram_banned_at": "2025-10-14T00:54:38.578315",
