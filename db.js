@@ -108,6 +108,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T01:20:38.469811"
+    },
+    "NYSB": {
+      "discord_id": 861303430046810133,
+      "discord_username": "imbrucee",
+      "discord_user": "imbrucee",
+      "discord_server_nick": "Bruce",
+      "created_at": "2025 13 10 23:49",
+      "expires_at": "2025 13 10 23:51",
+      "used": false
     }
   }
 };
