@@ -12,7 +12,9 @@ module.exports = {
         "telegram_id": 528167960,
         "telegram_username": "Lex_M_A_V",
         "activated_at": "2025-10-14T00:31:23.574998"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-14T00:31:24.705238"
     }
   }
 };
