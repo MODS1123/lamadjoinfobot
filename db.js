@@ -68,6 +68,15 @@ module.exports = {
       "created_at": "2025 13 10 22:59",
       "expires_at": "2025 13 10 23:01",
       "used": false
+    },
+    "UIEA": {
+      "discord_id": 283289702356877313,
+      "discord_username": "staffystack",
+      "discord_user": "staffystack",
+      "discord_server_nick": "OwnerSunder",
+      "created_at": "2025 13 10 23:00",
+      "expires_at": "2025 13 10 23:02",
+      "used": false
     }
   }
 };
