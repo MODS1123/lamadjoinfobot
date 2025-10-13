@@ -76,6 +76,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T01:00:58.680958"
+    },
+    "PU9L": {
+      "discord_id": 352882115223879681,
+      "discord_username": ".mockbu4",
+      "discord_user": ".mockbu4",
+      "discord_server_nick": "Alessandro",
+      "created_at": "2025 13 10 23:08",
+      "expires_at": "2025 13 10 23:10",
+      "used": false
     }
   }
 };
