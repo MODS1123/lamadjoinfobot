@@ -15,6 +15,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T00:31:24.705238"
+    },
+    "H0IU": {
+      "discord_id": 852959671353606155,
+      "discord_username": "lmj_mods",
+      "discord_user": "lmj_mods",
+      "discord_server_nick": "Alberto",
+      "created_at": "2025 13 10 22:35",
+      "expires_at": "2025 13 10 22:37",
+      "used": false
     }
   }
 };
