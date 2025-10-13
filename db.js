@@ -31,6 +31,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T00:35:37.578475"
+    },
+    "7VL0": {
+      "discord_id": 1259609230684459079,
+      "discord_username": "2guns2",
+      "discord_user": "2guns2",
+      "discord_server_nick": "Artur",
+      "created_at": "2025 13 10 22:40",
+      "expires_at": "2025 13 10 22:42",
+      "used": false
     }
   }
 };
