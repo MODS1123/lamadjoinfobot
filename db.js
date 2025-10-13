@@ -76,6 +76,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T01:00:58.680958"
+    },
+    "14GZ": {
+      "discord_id": 670378889888923648,
+      "discord_username": "fidel_pettis",
+      "discord_user": "fidel_pettis",
+      "discord_server_nick": "Fidel",
+      "created_at": "2025 13 10 23:16",
+      "expires_at": "2025 13 10 23:18",
+      "used": false
     }
   }
 };
