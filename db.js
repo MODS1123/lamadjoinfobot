@@ -60,15 +60,6 @@ module.exports = {
       "grace_period_until": "2025-10-14T12:56:33.816208",
       "telegram_unban_previous_reason": "unsubscribed"
     },
-    "FVZ6": {
-      "discord_id": 861303430046810133,
-      "discord_username": "imbrucee",
-      "discord_user": "imbrucee",
-      "discord_server_nick": "Bruce",
-      "created_at": "2025 13 10 22:59",
-      "expires_at": "2025 13 10 23:01",
-      "used": false
-    },
     "UIEA": {
       "discord_id": 283289702356877313,
       "discord_username": "staffystack",
