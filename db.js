@@ -204,6 +204,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T17:49:09.737493"
+    },
+    "O90Z": {
+      "discord_id": 338685730761211904,
+      "discord_username": "stenkin",
+      "discord_user": "stenkin",
+      "discord_server_nick": "ILIYATO",
+      "created_at": "2025 14 10 15:50",
+      "expires_at": "2025 14 10 15:52",
+      "used": false
     }
   }
 };
