@@ -249,7 +249,9 @@ module.exports = {
         "telegram_id": 1502181200,
         "telegram_username": "nepingme",
         "activated_at": "2025-10-14T17:53:32.564448"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-14T17:53:38.672601"
     }
   }
 };
