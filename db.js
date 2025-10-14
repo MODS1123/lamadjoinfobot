@@ -221,7 +221,12 @@ module.exports = {
       "discord_server_nick": "Defix",
       "created_at": "2025 14 10 15:50",
       "expires_at": "2025 14 10 15:52",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5351646854,
+        "telegram_username": "next_love8",
+        "activated_at": "2025-10-14T17:51:03.118815"
+      }
     }
   }
 };
