@@ -213,6 +213,15 @@ module.exports = {
       "created_at": "2025 14 10 15:50",
       "expires_at": "2025 14 10 15:52",
       "used": false
+    },
+    "EJXX": {
+      "discord_id": 1159748490931486720,
+      "discord_username": "def1xww",
+      "discord_user": "def1xww",
+      "discord_server_nick": "Defix",
+      "created_at": "2025 14 10 15:50",
+      "expires_at": "2025 14 10 15:52",
+      "used": false
     }
   }
 };
