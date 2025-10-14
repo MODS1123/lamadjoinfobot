@@ -140,6 +140,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T02:25:38.399533"
+    },
+    "KCCT": {
+      "discord_id": 1072490718326693920,
+      "discord_username": "nxlloy",
+      "discord_user": "nxlloy",
+      "discord_server_nick": "Katsu",
+      "created_at": "2025 14 10 15:48",
+      "expires_at": "2025 14 10 15:50",
+      "used": false
     }
   }
 };
