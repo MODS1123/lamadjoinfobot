@@ -173,15 +173,6 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T17:49:26.727803"
     },
-    "13S1": {
-      "discord_id": 1185193353516687551,
-      "discord_username": "h1z052ngg",
-      "discord_user": "h1z052ngg",
-      "discord_server_nick": "Takata",
-      "created_at": "2025 14 10 15:48",
-      "expires_at": "2025 14 10 15:50",
-      "used": false
-    },
     "TQWQ": {
       "discord_id": 919220816707719228,
       "discord_username": "kiril4537",
