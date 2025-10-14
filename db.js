@@ -212,7 +212,12 @@ module.exports = {
       "discord_server_nick": "ILIYATO",
       "created_at": "2025 14 10 15:50",
       "expires_at": "2025 14 10 15:52",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 405866976,
+        "telegram_username": "IlyhaLMJ",
+        "activated_at": "2025-10-14T17:51:12.915639"
+      }
     },
     "EJXX": {
       "discord_id": 1159748490931486720,
