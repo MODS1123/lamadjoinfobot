@@ -148,7 +148,12 @@ module.exports = {
       "discord_server_nick": "Katsu",
       "created_at": "2025 14 10 15:48",
       "expires_at": "2025 14 10 15:50",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1364535371,
+        "telegram_username": "nxlloy",
+        "activated_at": "2025-10-14T17:49:29.862618"
+      }
     },
     "WKCX": {
       "discord_id": 1175932260176900156,
