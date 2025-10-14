@@ -124,6 +124,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T01:49:29.264349"
+    },
+    "U15A": {
+      "discord_id": 601768475446214657,
+      "discord_username": "awkwardnesss",
+      "discord_user": "awkwardnesss",
+      "discord_server_nick": "Takeru",
+      "created_at": "2025 14 10 00:25",
+      "expires_at": "2025 14 10 00:27",
+      "used": false
     }
   }
 };
