@@ -194,7 +194,9 @@ module.exports = {
         "telegram_id": 7593805063,
         "telegram_username": "Kirilgggh",
         "activated_at": "2025-10-14T17:49:40.267433"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-14T17:49:44.866068"
     },
     "8JLZ": {
       "discord_id": 1159748490931486720,
