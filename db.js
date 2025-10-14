@@ -150,11 +150,11 @@ module.exports = {
       "expires_at": "2025 14 10 15:50",
       "used": false
     },
-    "T659": {
-      "discord_id": 338685730761211904,
-      "discord_username": "stenkin",
-      "discord_user": "stenkin",
-      "discord_server_nick": "ILIYATO",
+    "WKCX": {
+      "discord_id": 1175932260176900156,
+      "discord_username": "ddn077",
+      "discord_user": "ddn077",
+      "discord_server_nick": null,
       "created_at": "2025 14 10 15:48",
       "expires_at": "2025 14 10 15:50",
       "used": false
