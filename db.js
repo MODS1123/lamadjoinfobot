@@ -185,6 +185,15 @@ module.exports = {
       "created_at": "2025 14 10 15:48",
       "expires_at": "2025 14 10 15:50",
       "used": false
+    },
+    "04LM": {
+      "discord_id": 1133743931574722600,
+      "discord_username": "alex1922",
+      "discord_user": "alex1922",
+      "discord_server_nick": "German",
+      "created_at": "2025 14 10 15:48",
+      "expires_at": "2025 14 10 15:50",
+      "used": false
     }
   }
 };
