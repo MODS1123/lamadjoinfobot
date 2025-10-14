@@ -158,6 +158,15 @@ module.exports = {
       "created_at": "2025 14 10 15:48",
       "expires_at": "2025 14 10 15:50",
       "used": false
+    },
+    "13S1": {
+      "discord_id": 1185193353516687551,
+      "discord_username": "h1z052ngg",
+      "discord_user": "h1z052ngg",
+      "discord_server_nick": "Takata",
+      "created_at": "2025 14 10 15:48",
+      "expires_at": "2025 14 10 15:50",
+      "used": false
     }
   }
 };
