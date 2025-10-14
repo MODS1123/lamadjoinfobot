@@ -132,7 +132,12 @@ module.exports = {
       "discord_server_nick": "Takeru",
       "created_at": "2025 14 10 00:25",
       "expires_at": "2025 14 10 00:27",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 644370406,
+        "telegram_username": "dgbbncdfjkk",
+        "activated_at": "2025-10-14T02:25:34.412902"
+      }
     }
   }
 };
