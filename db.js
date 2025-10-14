@@ -198,15 +198,6 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T17:49:44.866068"
     },
-    "8JLZ": {
-      "discord_id": 1159748490931486720,
-      "discord_username": "def1xww",
-      "discord_user": "def1xww",
-      "discord_server_nick": "Defix",
-      "created_at": "2025 14 10 15:48",
-      "expires_at": "2025 14 10 15:50",
-      "used": false
-    },
     "04LM": {
       "discord_id": 1133743931574722600,
       "discord_username": "alex1922",
