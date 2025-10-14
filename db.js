@@ -189,7 +189,12 @@ module.exports = {
       "discord_server_nick": "Kiril",
       "created_at": "2025 14 10 15:48",
       "expires_at": "2025 14 10 15:50",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 7593805063,
+        "telegram_username": "Kirilgggh",
+        "activated_at": "2025-10-14T17:49:40.267433"
+      }
     },
     "8JLZ": {
       "discord_id": 1159748490931486720,
