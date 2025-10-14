@@ -167,6 +167,15 @@ module.exports = {
       "created_at": "2025 14 10 15:48",
       "expires_at": "2025 14 10 15:50",
       "used": false
+    },
+    "TQWQ": {
+      "discord_id": 919220816707719228,
+      "discord_username": "kiril4537",
+      "discord_user": "kiril4537",
+      "discord_server_nick": "Kiril",
+      "created_at": "2025 14 10 15:48",
+      "expires_at": "2025 14 10 15:50",
+      "used": false
     }
   }
 };
