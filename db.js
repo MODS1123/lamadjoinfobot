@@ -217,7 +217,9 @@ module.exports = {
         "telegram_id": 405866976,
         "telegram_username": "IlyhaLMJ",
         "activated_at": "2025-10-14T17:51:12.915639"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-14T17:51:19.214760"
     },
     "EJXX": {
       "discord_id": 1159748490931486720,
