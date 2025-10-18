@@ -257,6 +257,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T17:53:38.672601"
+    },
+    "ON4P": {
+      "discord_id": 707656310002548818,
+      "discord_username": "stas123321",
+      "discord_user": "stas123321",
+      "discord_server_nick": "Djoni",
+      "created_at": "2025 18 10 00:56",
+      "expires_at": "2025 18 10 00:58",
+      "used": false
     }
   }
 };
