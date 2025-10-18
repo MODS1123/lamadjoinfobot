@@ -284,7 +284,9 @@ module.exports = {
         "telegram_id": 6672750234,
         "telegram_username": "Djoni_1",
         "activated_at": "2025-10-18T02:58:34.202145"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-18T02:58:44.664875"
     }
   }
 };
