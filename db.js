@@ -287,8 +287,12 @@ module.exports = {
         "telegram_username": "Djoni_1",
         "activated_at": "2025-10-18T02:58:34.202145"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-18T02:58:44.664875"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-18T02:58:44.664875",
+      "telegram_unsubscribed_at": "2025-10-18T03:03:32.910166",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-18T03:03:32.977449",
+      "telegram_ban_reason": "unsubscribed"
     }
   }
 };
