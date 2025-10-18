@@ -300,9 +300,7 @@ module.exports = {
         "moderator_username": "Lex_M_A_V"
       },
       "grace_period_until": "2025-10-18T15:06:53.460912",
-      "telegram_unban_previous_reason": "unsubscribed",
-      "last_invite_issued_at": "2025-10-18T03:07:59.077960",
-      "invite_link_issued": true
+      "telegram_unban_previous_reason": "unsubscribed"
     }
   }
 };
