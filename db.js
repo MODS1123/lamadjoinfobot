@@ -271,6 +271,15 @@ module.exports = {
         "telegram_username": "Artyush1",
         "activated_at": "2025-10-18T02:57:20.081428"
       }
+    },
+    "JI13": {
+      "discord_id": 707656310002548818,
+      "discord_username": "stas123321",
+      "discord_user": "stas123321",
+      "discord_server_nick": "Djoni",
+      "created_at": "2025 18 10 00:58",
+      "expires_at": "2025 18 10 01:00",
+      "used": false
     }
   }
 };
