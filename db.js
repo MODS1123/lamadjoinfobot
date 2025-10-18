@@ -279,7 +279,12 @@ module.exports = {
       "discord_server_nick": "Djoni",
       "created_at": "2025 18 10 00:58",
       "expires_at": "2025 18 10 01:00",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 6672750234,
+        "telegram_username": "Djoni_1",
+        "activated_at": "2025-10-18T02:58:34.202145"
+      }
     }
   }
 };
