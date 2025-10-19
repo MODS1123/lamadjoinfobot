@@ -302,6 +302,15 @@ module.exports = {
       "telegram_unban_previous_reason": "unsubscribed",
       "last_invite_issued_at": "2025-10-18T03:12:09.730797",
       "invite_link_issued": true
+    },
+    "8X9E": {
+      "discord_id": 937001634704285757,
+      "discord_username": "alenkahooli",
+      "discord_user": "alenkahooli",
+      "discord_server_nick": null,
+      "created_at": "2025 19 10 12:46",
+      "expires_at": "2025 19 10 12:48",
+      "used": false
     }
   }
 };
