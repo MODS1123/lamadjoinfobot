@@ -243,14 +243,15 @@ module.exports = {
         "telegram_username": "next_love8",
         "activated_at": "2025-10-14T17:51:03.118815"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-14T17:51:07.454112",
       "discord_removed": true,
       "discord_removed_at": "2025-10-21T17:32:51.744785Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-10-21T17:32:55.013737Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-10-21T19:32:57.342437"
     },
     "WXMH": {
       "discord_id": 1185193353516687551,
