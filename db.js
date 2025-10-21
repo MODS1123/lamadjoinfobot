@@ -249,8 +249,8 @@ module.exports = {
       "discord_removed_at": "2025-10-21T17:37:44.324863Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-21T17:32:55.013737Z",
-      "telegram_ban_reason": "discord_removed_event",
+      "telegram_banned_at": "2025-10-21T17:37:45.622258Z",
+      "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-21T19:32:57.342437"
     },
     "WXMH": {
