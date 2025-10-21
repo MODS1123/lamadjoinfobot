@@ -249,9 +249,13 @@ module.exports = {
       "discord_removed_at": "2025-10-21T17:52:53.792093Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-21T17:52:55.107838Z",
-      "telegram_ban_reason": "not_in_guild_check",
-      "telegram_unsubscribed_at": "2025-10-21T19:32:57.342437"
+      "telegram_banned_at": "2025-10-21T19:57:53.764768",
+      "telegram_ban_reason": "manual_ban",
+      "telegram_unsubscribed_at": "2025-10-21T19:32:57.342437",
+      "telegram_banned_by": {
+        "moderator_id": 528167960,
+        "moderator_username": "Lex_M_A_V"
+      }
     },
     "WXMH": {
       "discord_id": 1185193353516687551,
