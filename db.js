@@ -246,11 +246,8 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-14T17:51:07.454112",
       "discord_removed": true,
-      "discord_removed_at": "2025-10-21T17:32:51.754381Z",
-      "discord_removed_display_name": null,
-      "telegram_banned": true,
-      "telegram_banned_at": "2025-10-21T17:32:53.006180Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "discord_removed_at": "2025-10-21T17:32:51.744785Z",
+      "discord_removed_display_name": null
     },
     "WXMH": {
       "discord_id": 1185193353516687551,
