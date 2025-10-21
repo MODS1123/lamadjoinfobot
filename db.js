@@ -244,7 +244,10 @@ module.exports = {
         "activated_at": "2025-10-14T17:51:03.118815"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-14T17:51:07.454112"
+      "telegram_resubscribed_at": "2025-10-14T17:51:07.454112",
+      "discord_removed": true,
+      "discord_removed_at": "2025-10-21T17:32:51.754381Z",
+      "discord_removed_display_name": null
     },
     "WXMH": {
       "discord_id": 1185193353516687551,
