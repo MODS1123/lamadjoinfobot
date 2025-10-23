@@ -358,7 +358,12 @@ module.exports = {
       "discord_server_nick": "AKVER",
       "created_at": "2025 23 10 13:51",
       "expires_at": "2025 23 10 13:53",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1180954725,
+        "telegram_username": "AKVERDI",
+        "activated_at": "2025-10-23T15:51:50.482031"
+      }
     }
   }
 };
