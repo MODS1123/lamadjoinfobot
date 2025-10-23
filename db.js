@@ -667,6 +667,15 @@ module.exports = {
       "created_at": "2025 23 10 19:15",
       "expires_at": "2025 23 10 19:17",
       "used": false
+    },
+    "D4GH": {
+      "discord_id": 844929862968148018,
+      "discord_username": "real552",
+      "discord_user": "real552",
+      "discord_server_nick": "Walter",
+      "created_at": "2025 23 10 19:15",
+      "expires_at": "2025 23 10 19:17",
+      "used": false
     }
   }
 };
