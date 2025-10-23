@@ -722,6 +722,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T21:26:24.101682"
+    },
+    "RLAV": {
+      "discord_id": 758163313078304818,
+      "discord_username": "apelsinka9086",
+      "discord_user": "apelsinka9086",
+      "discord_server_nick": "Jacob",
+      "created_at": "2025 23 10 20:28",
+      "expires_at": "2025 23 10 20:30",
+      "used": false
     }
   }
 };
