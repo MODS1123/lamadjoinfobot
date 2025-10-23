@@ -617,6 +617,15 @@ module.exports = {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       }
+    },
+    "04FQ": {
+      "discord_id": 978950686148538369,
+      "discord_username": "xmotti",
+      "discord_user": "xmotti",
+      "discord_server_nick": "Iluha",
+      "created_at": "2025 23 10 19:11",
+      "expires_at": "2025 23 10 19:13",
+      "used": false
     }
   }
 };
