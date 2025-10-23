@@ -649,7 +649,12 @@ module.exports = {
       "discord_server_nick": "KepMikhail",
       "created_at": "2025 23 10 19:11",
       "expires_at": "2025 23 10 19:13",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1314548237,
+        "telegram_username": "mishavarlamov_007",
+        "activated_at": "2025-10-23T21:12:18.659485"
+      }
     }
   }
 };
