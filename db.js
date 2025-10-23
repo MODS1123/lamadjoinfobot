@@ -539,7 +539,12 @@ module.exports = {
       "discord_server_nick": "Minerva",
       "created_at": "2025 23 10 17:19",
       "expires_at": "2025 23 10 17:21",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 916243344,
+        "telegram_username": "Pina_Colaadaa",
+        "activated_at": "2025-10-23T19:20:07.347682"
+      }
     }
   }
 };
