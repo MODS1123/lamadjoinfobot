@@ -314,9 +314,10 @@ module.exports = {
         "moderator_username": "Lex_M_A_V"
       },
       "telegram_unban_previous_reason": "unsubscribed",
-      "last_invite_issued_at": "2025-10-18T03:12:09.730797",
+      "last_invite_issued_at": "2025-10-23T17:24:19.879180",
       "grace_period_until": "2025-10-24T05:23:51.603414",
-      "telegram_subscribed_at": "2025-10-23T17:24:11.816150"
+      "telegram_subscribed_at": "2025-10-23T17:24:11.816150",
+      "invite_link_issued": true
     },
     "8X9E": {
       "discord_id": 937001634704285757,
