@@ -630,7 +630,9 @@ module.exports = {
         "telegram_id": 1786132777,
         "telegram_username": "xmotti",
         "activated_at": "2025-10-23T21:11:45.995939"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-23T21:11:48.381869"
     },
     "6ACF": {
       "discord_id": 545125860542382090,
