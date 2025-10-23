@@ -658,6 +658,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T21:12:23.063220"
+    },
+    "EK6D": {
+      "discord_id": 425037346812198934,
+      "discord_username": "xionix1",
+      "discord_user": "xionix1",
+      "discord_server_nick": "Manera",
+      "created_at": "2025 23 10 19:15",
+      "expires_at": "2025 23 10 19:17",
+      "used": false
     }
   }
 };
