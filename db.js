@@ -523,7 +523,12 @@ module.exports = {
       "discord_server_nick": "Ares",
       "created_at": "2025 23 10 17:13",
       "expires_at": "2025 23 10 17:15",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1034515839,
+        "telegram_username": "dotyuu",
+        "activated_at": "2025-10-23T19:13:25.744197"
+      }
     }
   }
 };
