@@ -350,6 +350,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T14:29:32.461746"
+    },
+    "Y9GB": {
+      "discord_id": 328091487487262720,
+      "discord_username": "akver",
+      "discord_user": "akver",
+      "discord_server_nick": "AKVER",
+      "created_at": "2025 23 10 13:51",
+      "expires_at": "2025 23 10 13:53",
+      "used": false
     }
   }
 };
