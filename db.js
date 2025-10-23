@@ -699,6 +699,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T21:16:11.994116"
+    },
+    "8GI9": {
+      "discord_id": 425037346812198934,
+      "discord_username": "xionix1",
+      "discord_user": "xionix1",
+      "discord_server_nick": "Manera",
+      "created_at": "2025 23 10 19:16",
+      "expires_at": "2025 23 10 19:18",
+      "used": false
     }
   }
 };
