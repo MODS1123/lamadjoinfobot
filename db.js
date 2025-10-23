@@ -365,6 +365,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T15:51:57.051483"
+    },
+    "YXJK": {
+      "discord_id": 999048337552588820,
+      "discord_username": "lolqwek",
+      "discord_user": "lolqwek",
+      "discord_server_nick": "John",
+      "created_at": "2025 23 10 15:37",
+      "expires_at": "2025 23 10 15:39",
+      "used": false
     }
   }
 };
