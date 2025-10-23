@@ -707,7 +707,12 @@ module.exports = {
       "discord_server_nick": "Manera",
       "created_at": "2025 23 10 19:16",
       "expires_at": "2025 23 10 19:18",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 422263434,
+        "telegram_username": null,
+        "activated_at": "2025-10-23T21:16:59.428416"
+      }
     }
   }
 };
