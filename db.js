@@ -483,6 +483,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T18:51:01.456192"
+    },
+    "URBU": {
+      "discord_id": 392739086026276875,
+      "discord_username": "enzocrps",
+      "discord_user": "enzocrps",
+      "discord_server_nick": "Enzo",
+      "created_at": "2025 23 10 16:54",
+      "expires_at": "2025 23 10 16:56",
+      "used": false
     }
   }
 };
