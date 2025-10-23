@@ -671,7 +671,9 @@ module.exports = {
         "telegram_id": 5284576407,
         "telegram_username": null,
         "activated_at": "2025-10-23T21:15:43.612124"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-23T21:16:11.975693"
     },
     "D4GH": {
       "discord_id": 844929862968148018,
@@ -694,7 +696,9 @@ module.exports = {
         "telegram_id": 2090570765,
         "telegram_username": "meZsar0s",
         "activated_at": "2025-10-23T21:16:06.789823"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-23T21:16:11.994116"
     }
   }
 };
