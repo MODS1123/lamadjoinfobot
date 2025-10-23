@@ -666,7 +666,12 @@ module.exports = {
       "discord_server_nick": "Toki",
       "created_at": "2025 23 10 19:15",
       "expires_at": "2025 23 10 19:17",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5284576407,
+        "telegram_username": null,
+        "activated_at": "2025-10-23T21:15:43.612124"
+      }
     },
     "D4GH": {
       "discord_id": 844929862968148018,
@@ -675,12 +680,7 @@ module.exports = {
       "discord_server_nick": "Walter",
       "created_at": "2025 23 10 19:15",
       "expires_at": "2025 23 10 19:17",
-      "used": true,
-      "activated_by": {
-        "telegram_id": 1290674290,
-        "telegram_username": "crazyyylil",
-        "activated_at": "2025-10-23T21:15:43.252036"
-      }
+      "used": false
     },
     "GRLI": {
       "discord_id": 1342814504844787722,
