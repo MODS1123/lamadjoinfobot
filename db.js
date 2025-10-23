@@ -555,15 +555,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T19:20:18.747982"
-    },
-    "K9HT": {
-      "discord_id": 513375645070524428,
-      "discord_username": "alexeynogood",
-      "discord_user": "alexeynogood",
-      "discord_server_nick": "Zloy",
-      "created_at": "2025 23 10 17:45",
-      "expires_at": "2025 23 10 17:47",
-      "used": false
     }
   }
 };
