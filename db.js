@@ -676,6 +676,15 @@ module.exports = {
       "created_at": "2025 23 10 19:15",
       "expires_at": "2025 23 10 19:17",
       "used": false
+    },
+    "GRLI": {
+      "discord_id": 1342814504844787722,
+      "discord_username": "fearzzzz333",
+      "discord_user": "fearzzzz333",
+      "discord_server_nick": "Kawik",
+      "created_at": "2025 23 10 19:15",
+      "expires_at": "2025 23 10 19:17",
+      "used": false
     }
   }
 };
