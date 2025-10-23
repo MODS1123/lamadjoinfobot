@@ -625,7 +625,12 @@ module.exports = {
       "discord_server_nick": "Iluha",
       "created_at": "2025 23 10 19:11",
       "expires_at": "2025 23 10 19:13",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1786132777,
+        "telegram_username": "xmotti",
+        "activated_at": "2025-10-23T21:11:45.995939"
+      }
     },
     "6ACF": {
       "discord_id": 545125860542382090,
