@@ -390,6 +390,15 @@ module.exports = {
       "created_at": "2025 23 10 16:07",
       "expires_at": "2025 23 10 16:09",
       "used": false
+    },
+    "LUQ6": {
+      "discord_id": 542696138533240832,
+      "discord_username": ".johnny.09",
+      "discord_user": ".johnny.09",
+      "discord_server_nick": "jhnny",
+      "created_at": "2025 23 10 16:07",
+      "expires_at": "2025 23 10 16:09",
+      "used": false
     }
   }
 };
