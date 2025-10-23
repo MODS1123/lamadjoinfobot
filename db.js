@@ -600,7 +600,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T20:06:54.737234",
-      "last_invite_issued_at": "2025-10-23T20:06:59.353889",
       "telegram_banned": false,
       "telegram_unsubscribed": false,
       "telegram_requires_subscription": true,
@@ -609,8 +608,7 @@ module.exports = {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "grace_period_until": "2025-10-24T08:06:22.691707",
-      "invite_link_issued": true
+      "grace_period_until": "2025-10-24T08:06:22.691707"
     }
   }
 };
