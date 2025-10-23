@@ -575,6 +575,15 @@ module.exports = {
       "telegram_banned": true,
       "telegram_banned_at": "2025-10-23T19:56:47.100280",
       "telegram_ban_reason": "unsubscribed"
+    },
+    "O1YB": {
+      "discord_id": 871440613248229436,
+      "discord_username": "sekret8315",
+      "discord_user": "sekret8315",
+      "discord_server_nick": "Ruslan",
+      "created_at": "2025 23 10 17:57",
+      "expires_at": "2025 23 10 17:59",
+      "used": false
     }
   }
 };
