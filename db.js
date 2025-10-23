@@ -675,15 +675,6 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T21:16:11.975693"
     },
-    "D4GH": {
-      "discord_id": 844929862968148018,
-      "discord_username": "real552",
-      "discord_user": "real552",
-      "discord_server_nick": "Walter",
-      "created_at": "2025 23 10 19:15",
-      "expires_at": "2025 23 10 19:17",
-      "used": false
-    },
     "GRLI": {
       "discord_id": 1342814504844787722,
       "discord_username": "fearzzzz333",
