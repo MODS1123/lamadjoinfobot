@@ -499,6 +499,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T18:55:09.614036"
+    },
+    "LCMJ": {
+      "discord_id": 850250515912589332,
+      "discord_username": "faster006",
+      "discord_user": "faster006",
+      "discord_server_nick": "Vandal",
+      "created_at": "2025 23 10 17:05",
+      "expires_at": "2025 23 10 17:07",
+      "used": false
     }
   }
 };
