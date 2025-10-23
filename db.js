@@ -555,6 +555,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T19:20:18.747982"
+    },
+    "58FI": {
+      "discord_id": 670378889888923648,
+      "discord_username": "fidel_pettis",
+      "discord_user": "fidel_pettis",
+      "discord_server_nick": "Fidel",
+      "created_at": "2025 23 10 17:28",
+      "expires_at": "2025 23 10 17:30",
+      "used": false
     }
   }
 };
