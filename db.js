@@ -706,6 +706,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T21:17:06.958595"
+    },
+    "JDF8": {
+      "discord_id": 537989217096040448,
+      "discord_username": "sega_seven",
+      "discord_user": "sega_seven",
+      "discord_server_nick": "RickI",
+      "created_at": "2025 23 10 19:25",
+      "expires_at": "2025 23 10 19:27",
+      "used": false
     }
   }
 };
