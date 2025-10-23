@@ -584,6 +584,15 @@ module.exports = {
       "telegram_subscribed_at": "2025-10-23T19:59:56.829983",
       "last_invite_issued_at": "2025-10-23T20:00:52.792715",
       "invite_link_issued": true
+    },
+    "L89Z": {
+      "discord_id": 513375645070524428,
+      "discord_username": "alexeynogood",
+      "discord_user": "alexeynogood",
+      "discord_server_nick": "Zloy",
+      "created_at": "2025 23 10 18:03",
+      "expires_at": "2025 23 10 18:05",
+      "used": false
     }
   }
 };
