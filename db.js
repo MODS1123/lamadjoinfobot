@@ -467,6 +467,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T18:49:27.440821"
+    },
+    "5YJR": {
+      "discord_id": 940958866026426388,
+      "discord_username": "dima789",
+      "discord_user": "dima789",
+      "discord_server_nick": "Dimas",
+      "created_at": "2025 23 10 16:50",
+      "expires_at": "2025 23 10 16:52",
+      "used": false
     }
   }
 };
