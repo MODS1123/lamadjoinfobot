@@ -528,7 +528,9 @@ module.exports = {
         "telegram_id": 1034515839,
         "telegram_username": "dotyuu",
         "activated_at": "2025-10-23T19:13:25.744197"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-23T19:13:27.568929"
     }
   }
 };
