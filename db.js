@@ -515,6 +515,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T19:06:14.766380"
+    },
+    "BUGK": {
+      "discord_id": 691548000723664917,
+      "discord_username": "dotyu",
+      "discord_user": "dotyu",
+      "discord_server_nick": "Ares",
+      "created_at": "2025 23 10 17:13",
+      "expires_at": "2025 23 10 17:15",
+      "used": false
     }
   }
 };
