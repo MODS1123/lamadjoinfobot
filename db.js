@@ -394,7 +394,9 @@ module.exports = {
         "telegram_id": 276846775,
         "telegram_username": "GRamill",
         "activated_at": "2025-10-23T18:08:14.555006"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-23T18:08:17.656231"
     },
     "LUQ6": {
       "discord_id": 542696138533240832,
