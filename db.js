@@ -98,9 +98,17 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-14T01:17:10.563102",
       "telegram_unsubscribed_at": "2025-10-21T05:17:52.885817",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-10-21T05:17:53.123012",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_at": "2025-10-23T20:10:39.294903",
+      "telegram_unbanned_by": {
+        "moderator_id": 921182112,
+        "moderator_username": "Alberto114"
+      },
+      "grace_period_until": "2025-10-24T08:10:39.294911",
+      "telegram_unban_previous_reason": "unsubscribed"
     },
     "LWSY": {
       "discord_id": 352882115223879681,
