@@ -451,6 +451,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-23T18:31:17.665394",
       "last_invite_issued_at": "2025-10-23T18:31:45.815182",
       "invite_link_issued": true
+    },
+    "O8SF": {
+      "discord_id": 374538068134199296,
+      "discord_username": ".crybee",
+      "discord_user": ".crybee",
+      "discord_server_nick": "Crane",
+      "created_at": "2025 23 10 16:48",
+      "expires_at": "2025 23 10 16:50",
+      "used": false
     }
   }
 };
