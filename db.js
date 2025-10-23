@@ -334,6 +334,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-19T14:46:37.665803"
+    },
+    "NIRJ": {
+      "discord_id": 388246641942986752,
+      "discord_username": "boby_bo1",
+      "discord_user": "boby_bo1",
+      "discord_server_nick": "Beni",
+      "created_at": "2025 23 10 12:29",
+      "expires_at": "2025 23 10 12:31",
+      "used": false
     }
   }
 };
