@@ -308,7 +308,6 @@ module.exports = {
       "telegram_banned": false,
       "telegram_banned_at": "2025-10-22T16:53:20.021509",
       "telegram_unsubscribed": false,
-      "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-10-23T17:23:51.603403",
       "telegram_unbanned_by": {
         "moderator_id": 528167960,
@@ -316,7 +315,8 @@ module.exports = {
       },
       "telegram_unban_previous_reason": "unsubscribed",
       "last_invite_issued_at": "2025-10-18T03:12:09.730797",
-      "grace_period_until": "2025-10-24T05:23:51.603414"
+      "grace_period_until": "2025-10-24T05:23:51.603414",
+      "telegram_subscribed_at": "2025-10-23T17:24:11.816150"
     },
     "8X9E": {
       "discord_id": 937001634704285757,
