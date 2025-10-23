@@ -475,7 +475,12 @@ module.exports = {
       "discord_server_nick": "Dimas",
       "created_at": "2025 23 10 16:50",
       "expires_at": "2025 23 10 16:52",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1498174844,
+        "telegram_username": "Ferragoma163",
+        "activated_at": "2025-10-23T18:50:58.074737"
+      }
     }
   }
 };
