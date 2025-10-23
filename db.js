@@ -179,8 +179,12 @@ module.exports = {
         "telegram_username": "ddn770",
         "activated_at": "2025-10-14T17:49:22.142746"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-14T17:49:26.727803"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-14T17:49:26.727803",
+      "telegram_unsubscribed_at": "2025-10-23T19:24:57.688874",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-23T19:25:00.422011",
+      "telegram_ban_reason": "unsubscribed"
     },
     "TQWQ": {
       "discord_id": 919220816707719228,
@@ -431,8 +435,12 @@ module.exports = {
         "telegram_username": "wialmj",
         "activated_at": "2025-10-23T18:10:20.596447"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-23T18:10:25.588852"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-23T18:10:25.588852",
+      "telegram_unsubscribed_at": "2025-10-23T19:25:02.305032",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-23T19:25:02.450457",
+      "telegram_ban_reason": "unsubscribed"
     },
     "7DXF": {
       "discord_id": 1375363925096398910,
