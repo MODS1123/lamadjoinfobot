@@ -381,6 +381,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T17:38:12.307452"
+    },
+    "7FSA": {
+      "discord_id": 425770085177622529,
+      "discord_username": ".mr.ram",
+      "discord_user": ".mr.ram",
+      "discord_server_nick": "MrRam",
+      "created_at": "2025 23 10 16:07",
+      "expires_at": "2025 23 10 16:09",
+      "used": false
     }
   }
 };
