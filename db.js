@@ -429,6 +429,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T18:10:25.588852"
+    },
+    "7DXF": {
+      "discord_id": 1375363925096398910,
+      "discord_username": "mrrrkartoshka",
+      "discord_user": "mrrrkartoshka",
+      "discord_server_nick": "Matteo",
+      "created_at": "2025 23 10 16:30",
+      "expires_at": "2025 23 10 16:32",
+      "used": false
     }
   }
 };
