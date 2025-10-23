@@ -366,15 +366,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T15:51:57.051483"
-    },
-    "VI3G": {
-      "discord_id": 707656310002548818,
-      "discord_username": "stas123321",
-      "discord_user": "stas123321",
-      "discord_server_nick": "Djoni",
-      "created_at": "2025 23 10 14:41",
-      "expires_at": "2025 23 10 14:43",
-      "used": false
     }
   }
 };
