@@ -531,6 +531,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T19:13:27.568929"
+    },
+    "AUKU": {
+      "discord_id": 274172146693963776,
+      "discord_username": "ana_banana.",
+      "discord_user": "ana_banana.",
+      "discord_server_nick": "Minerva",
+      "created_at": "2025 23 10 17:17",
+      "expires_at": "2025 23 10 17:19",
+      "used": false
     }
   }
 };
