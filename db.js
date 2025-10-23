@@ -607,8 +607,7 @@ module.exports = {
       "telegram_unbanned_by": {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
-      },
-      "grace_period_until": "2025-10-24T08:06:22.691707"
+      }
     }
   }
 };
