@@ -413,6 +413,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T18:08:11.024133"
+    },
+    "YI0F": {
+      "discord_id": 590607061331476524,
+      "discord_username": "mariyajasicasmith",
+      "discord_user": "mariyajasicasmith",
+      "discord_server_nick": "WiaLamadjo",
+      "created_at": "2025 23 10 16:10",
+      "expires_at": "2025 23 10 16:12",
+      "used": false
     }
   }
 };
