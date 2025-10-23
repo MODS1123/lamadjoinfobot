@@ -507,7 +507,12 @@ module.exports = {
       "discord_server_nick": "Vandal",
       "created_at": "2025 23 10 17:05",
       "expires_at": "2025 23 10 17:07",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1895497487,
+        "telegram_username": "NotBald97",
+        "activated_at": "2025-10-23T19:06:01.584119"
+      }
     }
   }
 };
