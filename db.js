@@ -598,10 +598,18 @@ module.exports = {
         "telegram_username": "Alexey77888",
         "activated_at": "2025-10-23T20:03:50.986445"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-23T20:03:52.785611",
       "last_invite_issued_at": "2025-10-23T20:04:24.475361",
-      "invite_link_issued": true
+      "telegram_banned": false,
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_at": "2025-10-23T20:06:22.691693",
+      "telegram_unbanned_by": {
+        "moderator_id": 921182112,
+        "moderator_username": "Alberto114"
+      },
+      "grace_period_until": "2025-10-24T08:06:22.691707"
     }
   }
 };
