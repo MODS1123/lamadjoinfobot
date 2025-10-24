@@ -754,6 +754,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-24T13:11:45.581407"
+    },
+    "C5EU": {
+      "discord_id": 1403319436261458011,
+      "discord_username": "macoosss",
+      "discord_user": "macoosss",
+      "discord_server_nick": "Zhora",
+      "created_at": "2025 24 10 11:21",
+      "expires_at": "2025 24 10 11:23",
+      "used": false
     }
   }
 };
