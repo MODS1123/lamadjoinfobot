@@ -738,6 +738,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T22:29:40.908196"
+    },
+    "J5S2": {
+      "discord_id": 273371629105709057,
+      "discord_username": "romeo8336",
+      "discord_user": "romeo8336",
+      "discord_server_nick": "Itachi",
+      "created_at": "2025 24 10 11:10",
+      "expires_at": "2025 24 10 11:12",
+      "used": false
     }
   }
 };
