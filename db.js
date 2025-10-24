@@ -762,7 +762,12 @@ module.exports = {
       "discord_server_nick": "Zhora",
       "created_at": "2025 24 10 11:21",
       "expires_at": "2025 24 10 11:23",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1308036423,
+        "telegram_username": "macoosss",
+        "activated_at": "2025-10-24T13:22:21.655569"
+      }
     }
   }
 };
