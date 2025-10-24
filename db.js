@@ -770,6 +770,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-24T13:22:26.492842"
+    },
+    "1DI4": {
+      "discord_id": 370270057760292865,
+      "discord_username": "destro_ney",
+      "discord_user": "destro_ney",
+      "discord_server_nick": "Ugo",
+      "created_at": "2025 24 10 14:45",
+      "expires_at": "2025 24 10 14:47",
+      "used": false
     }
   }
 };
