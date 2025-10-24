@@ -786,6 +786,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-24T16:46:57.421843"
+    },
+    "ENZM": {
+      "discord_id": 1205467429187223586,
+      "discord_username": "tomilamadjov",
+      "discord_user": "tomilamadjov",
+      "discord_server_nick": "TomiLamadjov",
+      "created_at": "2025 24 10 23:02",
+      "expires_at": "2025 24 10 23:04",
+      "used": false
     }
   }
 };
