@@ -746,7 +746,12 @@ module.exports = {
       "discord_server_nick": "Itachi",
       "created_at": "2025 24 10 11:10",
       "expires_at": "2025 24 10 11:12",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 582811160,
+        "telegram_username": "pe7ryazh",
+        "activated_at": "2025-10-24T13:11:42.280322"
+      }
     }
   }
 };
