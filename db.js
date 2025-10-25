@@ -952,6 +952,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T20:21:22.492505"
+    },
+    "YDVI": {
+      "discord_id": 1265666964291059734,
+      "discord_username": ".mrdekyn",
+      "discord_user": ".mrdekyn",
+      "discord_server_nick": "Mike",
+      "created_at": "2025 25 10 19:31",
+      "expires_at": "2025 25 10 19:33",
+      "used": false
     }
   }
 };
