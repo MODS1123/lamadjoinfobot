@@ -975,6 +975,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T21:32:30.568480"
+    },
+    "11WL": {
+      "discord_id": 1296800148659245148,
+      "discord_username": "_rmst_",
+      "discord_user": "_rmst_",
+      "discord_server_nick": "rmst",
+      "created_at": "2025 25 10 20:05",
+      "expires_at": "2025 25 10 20:07",
+      "used": false
     }
   }
 };
