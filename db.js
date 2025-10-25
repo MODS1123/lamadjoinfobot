@@ -936,6 +936,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T20:08:50.609825"
+    },
+    "FDYZ": {
+      "discord_id": 832774984350826496,
+      "discord_username": "mafinik.",
+      "discord_user": "mafinik.",
+      "discord_server_nick": "Mafinik",
+      "created_at": "2025 25 10 18:20",
+      "expires_at": "2025 25 10 18:22",
+      "used": false
     }
   }
 };
