@@ -920,6 +920,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T19:38:56.640516"
+    },
+    "QMEP": {
+      "discord_id": 1145655089554526228,
+      "discord_username": "radiancrrrrrr",
+      "discord_user": "radiancrrrrrr",
+      "discord_server_nick": null,
+      "created_at": "2025 25 10 18:08",
+      "expires_at": "2025 25 10 18:10",
+      "used": false
     }
   }
 };
