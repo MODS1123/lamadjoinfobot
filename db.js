@@ -840,6 +840,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T13:38:41.321058"
+    },
+    "YSBJ": {
+      "discord_id": 1404836749225623554,
+      "discord_username": "l1rni.",
+      "discord_user": "l1rni.",
+      "discord_server_nick": "Norzy",
+      "created_at": "2025 25 10 15:38",
+      "expires_at": "2025 25 10 15:40",
+      "used": false
     }
   }
 };
