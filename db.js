@@ -818,6 +818,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T13:12:58.755970"
+    },
+    "XTSG": {
+      "discord_id": 1035927026621747240,
+      "discord_username": ".xblo0dy.",
+      "discord_user": ".xblo0dy.",
+      "discord_server_nick": "xBloody",
+      "created_at": "2025 25 10 11:36",
+      "expires_at": "2025 25 10 11:38",
+      "used": false
     }
   }
 };
