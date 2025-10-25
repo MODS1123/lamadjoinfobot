@@ -800,14 +800,12 @@ module.exports = {
         "telegram_username": "Kalis0719",
         "activated_at": "2025-10-25T13:07:56.577734"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
-      "discord_removed": true,
-      "discord_removed_at": "2025-10-25T13:44:33.957841Z",
-      "discord_removed_display_name": null,
+      "telegram_unsubscribed_at": "2025-10-25T15:44:35.869902",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-25T13:44:35.251325Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_banned_at": "2025-10-25T15:44:35.915716",
+      "telegram_ban_reason": "unsubscribed"
     },
     "YNIU": {
       "discord_id": 356902862225408010,
