@@ -888,6 +888,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T18:25:18.397003"
+    },
+    "1I3V": {
+      "discord_id": 490479689345925133,
+      "discord_username": "_vetka.",
+      "discord_user": "_vetka.",
+      "discord_server_nick": "_vetka",
+      "created_at": "2025 25 10 16:54",
+      "expires_at": "2025 25 10 16:56",
+      "used": false
     }
   }
 };
