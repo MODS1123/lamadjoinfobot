@@ -944,7 +944,12 @@ module.exports = {
       "discord_server_nick": "Mafinik",
       "created_at": "2025 25 10 18:20",
       "expires_at": "2025 25 10 18:22",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1394330658,
+        "telegram_username": "igenusman",
+        "activated_at": "2025-10-25T20:21:18.217426"
+      }
     }
   }
 };
