@@ -794,7 +794,12 @@ module.exports = {
       "discord_server_nick": "Ruble",
       "created_at": "2025 25 10 11:07",
       "expires_at": "2025 25 10 11:09",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 6611471608,
+        "telegram_username": "Kalis0719",
+        "activated_at": "2025-10-25T13:07:56.577734"
+      }
     }
   }
 };
