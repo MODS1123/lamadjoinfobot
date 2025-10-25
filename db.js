@@ -912,7 +912,12 @@ module.exports = {
       "discord_server_nick": "Markus",
       "created_at": "2025 25 10 17:37",
       "expires_at": "2025 25 10 17:39",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1078387767,
+        "telegram_username": "tochnox",
+        "activated_at": "2025-10-25T19:38:50.316069"
+      }
     }
   }
 };
