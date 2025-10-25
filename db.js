@@ -991,6 +991,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T22:06:48.270297"
+    },
+    "TMDE": {
+      "discord_id": 1034425830803251280,
+      "discord_username": "semuraen7906",
+      "discord_user": "semuraen7906",
+      "discord_server_nick": "Mops",
+      "created_at": "2025 25 10 20:41",
+      "expires_at": "2025 25 10 20:43",
+      "used": false
     }
   }
 };
