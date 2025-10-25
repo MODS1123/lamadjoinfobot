@@ -1015,7 +1015,12 @@ module.exports = {
       "discord_server_nick": "SMERTb",
       "created_at": "2025 25 10 21:09",
       "expires_at": "2025 25 10 21:11",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 840657923,
+        "telegram_username": "Pashok1749",
+        "activated_at": "2025-10-25T23:10:37.143864"
+      }
     }
   }
 };
