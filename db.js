@@ -904,6 +904,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T18:55:59.195346"
+    },
+    "CHTB": {
+      "discord_id": 718406070938107915,
+      "discord_username": "marktsy",
+      "discord_user": "marktsy",
+      "discord_server_nick": "Markus",
+      "created_at": "2025 25 10 17:37",
+      "expires_at": "2025 25 10 17:39",
+      "used": false
     }
   }
 };
