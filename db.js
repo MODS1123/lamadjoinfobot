@@ -802,6 +802,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057"
+    },
+    "YNIU": {
+      "discord_id": 356902862225408010,
+      "discord_username": ".feeqs",
+      "discord_user": ".feeqs",
+      "discord_server_nick": "FeeQs",
+      "created_at": "2025 25 10 11:12",
+      "expires_at": "2025 25 10 11:14",
+      "used": false
     }
   }
 };
