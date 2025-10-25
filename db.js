@@ -856,6 +856,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T17:39:44.929201"
+    },
+    "J6C8": {
+      "discord_id": 602936524383715328,
+      "discord_username": "chuckie7777",
+      "discord_user": "chuckie7777",
+      "discord_server_nick": "Chucke",
+      "created_at": "2025 25 10 15:40",
+      "expires_at": "2025 25 10 15:42",
+      "used": false
     }
   }
 };
