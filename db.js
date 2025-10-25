@@ -801,7 +801,10 @@ module.exports = {
         "activated_at": "2025-10-25T13:07:56.577734"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T13:08:04.878057"
+      "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
+      "discord_removed": true,
+      "discord_removed_at": "2025-10-25T13:44:33.957841Z",
+      "discord_removed_display_name": null
     },
     "YNIU": {
       "discord_id": 356902862225408010,
