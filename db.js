@@ -1039,6 +1039,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T23:40:55.524576"
+    },
+    "VOV2": {
+      "discord_id": 572725668329029653,
+      "discord_username": "witzei",
+      "discord_user": "witzei",
+      "discord_server_nick": "Witzei",
+      "created_at": "2025 25 10 22:00",
+      "expires_at": "2025 25 10 22:02",
+      "used": false
     }
   }
 };
