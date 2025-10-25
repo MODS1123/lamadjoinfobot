@@ -902,14 +902,15 @@ module.exports = {
         "telegram_username": "Vet0shka",
         "activated_at": "2025-10-25T18:55:51.669346"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T18:55:59.195346",
       "discord_removed": true,
       "discord_removed_at": "2025-10-25T19:54:33.139227Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-10-25T19:54:34.552461Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-10-25T21:54:39.821310"
     },
     "CHTB": {
       "discord_id": 718406070938107915,
