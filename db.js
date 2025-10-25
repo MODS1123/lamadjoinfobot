@@ -983,7 +983,12 @@ module.exports = {
       "discord_server_nick": "rmst",
       "created_at": "2025 25 10 20:05",
       "expires_at": "2025 25 10 20:07",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 8167490302,
+        "telegram_username": "nev5r",
+        "activated_at": "2025-10-25T22:06:42.936353"
+      }
     }
   }
 };
