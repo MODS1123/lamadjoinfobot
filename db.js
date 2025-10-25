@@ -810,7 +810,12 @@ module.exports = {
       "discord_server_nick": "FeeQs",
       "created_at": "2025 25 10 11:12",
       "expires_at": "2025 25 10 11:14",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 734574195,
+        "telegram_username": "FeeQs",
+        "activated_at": "2025-10-25T13:12:53.221382"
+      }
     }
   }
 };
