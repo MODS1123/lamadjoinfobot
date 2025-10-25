@@ -786,6 +786,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-24T16:46:57.421843"
+    },
+    "D5GY": {
+      "discord_id": 1401304375657238549,
+      "discord_username": "kalis0612",
+      "discord_user": "kalis0612",
+      "discord_server_nick": "Ruble",
+      "created_at": "2025 25 10 11:07",
+      "expires_at": "2025 25 10 11:09",
+      "used": false
     }
   }
 };
