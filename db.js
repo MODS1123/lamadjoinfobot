@@ -872,6 +872,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T17:41:06.641170"
+    },
+    "V24S": {
+      "discord_id": 655411248661528576,
+      "discord_username": "huqxil",
+      "discord_user": "huqxil",
+      "discord_server_nick": "Jora",
+      "created_at": "2025 25 10 16:23",
+      "expires_at": "2025 25 10 16:25",
+      "used": false
     }
   }
 };
