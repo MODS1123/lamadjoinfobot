@@ -1007,6 +1007,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-25T22:42:47.956850"
+    },
+    "0QUY": {
+      "discord_id": 338766606769324034,
+      "discord_username": "smertb328",
+      "discord_user": "smertb328",
+      "discord_server_nick": "SMERTb",
+      "created_at": "2025 25 10 21:09",
+      "expires_at": "2025 25 10 21:11",
+      "used": false
     }
   }
 };
