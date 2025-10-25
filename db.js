@@ -917,7 +917,9 @@ module.exports = {
         "telegram_id": 1078387767,
         "telegram_username": "tochnox",
         "activated_at": "2025-10-25T19:38:50.316069"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-25T19:38:56.640516"
     }
   }
 };
