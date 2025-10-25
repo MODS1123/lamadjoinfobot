@@ -903,7 +903,10 @@ module.exports = {
         "activated_at": "2025-10-25T18:55:51.669346"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T18:55:59.195346"
+      "telegram_resubscribed_at": "2025-10-25T18:55:59.195346",
+      "discord_removed": true,
+      "discord_removed_at": "2025-10-25T19:54:33.139227Z",
+      "discord_removed_display_name": null
     },
     "CHTB": {
       "discord_id": 718406070938107915,
