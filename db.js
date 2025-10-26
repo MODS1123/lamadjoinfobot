@@ -1272,6 +1272,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T20:11:02.109899"
+    },
+    "ONF2": {
+      "discord_id": 417948993822261249,
+      "discord_username": "redzed3402",
+      "discord_user": "redzed3402",
+      "discord_server_nick": "Marginal",
+      "created_at": "2025 26 10 19:26",
+      "expires_at": "2025 26 10 19:28",
+      "used": false
     }
   }
 };
