@@ -1288,6 +1288,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T20:27:44.360079"
+    },
+    "FMB9": {
+      "discord_id": 966725208843112468,
+      "discord_username": "kasyki",
+      "discord_user": "kasyki",
+      "discord_server_nick": "Warty",
+      "created_at": "2025 26 10 20:03",
+      "expires_at": "2025 26 10 20:05",
+      "used": false
     }
   }
 };
