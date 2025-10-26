@@ -804,7 +804,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
       "telegram_unsubscribed_at": "2025-10-25T15:44:35.869902",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-26T14:06:16.843730Z",
+      "telegram_banned_at": "2025-10-26T14:11:28.782600Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
       "discord_removed_at": "2025-10-26T14:11:27.219117Z"
@@ -1160,6 +1160,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T14:52:44.546447"
+    },
+    "YZ7S": {
+      "discord_id": 398090288717103105,
+      "discord_username": "vaskoy.",
+      "discord_user": "vaskoy.",
+      "discord_server_nick": "Benji",
+      "created_at": "2025 26 10 14:09",
+      "expires_at": "2025 26 10 14:11",
+      "used": false
     }
   }
 };
