@@ -1128,6 +1128,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T13:58:05.237944"
+    },
+    "0ER8": {
+      "discord_id": 291572776555249666,
+      "discord_username": "dantisths",
+      "discord_user": "dantisths",
+      "discord_server_nick": "Valera",
+      "created_at": "2025 26 10 13:45",
+      "expires_at": "2025 26 10 13:47",
+      "used": false
     }
   }
 };
