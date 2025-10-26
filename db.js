@@ -1192,6 +1192,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T15:38:46.340705"
+    },
+    "OEO3": {
+      "discord_id": 809412052925808661,
+      "discord_username": "oritbum",
+      "discord_user": "oritbum",
+      "discord_server_nick": "Oritbum",
+      "created_at": "2025 26 10 16:47",
+      "expires_at": "2025 26 10 16:49",
+      "used": false
     }
   }
 };
