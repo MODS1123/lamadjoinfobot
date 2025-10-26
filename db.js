@@ -1055,6 +1055,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T00:04:58.301636"
+    },
+    "SDS0": {
+      "discord_id": 1380052333865472063,
+      "discord_username": "zimaxdx",
+      "discord_user": "zimaxdx",
+      "discord_server_nick": "ZIMA",
+      "created_at": "2025 26 10 08:04",
+      "expires_at": "2025 26 10 08:06",
+      "used": false
     }
   }
 };
