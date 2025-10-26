@@ -1208,15 +1208,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T17:49:04.770997"
-    },
-    "OE49": {
-      "discord_id": 972197263558447114,
-      "discord_username": "theslim4.",
-      "discord_user": "theslim4.",
-      "discord_server_nick": "Slim",
-      "created_at": "2025 26 10 16:47",
-      "expires_at": "2025 26 10 16:49",
-      "used": false
     }
   }
 };
