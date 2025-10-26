@@ -1248,7 +1248,12 @@ module.exports = {
       "discord_server_nick": "ArtekaMigalkin",
       "created_at": "2025 26 10 18:34",
       "expires_at": "2025 26 10 18:36",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5233552329,
+        "telegram_username": "Artem4ik30",
+        "activated_at": "2025-10-26T19:35:13.641567"
+      }
     }
   }
 };
