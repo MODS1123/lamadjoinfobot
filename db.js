@@ -1312,7 +1312,12 @@ module.exports = {
       "discord_server_nick": "Ricardo",
       "created_at": "2025 26 10 20:24",
       "expires_at": "2025 26 10 20:26",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 38557196,
+        "telegram_username": "senaa666",
+        "activated_at": "2025-10-26T21:25:13.384727"
+      }
     }
   }
 };
