@@ -1296,7 +1296,12 @@ module.exports = {
       "discord_server_nick": "Warty",
       "created_at": "2025 26 10 20:03",
       "expires_at": "2025 26 10 20:05",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 2094615799,
+        "telegram_username": "i3_12101f",
+        "activated_at": "2025-10-26T21:04:34.359702"
+      }
     }
   }
 };
