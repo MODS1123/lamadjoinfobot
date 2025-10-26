@@ -1096,6 +1096,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-26T11:44:53.716876",
       "last_invite_issued_at": "2025-10-26T11:45:34.572627",
       "invite_link_issued": true
+    },
+    "QKLD": {
+      "discord_id": 850020530115182632,
+      "discord_username": "mamskazalanet",
+      "discord_user": "mamskazalanet",
+      "discord_server_nick": "Jay",
+      "created_at": "2025 26 10 11:08",
+      "expires_at": "2025 26 10 11:10",
+      "used": false
     }
   }
 };
