@@ -1078,6 +1078,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T09:06:07.627747"
+    },
+    "LX9I": {
+      "discord_id": 1137691796282015764,
+      "discord_username": "laenito",
+      "discord_user": "laenito",
+      "discord_server_nick": "Romka",
+      "created_at": "2025 26 10 10:44",
+      "expires_at": "2025 26 10 10:46",
+      "used": false
     }
   }
 };
