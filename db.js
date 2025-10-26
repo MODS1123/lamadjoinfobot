@@ -807,7 +807,7 @@ module.exports = {
       "telegram_banned_at": "2025-10-26T19:03:19.582162Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-10-26T19:03:17.904067Z"
+      "discord_removed_at": "2025-10-26T19:08:30.463127Z"
     },
     "YNIU": {
       "discord_id": 356902862225408010,
@@ -1256,15 +1256,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T19:35:20.664142"
-    },
-    "IYUI": {
-      "discord_id": 299132728119394304,
-      "discord_username": "jarryk",
-      "discord_user": "jarryk",
-      "discord_server_nick": "Sen",
-      "created_at": "2025 26 10 19:08",
-      "expires_at": "2025 26 10 19:10",
-      "used": false
     }
   }
 };
