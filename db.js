@@ -1240,6 +1240,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T19:26:44.577507"
+    },
+    "1MH9": {
+      "discord_id": 903211391631106048,
+      "discord_username": "diper_284489",
+      "discord_user": "diper_284489",
+      "discord_server_nick": "ArtekaMigalkin",
+      "created_at": "2025 26 10 18:34",
+      "expires_at": "2025 26 10 18:36",
+      "used": false
     }
   }
 };
