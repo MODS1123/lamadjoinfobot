@@ -1063,7 +1063,12 @@ module.exports = {
       "discord_server_nick": "ZIMA",
       "created_at": "2025 26 10 08:04",
       "expires_at": "2025 26 10 08:06",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1440679866,
+        "telegram_username": "ZIMAxdx",
+        "activated_at": "2025-10-26T09:05:17.457747"
+      }
     }
   }
 };
