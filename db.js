@@ -1145,15 +1145,6 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T14:46:30.067999"
     },
-    "Q05B": {
-      "discord_id": 398090288717103105,
-      "discord_username": "vaskoy.",
-      "discord_user": "vaskoy.",
-      "discord_server_nick": "VASKOY",
-      "created_at": "2025 26 10 13:51",
-      "expires_at": "2025 26 10 13:53",
-      "used": false
-    },
     "9TBN": {
       "discord_id": 625060414153031690,
       "discord_username": "foby01",
