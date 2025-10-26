@@ -1280,7 +1280,12 @@ module.exports = {
       "discord_server_nick": "Marginal",
       "created_at": "2025 26 10 19:26",
       "expires_at": "2025 26 10 19:28",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1630922677,
+        "telegram_username": "kaneki_kek_00",
+        "activated_at": "2025-10-26T20:27:37.374602"
+      }
     }
   }
 };
