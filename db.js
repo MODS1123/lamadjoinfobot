@@ -1205,7 +1205,9 @@ module.exports = {
         "telegram_id": 6752724457,
         "telegram_username": "art_starlink",
         "activated_at": "2025-10-26T17:48:54.773943"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-26T17:49:04.770997"
     },
     "OE49": {
       "discord_id": 972197263558447114,
