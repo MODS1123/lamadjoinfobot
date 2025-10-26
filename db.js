@@ -1200,7 +1200,12 @@ module.exports = {
       "discord_server_nick": "Oritbum",
       "created_at": "2025 26 10 16:47",
       "expires_at": "2025 26 10 16:49",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 6752724457,
+        "telegram_username": "art_starlink",
+        "activated_at": "2025-10-26T17:48:54.773943"
+      }
     },
     "OE49": {
       "discord_id": 972197263558447114,
