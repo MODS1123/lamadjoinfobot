@@ -807,7 +807,7 @@ module.exports = {
       "telegram_banned_at": "2025-10-26T19:50:17.595206Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-10-26T19:50:15.614470Z"
+      "discord_removed_at": "2025-10-26T19:55:28.574501Z"
     },
     "YNIU": {
       "discord_id": 356902862225408010,
