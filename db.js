@@ -1208,6 +1208,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T17:49:04.770997"
+    },
+    "9VDZ": {
+      "discord_id": 307409861446991892,
+      "discord_username": "korka2232",
+      "discord_user": "korka2232",
+      "discord_server_nick": "Kai",
+      "created_at": "2025 26 10 18:08",
+      "expires_at": "2025 26 10 18:10",
+      "used": false
     }
   }
 };
