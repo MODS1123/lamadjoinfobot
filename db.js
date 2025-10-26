@@ -1176,6 +1176,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T15:14:05.008787"
+    },
+    "G54C": {
+      "discord_id": 664355392654016532,
+      "discord_username": "ferrari4525",
+      "discord_user": "ferrari4525",
+      "discord_server_nick": "Justin",
+      "created_at": "2025 26 10 14:38",
+      "expires_at": "2025 26 10 14:40",
+      "used": false
     }
   }
 };
