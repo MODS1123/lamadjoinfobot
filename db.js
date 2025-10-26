@@ -1112,15 +1112,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T12:09:25.066798"
-    },
-    "FGCU": {
-      "discord_id": 805056348139946025,
-      "discord_username": "carbonov",
-      "discord_user": "carbonov",
-      "discord_server_nick": "Salvatore",
-      "created_at": "2025 26 10 12:55",
-      "expires_at": "2025 26 10 12:57",
-      "used": false
     }
   }
 };
