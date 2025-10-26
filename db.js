@@ -1224,6 +1224,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T19:09:48.850077"
+    },
+    "BBZ3": {
+      "discord_id": 719602745010552844,
+      "discord_username": "wastyyyy",
+      "discord_user": "wastyyyy",
+      "discord_server_nick": "суп",
+      "created_at": "2025 26 10 18:24",
+      "expires_at": "2025 26 10 18:26",
+      "used": false
     }
   }
 };
