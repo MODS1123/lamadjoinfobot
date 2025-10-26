@@ -1304,6 +1304,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T21:04:38.758280"
+    },
+    "P5JB": {
+      "discord_id": 693547051165810726,
+      "discord_username": "valeko66",
+      "discord_user": "valeko66",
+      "discord_server_nick": "Ricardo",
+      "created_at": "2025 26 10 20:24",
+      "expires_at": "2025 26 10 20:26",
+      "used": false
     }
   }
 };
