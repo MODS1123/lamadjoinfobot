@@ -854,14 +854,15 @@ module.exports = {
         "telegram_username": "sssssssassssssssssas",
         "activated_at": "2025-10-25T17:39:37.956468"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T17:39:44.929201",
       "discord_removed": true,
       "discord_removed_at": "2025-10-26T10:16:12.253838Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-10-26T10:16:18.846379Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-10-26T11:16:21.790285"
     },
     "J6C8": {
       "discord_id": 602936524383715328,
