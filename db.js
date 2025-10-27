@@ -1384,6 +1384,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T17:28:40.775479"
+    },
+    "9PNA": {
+      "discord_id": 820712380157657148,
+      "discord_username": "vadikk07",
+      "discord_user": "vadikk07",
+      "discord_server_nick": "Vados",
+      "created_at": "2025 27 10 16:50",
+      "expires_at": "2025 27 10 16:52",
+      "used": false
     }
   }
 };
