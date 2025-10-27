@@ -1368,6 +1368,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T17:15:48.048998"
+    },
+    "M5OB": {
+      "discord_id": 1354010937434050591,
+      "discord_username": "frogstar11_95321",
+      "discord_user": "frogstar11_95321",
+      "discord_server_nick": "Ferruccio",
+      "created_at": "2025 27 10 16:26",
+      "expires_at": "2025 27 10 16:28",
+      "used": false
     }
   }
 };
