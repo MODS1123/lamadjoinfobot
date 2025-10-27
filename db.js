@@ -1352,6 +1352,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T13:30:23.102847"
+    },
+    "S4H3": {
+      "discord_id": 1321622722153021491,
+      "discord_username": "pakhan01",
+      "discord_user": "pakhan01",
+      "discord_server_nick": "Vinicius",
+      "created_at": "2025 27 10 16:15",
+      "expires_at": "2025 27 10 16:17",
+      "used": false
     }
   }
 };
