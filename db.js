@@ -1320,6 +1320,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-26T21:25:20.109291"
+    },
+    "R7Q5": {
+      "discord_id": 951516261152591932,
+      "discord_username": "raptor_titan54",
+      "discord_user": "raptor_titan54",
+      "discord_server_nick": "Arkasha",
+      "created_at": "2025 27 10 12:15",
+      "expires_at": "2025 27 10 12:17",
+      "used": false
     }
   }
 };
