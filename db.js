@@ -1400,6 +1400,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T17:51:55.747935"
+    },
+    "ZOG1": {
+      "discord_id": 300348680752594955,
+      "discord_username": "mzzfk",
+      "discord_user": "mzzfk",
+      "discord_server_nick": "LorenzoManetti",
+      "created_at": "2025 27 10 18:23",
+      "expires_at": "2025 27 10 18:25",
+      "used": false
     }
   }
 };
