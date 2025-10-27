@@ -1416,6 +1416,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T19:24:49.922412"
+    },
+    "UI6L": {
+      "discord_id": 477446898337447936,
+      "discord_username": "ryansell",
+      "discord_user": "ryansell",
+      "discord_server_nick": "Ryan",
+      "created_at": "2025 27 10 21:52",
+      "expires_at": "2025 27 10 21:54",
+      "used": false
     }
   }
 };
