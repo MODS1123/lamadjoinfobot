@@ -1408,7 +1408,12 @@ module.exports = {
       "discord_server_nick": "LorenzoManetti",
       "created_at": "2025 27 10 18:23",
       "expires_at": "2025 27 10 18:25",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 632691470,
+        "telegram_username": "maZZafakaa",
+        "activated_at": "2025-10-27T19:24:41.546429"
+      }
     }
   }
 };
