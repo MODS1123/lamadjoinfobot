@@ -1328,7 +1328,12 @@ module.exports = {
       "discord_server_nick": "Arkasha",
       "created_at": "2025 27 10 12:15",
       "expires_at": "2025 27 10 12:17",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5238173344,
+        "telegram_username": null,
+        "activated_at": "2025-10-27T13:15:53.708182"
+      }
     }
   }
 };
