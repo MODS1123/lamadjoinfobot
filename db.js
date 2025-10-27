@@ -1432,6 +1432,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T22:53:35.180306"
+    },
+    "FCM2": {
+      "discord_id": 1212280996284596225,
+      "discord_username": "zardennn_81743",
+      "discord_user": "zardennn_81743",
+      "discord_server_nick": "Zardennn",
+      "created_at": "2025 27 10 22:04",
+      "expires_at": "2025 27 10 22:06",
+      "used": false
     }
   }
 };
