@@ -1336,6 +1336,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T13:15:56.223017"
+    },
+    "I18M": {
+      "discord_id": 477530210305048576,
+      "discord_username": "papabob.",
+      "discord_user": "papabob.",
+      "discord_server_nick": "Bob",
+      "created_at": "2025 27 10 12:29",
+      "expires_at": "2025 27 10 12:31",
+      "used": false
     }
   }
 };
