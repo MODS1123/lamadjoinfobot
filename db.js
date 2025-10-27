@@ -1448,6 +1448,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T23:05:36.771716"
+    },
+    "IYOP": {
+      "discord_id": 1087445981366321293,
+      "discord_username": "amori_rivera",
+      "discord_user": "amori_rivera",
+      "discord_server_nick": "FloydSavage",
+      "created_at": "2025 27 10 22:16",
+      "expires_at": "2025 27 10 22:18",
+      "used": false
     }
   }
 };
