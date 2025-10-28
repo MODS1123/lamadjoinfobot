@@ -1504,11 +1504,18 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-28T05:45:36.730898",
       "last_invite_issued_at": "2025-10-28T08:46:31.515648",
-      "invite_link_issued": true,
       "telegram_unsubscribed_at": "2025-10-28T08:49:23.535494",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-10-28T08:49:23.585870",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_at": "2025-10-28T08:50:02.059602",
+      "telegram_unbanned_by": {
+        "moderator_id": 921182112,
+        "moderator_username": "Alberto114"
+      },
+      "grace_period_until": "2025-10-28T20:50:02.059620",
+      "telegram_unban_previous_reason": "unsubscribed"
     }
   }
 };
