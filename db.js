@@ -1558,7 +1558,12 @@ module.exports = {
       "discord_server_nick": "стицько",
       "created_at": "2025 28 10 22:10",
       "expires_at": "2025 28 10 22:12",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 8183564171,
+        "telegram_username": "MOHCTP_CBO",
+        "activated_at": "2025-10-28T23:10:59.905220"
+      }
     }
   }
 };
