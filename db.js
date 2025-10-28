@@ -1532,7 +1532,12 @@ module.exports = {
       "discord_server_nick": "codeinvv",
       "created_at": "2025 28 10 13:59",
       "expires_at": "2025 28 10 14:01",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 7744878056,
+        "telegram_username": "peacefulfreak",
+        "activated_at": "2025-10-28T14:59:44.985359"
+      }
     }
   }
 };
