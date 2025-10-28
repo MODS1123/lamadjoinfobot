@@ -466,9 +466,7 @@ module.exports = {
       },
       "grace_period_until": "2025-10-28T22:55:46.848161",
       "telegram_unban_previous_reason": "unsubscribed",
-      "telegram_subscribed_at": "2025-10-28T10:56:19.849973",
-      "last_invite_issued_at": "2025-10-28T10:58:01.481415",
-      "invite_link_issued": true
+      "telegram_subscribed_at": "2025-10-28T10:56:19.849973"
     },
     "7DXF": {
       "discord_id": 1375363925096398910,
