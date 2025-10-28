@@ -480,16 +480,17 @@ module.exports = {
         "telegram_username": "hutlch",
         "activated_at": "2025-10-23T18:31:15.381840"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-23T18:31:17.665394",
       "last_invite_issued_at": "2025-10-23T18:31:45.815182",
       "invite_link_issued": true,
       "discord_removed": true,
       "discord_removed_at": "2025-10-28T10:49:24.747945Z",
       "discord_removed_display_name": null,
+      "telegram_unsubscribed_at": "2025-10-28T11:49:27.487888",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-28T10:49:26.370482Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_banned_at": "2025-10-28T11:49:27.547952",
+      "telegram_ban_reason": "unsubscribed"
     },
     "O8SF": {
       "discord_id": 374538068134199296,
