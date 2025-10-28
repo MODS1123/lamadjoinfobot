@@ -459,14 +459,14 @@ module.exports = {
       "telegram_banned": false,
       "telegram_banned_at": "2025-10-23T19:25:02.450457",
       "telegram_unsubscribed": false,
-      "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-10-28T10:55:46.848150",
       "telegram_unbanned_by": {
         "moderator_id": 528167960,
         "moderator_username": "Lex_M_A_V"
       },
       "grace_period_until": "2025-10-28T22:55:46.848161",
-      "telegram_unban_previous_reason": "unsubscribed"
+      "telegram_unban_previous_reason": "unsubscribed",
+      "telegram_subscribed_at": "2025-10-28T10:56:19.849973"
     },
     "7DXF": {
       "discord_id": 1375363925096398910,
