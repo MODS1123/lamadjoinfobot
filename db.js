@@ -1550,15 +1550,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-28T14:59:51.596208"
-    },
-    "64BO": {
-      "discord_id": 665953451926356046,
-      "discord_username": "nexhenjj",
-      "discord_user": "nexhenjj",
-      "discord_server_nick": "стицько",
-      "created_at": "2025 28 10 22:08",
-      "expires_at": "2025 28 10 22:10",
-      "used": false
     }
   }
 };
