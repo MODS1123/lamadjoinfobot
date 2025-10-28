@@ -1563,7 +1563,9 @@ module.exports = {
         "telegram_id": 8183564171,
         "telegram_username": "MOHCTP_CBO",
         "activated_at": "2025-10-28T23:10:59.905220"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-28T23:11:04.475159"
     }
   }
 };
