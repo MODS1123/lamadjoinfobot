@@ -486,7 +486,10 @@ module.exports = {
       "invite_link_issued": true,
       "discord_removed": true,
       "discord_removed_at": "2025-10-28T10:49:24.747945Z",
-      "discord_removed_display_name": null
+      "discord_removed_display_name": null,
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-28T10:49:26.370482Z",
+      "telegram_ban_reason": "discord_removed_event"
     },
     "O8SF": {
       "discord_id": 374538068134199296,
