@@ -1566,6 +1566,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-28T23:11:04.475159"
+    },
+    "2FTB": {
+      "discord_id": 824327858930843729,
+      "discord_username": "___imperious___",
+      "discord_user": "___imperious___",
+      "discord_server_nick": "Imperious",
+      "created_at": "2025 28 10 22:38",
+      "expires_at": "2025 28 10 22:40",
+      "used": false
     }
   }
 };
