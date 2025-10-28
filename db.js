@@ -1449,7 +1449,10 @@ module.exports = {
         "activated_at": "2025-10-27T22:53:16.929681"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T22:53:35.180306"
+      "telegram_resubscribed_at": "2025-10-27T22:53:35.180306",
+      "discord_removed": true,
+      "discord_removed_at": "2025-10-28T18:48:10.763615Z",
+      "discord_removed_display_name": null
     },
     "FCM2": {
       "discord_id": 1212280996284596225,
