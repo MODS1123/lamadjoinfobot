@@ -1316,8 +1316,12 @@ module.exports = {
         "telegram_username": "i3_12101f",
         "activated_at": "2025-10-26T21:04:34.359702"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T21:04:38.758280"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T21:04:38.758280",
+      "telegram_unsubscribed_at": "2025-10-28T16:52:32.803872",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-28T16:52:33.641765",
+      "telegram_ban_reason": "unsubscribed"
     },
     "P5JB": {
       "discord_id": 693547051165810726,
