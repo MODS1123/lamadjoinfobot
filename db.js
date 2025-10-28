@@ -1524,6 +1524,15 @@ module.exports = {
       "telegram_banned_at": "2025-10-28T08:49:23.585870",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-10-28T08:51:47.451253"
+    },
+    "VQR5": {
+      "discord_id": 950025607197114369,
+      "discord_username": "codein0vv",
+      "discord_user": "codein0vv",
+      "discord_server_nick": "codeinvv",
+      "created_at": "2025 28 10 13:59",
+      "expires_at": "2025 28 10 14:01",
+      "used": false
     }
   }
 };
