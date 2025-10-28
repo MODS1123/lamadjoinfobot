@@ -1464,6 +1464,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-27T23:17:38.461869"
+    },
+    "83D6": {
+      "discord_id": 1156200614355808377,
+      "discord_username": "aboba0900",
+      "discord_user": "aboba0900",
+      "discord_server_nick": "Matusha",
+      "created_at": "2025 28 10 03:30",
+      "expires_at": "2025 28 10 03:32",
+      "used": false
     }
   }
 };
