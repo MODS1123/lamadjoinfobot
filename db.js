@@ -804,7 +804,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
       "telegram_unsubscribed_at": "2025-10-25T15:44:35.869902",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-28T08:24:43.261451Z",
+      "telegram_banned_at": "2025-10-28T08:29:58.824784Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
       "discord_removed_at": "2025-10-28T08:29:57.332820Z"
