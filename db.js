@@ -483,7 +483,10 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-23T18:31:17.665394",
       "last_invite_issued_at": "2025-10-23T18:31:45.815182",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "discord_removed": true,
+      "discord_removed_at": "2025-10-28T10:49:24.747945Z",
+      "discord_removed_display_name": null
     },
     "O8SF": {
       "discord_id": 374538068134199296,
