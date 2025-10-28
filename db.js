@@ -1480,6 +1480,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-28T04:31:23.897140"
+    },
+    "UK44": {
+      "discord_id": 702642974097408131,
+      "discord_username": "paranooia",
+      "discord_user": "paranooia",
+      "discord_server_nick": "Ocean",
+      "created_at": "2025 28 10 04:44",
+      "expires_at": "2025 28 10 04:46",
+      "used": false
     }
   }
 };
