@@ -1641,6 +1641,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-29T21:34:51.050310"
+    },
+    "SB7K": {
+      "discord_id": 720703424785809489,
+      "discord_username": "alehandro9567",
+      "discord_user": "alehandro9567",
+      "discord_server_nick": "Puzya",
+      "created_at": "2025 29 10 22:08",
+      "expires_at": "2025 29 10 22:10",
+      "used": false
     }
   }
 };
