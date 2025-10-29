@@ -929,7 +929,7 @@ module.exports = {
       "discord_removed_at": "2025-10-29T11:59:49.282531Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-29T11:54:30.958519Z",
+      "telegram_banned_at": "2025-10-29T11:59:50.764458Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-25T21:54:39.821310"
     },
