@@ -1625,6 +1625,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-29T13:31:18.029952"
+    },
+    "9Z7S": {
+      "discord_id": 546974056818147329,
+      "discord_username": ".senseen",
+      "discord_user": ".senseen",
+      "discord_server_nick": "Senseen",
+      "created_at": "2025 29 10 20:34",
+      "expires_at": "2025 29 10 20:36",
+      "used": false
     }
   }
 };
