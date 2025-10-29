@@ -1493,14 +1493,15 @@ module.exports = {
         "telegram_username": "PokaMoIodoi",
         "activated_at": "2025-10-27T23:17:32.557064"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-27T23:17:38.461869",
       "discord_removed": true,
       "discord_removed_at": "2025-10-29T18:24:04.354490Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-10-29T18:24:05.736612Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-10-29T19:24:12.402348"
     },
     "83D6": {
       "discord_id": 1156200614355808377,
