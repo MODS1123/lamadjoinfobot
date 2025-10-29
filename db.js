@@ -1602,6 +1602,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-29T13:11:57.770400",
       "last_invite_issued_at": "2025-10-29T13:12:02.783026",
       "invite_link_issued": true
+    },
+    "QH8X": {
+      "discord_id": 432510354107531264,
+      "discord_username": "dopamine7115",
+      "discord_user": "dopamine7115",
+      "discord_server_nick": "dopamine",
+      "created_at": "2025 29 10 12:30",
+      "expires_at": "2025 29 10 12:32",
+      "used": false
     }
   }
 };
