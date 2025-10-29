@@ -1592,7 +1592,12 @@ module.exports = {
       "discord_server_nick": "Lipton",
       "created_at": "2025 29 10 12:11",
       "expires_at": "2025 29 10 12:13",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5705479028,
+        "telegram_username": "gaddd1",
+        "activated_at": "2025-10-29T13:11:37.442263"
+      }
     }
   }
 };
