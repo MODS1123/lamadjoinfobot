@@ -1476,7 +1476,7 @@ module.exports = {
       "discord_removed_at": "2025-10-29T12:10:34.225322Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-29T12:05:16.336365Z",
+      "telegram_banned_at": "2025-10-29T12:10:36.273286Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-28T07:41:51.855618"
     },
@@ -1584,15 +1584,6 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-28T23:39:56.240634",
       "last_invite_issued_at": "2025-10-28T23:40:25.352668",
       "invite_link_issued": true
-    },
-    "83YG": {
-      "discord_id": 1324076549821038643,
-      "discord_username": "gaddd1",
-      "discord_user": "gaddd1",
-      "discord_server_nick": "Lipton",
-      "created_at": "2025 29 10 12:10",
-      "expires_at": "2025 29 10 12:12",
-      "used": false
     }
   }
 };
