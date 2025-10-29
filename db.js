@@ -1657,6 +1657,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-29T23:09:53.224477"
+    },
+    "XND0": {
+      "discord_id": 885108195981393961,
+      "discord_username": "musa_6564",
+      "discord_user": "musa_6564",
+      "discord_server_nick": "SnusovMusa",
+      "created_at": "2025 29 10 22:11",
+      "expires_at": "2025 29 10 22:13",
+      "used": false
     }
   }
 };
