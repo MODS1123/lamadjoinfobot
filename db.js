@@ -818,7 +818,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
       "telegram_unsubscribed_at": "2025-10-25T15:44:35.869902",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-29T23:07:59.342104Z",
+      "telegram_banned_at": "2025-10-29T23:02:38.078105Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
       "discord_removed_at": "2025-10-29T23:07:57.580962Z"
@@ -871,10 +871,10 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T17:39:44.929201",
       "discord_removed": true,
-      "discord_removed_at": "2025-10-29T23:08:00.637813Z",
+      "discord_removed_at": "2025-10-29T23:02:39.500641Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-10-29T23:08:02.259910Z",
+      "telegram_banned_at": "2025-10-29T23:02:41.135197Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-26T11:16:21.790285"
     },
@@ -1681,7 +1681,12 @@ module.exports = {
       "discord_server_nick": "Papaha",
       "created_at": "2025 29 10 23:07",
       "expires_at": "2025 29 10 23:09",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 974166732,
+        "telegram_username": "hairka52",
+        "activated_at": "2025-10-30T00:07:59.963704"
+      }
     }
   }
 };
