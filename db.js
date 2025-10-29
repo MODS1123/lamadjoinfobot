@@ -1610,7 +1610,12 @@ module.exports = {
       "discord_server_nick": "dopamine",
       "created_at": "2025 29 10 12:30",
       "expires_at": "2025 29 10 12:32",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 730106047,
+        "telegram_username": "Ceves",
+        "activated_at": "2025-10-29T13:31:12.592567"
+      }
     }
   }
 };
