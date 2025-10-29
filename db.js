@@ -1681,7 +1681,12 @@ module.exports = {
       "discord_server_nick": "Papaha",
       "created_at": "2025 29 10 23:09",
       "expires_at": "2025 29 10 23:11",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 974166732,
+        "telegram_username": "hairka52",
+        "activated_at": "2025-10-30T00:09:40.721119"
+      }
     }
   }
 };
