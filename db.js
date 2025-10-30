@@ -1752,6 +1752,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-30T22:28:02.462423"
+    },
+    "QMH2": {
+      "discord_id": 1252031916589453335,
+      "discord_username": "mimemame",
+      "discord_user": "mimemame",
+      "discord_server_nick": "Victor",
+      "created_at": "2025 30 10 21:34",
+      "expires_at": "2025 30 10 21:36",
+      "used": false
     }
   }
 };
