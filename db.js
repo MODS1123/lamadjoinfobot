@@ -605,7 +605,9 @@ module.exports = {
         "moderator_username": "Lex_M_A_V"
       },
       "grace_period_until": "2025-10-31T07:38:25.575332",
-      "telegram_unban_previous_reason": "unsubscribed"
+      "telegram_unban_previous_reason": "unsubscribed",
+      "last_invite_issued_at": "2025-10-30T19:43:27.610912",
+      "invite_link_issued": true
     },
     "ZAWJ": {
       "discord_id": 871440613248229436,
