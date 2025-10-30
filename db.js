@@ -1810,7 +1810,12 @@ module.exports = {
       "discord_server_nick": "R_vi_",
       "created_at": "2025 30 10 22:14",
       "expires_at": "2025 30 10 22:16",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 800595137,
+        "telegram_username": "Rimmochka_Viktorovna",
+        "activated_at": "2025-10-30T23:15:48.845189"
+      }
     }
   }
 };
