@@ -1504,7 +1504,7 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-27T23:17:38.461869",
       "discord_removed": true,
-      "discord_removed_at": "2025-10-30T15:41:59.989061Z",
+      "discord_removed_at": "2025-10-30T15:47:23.065421Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-10-30T15:42:01.594696Z",
