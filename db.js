@@ -585,8 +585,12 @@ module.exports = {
         "telegram_username": "Pina_Colaadaa",
         "activated_at": "2025-10-23T19:20:07.347682"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-23T19:20:18.747982"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-23T19:20:18.747982",
+      "telegram_unsubscribed_at": "2025-10-30T03:05:41.089918",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-30T03:05:42.654227",
+      "telegram_ban_reason": "unsubscribed"
     },
     "ZAWJ": {
       "discord_id": 871440613248229436,
