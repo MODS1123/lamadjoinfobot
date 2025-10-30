@@ -1815,7 +1815,9 @@ module.exports = {
         "telegram_id": 800595137,
         "telegram_username": "Rimmochka_Viktorovna",
         "activated_at": "2025-10-30T23:15:48.845189"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-30T23:15:58.550924"
     }
   }
 };
