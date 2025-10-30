@@ -1784,6 +1784,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-30T22:55:10.864990"
+    },
+    "XJYC": {
+      "discord_id": 468513276960178236,
+      "discord_username": "eelmmf",
+      "discord_user": "eelmmf",
+      "discord_server_nick": "ХошиБатиста",
+      "created_at": "2025 30 10 22:01",
+      "expires_at": "2025 30 10 22:03",
+      "used": false
     }
   }
 };
