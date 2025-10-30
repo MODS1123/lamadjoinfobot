@@ -1792,7 +1792,12 @@ module.exports = {
       "discord_server_nick": "ХошиБатиста",
       "created_at": "2025 30 10 22:01",
       "expires_at": "2025 30 10 22:03",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 973207088,
+        "telegram_username": "ihateyouab",
+        "activated_at": "2025-10-30T23:02:14.257104"
+      }
     }
   }
 };
