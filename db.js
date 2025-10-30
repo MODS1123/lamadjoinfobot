@@ -1749,7 +1749,9 @@ module.exports = {
         "telegram_id": 1893879123,
         "telegram_username": "Konstantintatum",
         "activated_at": "2025-10-30T22:27:53.276624"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-30T22:28:02.462423"
     }
   }
 };
