@@ -1802,6 +1802,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-30T23:02:29.954741",
       "last_invite_issued_at": "2025-10-30T23:02:35.601909",
       "invite_link_issued": true
+    },
+    "NAAS": {
+      "discord_id": 1408009557443219529,
+      "discord_username": "rimma123rus",
+      "discord_user": "rimma123rus",
+      "discord_server_nick": "R_vi_",
+      "created_at": "2025 30 10 22:14",
+      "expires_at": "2025 30 10 22:16",
+      "used": false
     }
   }
 };
