@@ -173,7 +173,10 @@ module.exports = {
         "activated_at": "2025-10-14T17:49:29.862618"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-14T17:49:33.018257"
+      "telegram_resubscribed_at": "2025-10-14T17:49:33.018257",
+      "discord_removed": true,
+      "discord_removed_at": "2025-10-30T17:37:18.784027Z",
+      "discord_removed_display_name": null
     },
     "WKCX": {
       "discord_id": 1175932260176900156,
