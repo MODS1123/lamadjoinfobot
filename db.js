@@ -1204,8 +1204,12 @@ module.exports = {
         "telegram_username": "Ferrari2245",
         "activated_at": "2025-10-26T15:38:37.487207"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T15:38:46.340705"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T15:38:46.340705",
+      "telegram_unsubscribed_at": "2025-10-30T03:05:17.831396",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-10-30T03:05:19.032481",
+      "telegram_ban_reason": "unsubscribed"
     },
     "OEO3": {
       "discord_id": 809412052925808661,
