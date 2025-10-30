@@ -1744,7 +1744,12 @@ module.exports = {
       "discord_server_nick": "AngelCamorra",
       "created_at": "2025 30 10 21:27",
       "expires_at": "2025 30 10 21:29",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1893879123,
+        "telegram_username": "Konstantintatum",
+        "activated_at": "2025-10-30T22:27:53.276624"
+      }
     }
   }
 };
