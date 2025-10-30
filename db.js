@@ -1736,6 +1736,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-30T20:58:36.882604"
+    },
+    "8Z1Y": {
+      "discord_id": 446049853059891241,
+      "discord_username": "konstantintatum",
+      "discord_user": "konstantintatum",
+      "discord_server_nick": "AngelCamorra",
+      "created_at": "2025 30 10 21:25",
+      "expires_at": "2025 30 10 21:27",
+      "used": false
     }
   }
 };
