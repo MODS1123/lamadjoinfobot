@@ -1720,6 +1720,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-10-30T00:09:50.062952"
+    },
+    "JF5S": {
+      "discord_id": 989235828372946994,
+      "discord_username": "mops9115",
+      "discord_user": "mops9115",
+      "discord_server_nick": "Don",
+      "created_at": "2025 30 10 19:56",
+      "expires_at": "2025 30 10 19:58",
+      "used": false
     }
   }
 };
