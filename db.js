@@ -1839,7 +1839,9 @@ module.exports = {
         "telegram_id": 6574777818,
         "telegram_username": "idnkcr",
         "activated_at": "2025-11-01T19:32:13.518689"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-01T19:33:10.449349"
     }
   }
 };
