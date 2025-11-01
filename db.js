@@ -444,8 +444,12 @@ module.exports = {
         "telegram_username": "j0ohnyy",
         "activated_at": "2025-10-23T18:08:07.542111"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-23T18:08:11.024133"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-23T18:08:11.024133",
+      "telegram_unsubscribed_at": "2025-11-01T22:57:26.037536",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-01T22:57:26.171267",
+      "telegram_ban_reason": "unsubscribed"
     },
     "YI0F": {
       "discord_id": 590607061331476524,
