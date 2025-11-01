@@ -1850,7 +1850,12 @@ module.exports = {
       "discord_server_nick": "Sim",
       "created_at": "2025 01 11 19:57",
       "expires_at": "2025 01 11 19:59",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5840526213,
+        "telegram_username": "simsolobimm",
+        "activated_at": "2025-11-01T20:57:39.026263"
+      }
     }
   }
 };
