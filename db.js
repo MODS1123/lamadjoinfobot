@@ -842,10 +842,10 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
       "telegram_unsubscribed_at": "2025-10-25T15:44:35.869902",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-01T22:23:05.802573Z",
+      "telegram_banned_at": "2025-11-01T22:28:44.049071Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-01T22:23:04.157932Z"
+      "discord_removed_at": "2025-11-01T22:28:42.683307Z"
     },
     "YNIU": {
       "discord_id": 356902862225408010,
@@ -895,10 +895,10 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T17:39:44.929201",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-01T22:23:07.164978Z",
+      "discord_removed_at": "2025-11-01T22:28:45.936598Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-01T22:23:08.819183Z",
+      "telegram_banned_at": "2025-11-01T22:28:47.801107Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-26T11:16:21.790285"
     },
@@ -1599,12 +1599,8 @@ module.exports = {
         "telegram_username": "MOHCTP_CBO",
         "activated_at": "2025-10-28T23:10:59.905220"
       },
-      "telegram_subscribed": false,
-      "telegram_resubscribed_at": "2025-10-28T23:11:04.475159",
-      "telegram_unsubscribed_at": "2025-11-01T23:28:47.687293",
-      "telegram_banned": true,
-      "telegram_banned_at": "2025-11-01T23:28:47.796852",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-10-28T23:11:04.475159"
     },
     "2FTB": {
       "discord_id": 824327858930843729,
