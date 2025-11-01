@@ -891,7 +891,7 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T17:39:44.929201",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-01T18:31:00.318312Z",
+      "discord_removed_at": "2025-11-01T18:25:29.594420Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-01T18:25:30.980913Z",
@@ -1826,6 +1826,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-30T23:15:58.550924",
       "last_invite_issued_at": "2025-10-30T23:19:04.968742",
       "invite_link_issued": true
+    },
+    "W19Q": {
+      "discord_id": 867470973023158292,
+      "discord_username": "alinadkush",
+      "discord_user": "alinadkush",
+      "discord_server_nick": "Jonathan",
+      "created_at": "2025 01 11 18:31",
+      "expires_at": "2025 01 11 18:33",
+      "used": false
     }
   }
 };
