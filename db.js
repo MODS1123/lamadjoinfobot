@@ -1599,8 +1599,12 @@ module.exports = {
         "telegram_username": "MOHCTP_CBO",
         "activated_at": "2025-10-28T23:10:59.905220"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-28T23:11:04.475159"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-28T23:11:04.475159",
+      "telegram_unsubscribed_at": "2025-11-01T23:29:13.768766",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-01T23:29:13.825289",
+      "telegram_ban_reason": "unsubscribed"
     },
     "2FTB": {
       "discord_id": 824327858930843729,
@@ -1654,7 +1658,7 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-29T13:31:18.029952",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-01T22:29:10.762028Z",
+      "discord_removed_at": "2025-11-01T22:23:22.020064Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-01T22:23:23.335024Z",
