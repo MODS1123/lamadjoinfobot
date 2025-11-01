@@ -1826,6 +1826,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-30T23:15:58.550924",
       "last_invite_issued_at": "2025-10-30T23:19:04.968742",
       "invite_link_issued": true
+    },
+    "5MJD": {
+      "discord_id": 867470973023158292,
+      "discord_username": "alinadkush",
+      "discord_user": "alinadkush",
+      "discord_server_nick": "Jonathan",
+      "created_at": "2025 01 11 18:32",
+      "expires_at": "2025 01 11 18:34",
+      "used": false
     }
   }
 };
