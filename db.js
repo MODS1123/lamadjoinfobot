@@ -1842,6 +1842,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-01T19:33:10.449349"
+    },
+    "677J": {
+      "discord_id": 380023243907792907,
+      "discord_username": "simsolobim",
+      "discord_user": "simsolobim",
+      "discord_server_nick": "Sim",
+      "created_at": "2025 01 11 19:54",
+      "expires_at": "2025 01 11 19:56",
+      "used": false
     }
   }
 };
