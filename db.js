@@ -2279,6 +2279,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T18:59:26.135889"
+    },
+    "X920": {
+      "discord_id": 1399747125591408694,
+      "discord_username": "leoleon001",
+      "discord_user": "leoleon001",
+      "discord_server_nick": "Tujeo",
+      "created_at": "2025 02 11 18:27",
+      "expires_at": "2025 02 11 18:29",
+      "used": false
     }
   }
 };
