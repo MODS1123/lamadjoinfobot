@@ -2297,6 +2297,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T19:33:00.508316",
       "last_invite_issued_at": "2025-11-02T19:34:12.709218",
       "invite_link_issued": true
+    },
+    "1ZEX": {
+      "discord_id": 764189498257965107,
+      "discord_username": "dzherka_",
+      "discord_user": "dzherka_",
+      "discord_server_nick": "Jerry",
+      "created_at": "2025 02 11 21:08",
+      "expires_at": "2025 02 11 21:10",
+      "used": false
     }
   }
 };
