@@ -2276,7 +2276,9 @@ module.exports = {
         "telegram_id": 727815606,
         "telegram_username": "GusiRaze",
         "activated_at": "2025-11-02T18:59:18.203949"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-02T18:59:26.135889"
     }
   }
 };
