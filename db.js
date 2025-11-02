@@ -930,11 +930,11 @@ module.exports = {
         "telegram_username": "pe7ryazh",
         "activated_at": "2025-10-24T13:11:42.280322"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:13.089051",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:46.649478",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:46.687656",
+      "telegram_unsubscribed_at": "2025-11-02T11:36:50.351616",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T11:36:50.487387",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:13.151550"
     },
