@@ -931,8 +931,12 @@ module.exports = {
         "telegram_username": "huqxi",
         "activated_at": "2025-10-25T18:24:27.295848"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T18:25:18.397003"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T18:25:18.397003",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.464929",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.498695",
+      "telegram_ban_reason": "unsubscribed"
     },
     "1I3V": {
       "discord_id": 490479689345925133,
@@ -970,8 +974,12 @@ module.exports = {
         "telegram_username": "tochnox",
         "activated_at": "2025-10-25T19:38:50.316069"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T19:38:56.640516"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T19:38:56.640516",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.530022",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.559134",
+      "telegram_ban_reason": "unsubscribed"
     },
     "QMEP": {
       "discord_id": 1145655089554526228,
@@ -986,8 +994,12 @@ module.exports = {
         "telegram_username": "rodyga33",
         "activated_at": "2025-10-25T20:08:43.911797"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T20:08:50.609825"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T20:08:50.609825",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.574721",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.606087",
+      "telegram_ban_reason": "unsubscribed"
     },
     "FDYZ": {
       "discord_id": 832774984350826496,
@@ -1002,8 +1014,12 @@ module.exports = {
         "telegram_username": "igenusman",
         "activated_at": "2025-10-25T20:21:18.217426"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T20:21:22.492505"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T20:21:22.492505",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.620879",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.652697",
+      "telegram_ban_reason": "unsubscribed"
     },
     "YDVI": {
       "discord_id": 1265666964291059734,
@@ -1018,8 +1034,12 @@ module.exports = {
         "telegram_username": null,
         "activated_at": "2025-10-25T21:32:25.212436"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T21:32:30.568480"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T21:32:30.568480",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.667451",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.701433",
+      "telegram_ban_reason": "unsubscribed"
     },
     "11WL": {
       "discord_id": 1296800148659245148,
@@ -1034,8 +1054,12 @@ module.exports = {
         "telegram_username": "nev5r",
         "activated_at": "2025-10-25T22:06:42.936353"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T22:06:48.270297"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T22:06:48.270297",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.716261",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.748796",
+      "telegram_ban_reason": "unsubscribed"
     },
     "TMDE": {
       "discord_id": 1034425830803251280,
@@ -1050,8 +1074,12 @@ module.exports = {
         "telegram_username": "Sukunure22",
         "activated_at": "2025-10-25T22:42:43.681918"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T22:42:47.956850"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T22:42:47.956850",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.806924",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.844362",
+      "telegram_ban_reason": "unsubscribed"
     },
     "0QUY": {
       "discord_id": 338766606769324034,
@@ -1066,8 +1094,12 @@ module.exports = {
         "telegram_username": "Pashok1749",
         "activated_at": "2025-10-25T23:10:37.143864"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T23:10:45.041243"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T23:10:45.041243",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.865610",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.920789",
+      "telegram_ban_reason": "unsubscribed"
     },
     "AOMO": {
       "discord_id": 345555121536761857,
@@ -1082,8 +1114,12 @@ module.exports = {
         "telegram_username": "hs887_97",
         "activated_at": "2025-10-25T23:40:51.030420"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-25T23:40:55.524576"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-25T23:40:55.524576",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:35.942786",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:35.983763",
+      "telegram_ban_reason": "unsubscribed"
     },
     "XWHT": {
       "discord_id": 572725668329029653,
@@ -1098,8 +1134,12 @@ module.exports = {
         "telegram_username": "Witzei",
         "activated_at": "2025-10-26T00:04:13.170895"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T00:04:58.301636"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T00:04:58.301636",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.020181",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.078623",
+      "telegram_ban_reason": "unsubscribed"
     },
     "SDS0": {
       "discord_id": 1380052333865472063,
@@ -1114,8 +1154,12 @@ module.exports = {
         "telegram_username": "ZIMAxdx",
         "activated_at": "2025-10-26T09:05:17.457747"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T09:06:07.627747"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T09:06:07.627747",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.104877",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.163227",
+      "telegram_ban_reason": "unsubscribed"
     },
     "LX9I": {
       "discord_id": 1137691796282015764,
@@ -1130,10 +1174,14 @@ module.exports = {
         "telegram_username": "ExitYou101",
         "activated_at": "2025-10-26T11:44:48.169438"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-26T11:44:53.716876",
       "last_invite_issued_at": "2025-10-26T11:45:34.572627",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.196411",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.236818",
+      "telegram_ban_reason": "unsubscribed"
     },
     "QKLD": {
       "discord_id": 850020530115182632,
@@ -1148,8 +1196,12 @@ module.exports = {
         "telegram_username": "jajajajaja8989",
         "activated_at": "2025-10-26T12:09:18.725372"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T12:09:25.066798"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T12:09:25.066798",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.259092",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.297333",
+      "telegram_ban_reason": "unsubscribed"
     },
     "HMOH": {
       "discord_id": 805056348139946025,
@@ -1164,8 +1216,12 @@ module.exports = {
         "telegram_username": "idbyyy",
         "activated_at": "2025-10-26T13:58:00.554806"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T13:58:05.237944"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T13:58:05.237944",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.316099",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.355517",
+      "telegram_ban_reason": "unsubscribed"
     },
     "0ER8": {
       "discord_id": 291572776555249666,
@@ -1180,8 +1236,12 @@ module.exports = {
         "telegram_username": "Valerahs",
         "activated_at": "2025-10-26T14:46:26.131481"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T14:46:30.067999"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T14:46:30.067999",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.373458",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.410085",
+      "telegram_ban_reason": "unsubscribed"
     },
     "9TBN": {
       "discord_id": 625060414153031690,
@@ -1196,8 +1256,12 @@ module.exports = {
         "telegram_username": "foby_01",
         "activated_at": "2025-10-26T14:52:36.235767"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T14:52:44.546447"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T14:52:44.546447",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.428252",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.464695",
+      "telegram_ban_reason": "unsubscribed"
     },
     "UYRR": {
       "discord_id": 398090288717103105,
@@ -1212,8 +1276,12 @@ module.exports = {
         "telegram_username": "iMars71",
         "activated_at": "2025-10-26T15:12:19.804776"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T15:14:05.008787"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T15:14:05.008787",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.483478",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.519561",
+      "telegram_ban_reason": "unsubscribed"
     },
     "G54C": {
       "discord_id": 664355392654016532,
@@ -1248,8 +1316,12 @@ module.exports = {
         "telegram_username": "art_starlink",
         "activated_at": "2025-10-26T17:48:54.773943"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T17:49:04.770997"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T17:49:04.770997",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.556338",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.592339",
+      "telegram_ban_reason": "unsubscribed"
     },
     "9VDZ": {
       "discord_id": 307409861446991892,
@@ -1264,8 +1336,12 @@ module.exports = {
         "telegram_username": "Koro4kaaa",
         "activated_at": "2025-10-26T19:09:45.353188"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T19:09:48.850077"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T19:09:48.850077",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.610088",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.646639",
+      "telegram_ban_reason": "unsubscribed"
     },
     "BBZ3": {
       "discord_id": 719602745010552844,
@@ -1280,8 +1356,12 @@ module.exports = {
         "telegram_username": "wasty1337",
         "activated_at": "2025-10-26T19:25:39.251535"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T19:26:44.577507"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T19:26:44.577507",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.664882",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.702472",
+      "telegram_ban_reason": "unsubscribed"
     },
     "1MH9": {
       "discord_id": 903211391631106048,
@@ -1296,8 +1376,12 @@ module.exports = {
         "telegram_username": "Artem4ik30",
         "activated_at": "2025-10-26T19:35:13.641567"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T19:35:20.664142"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T19:35:20.664142",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.721406",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.757522",
+      "telegram_ban_reason": "unsubscribed"
     },
     "3C3U": {
       "discord_id": 299132728119394304,
@@ -1312,8 +1396,12 @@ module.exports = {
         "telegram_username": "ivan210994",
         "activated_at": "2025-10-26T20:10:56.653811"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T20:11:02.109899"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T20:11:02.109899",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.776074",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.811948",
+      "telegram_ban_reason": "unsubscribed"
     },
     "ONF2": {
       "discord_id": 417948993822261249,
@@ -1328,8 +1416,12 @@ module.exports = {
         "telegram_username": "kaneki_kek_00",
         "activated_at": "2025-10-26T20:27:37.374602"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T20:27:44.360079"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T20:27:44.360079",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.829701",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.865570",
+      "telegram_ban_reason": "unsubscribed"
     },
     "FMB9": {
       "discord_id": 966725208843112468,
@@ -1364,8 +1456,12 @@ module.exports = {
         "telegram_username": "senaa666",
         "activated_at": "2025-10-26T21:25:13.384727"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-26T21:25:20.109291"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-26T21:25:20.109291",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.901454",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.938562",
+      "telegram_ban_reason": "unsubscribed"
     },
     "R7Q5": {
       "discord_id": 951516261152591932,
@@ -1380,8 +1476,12 @@ module.exports = {
         "telegram_username": null,
         "activated_at": "2025-10-27T13:15:53.708182"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T13:15:56.223017"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-27T13:15:56.223017",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:36.956356",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:36.996277",
+      "telegram_ban_reason": "unsubscribed"
     },
     "I18M": {
       "discord_id": 477530210305048576,
@@ -1396,8 +1496,12 @@ module.exports = {
         "telegram_username": "Mechanic_Kivi",
         "activated_at": "2025-10-27T13:30:17.486476"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T13:30:23.102847"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-27T13:30:23.102847",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.017870",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.054301",
+      "telegram_ban_reason": "unsubscribed"
     },
     "S4H3": {
       "discord_id": 1321622722153021491,
@@ -1412,8 +1516,12 @@ module.exports = {
         "telegram_username": "Rrrrra_01",
         "activated_at": "2025-10-27T17:15:39.019248"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T17:15:48.048998"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-27T17:15:48.048998",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.072853",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.108261",
+      "telegram_ban_reason": "unsubscribed"
     },
     "9NLA": {
       "discord_id": 1354010937434050591,
@@ -1428,8 +1536,12 @@ module.exports = {
         "telegram_username": "d_danila_g",
         "activated_at": "2025-10-27T17:28:34.748038"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T17:28:40.775479"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-27T17:28:40.775479",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.126505",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.161855",
+      "telegram_ban_reason": "unsubscribed"
     },
     "9PNA": {
       "discord_id": 820712380157657148,
@@ -1444,8 +1556,12 @@ module.exports = {
         "telegram_username": "vadyyk",
         "activated_at": "2025-10-27T17:51:47.052783"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T17:51:55.747935"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-27T17:51:55.747935",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.179527",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.215291",
+      "telegram_ban_reason": "unsubscribed"
     },
     "ZOG1": {
       "discord_id": 300348680752594955,
@@ -1460,8 +1576,12 @@ module.exports = {
         "telegram_username": "maZZafakaa",
         "activated_at": "2025-10-27T19:24:41.546429"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-27T19:24:49.922412"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-27T19:24:49.922412",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.234000",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.269071",
+      "telegram_ban_reason": "unsubscribed"
     },
     "UI6L": {
       "discord_id": 477446898337447936,
@@ -1544,8 +1664,12 @@ module.exports = {
         "telegram_username": "dmytrych",
         "activated_at": "2025-10-28T04:31:20.080757"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-28T04:31:23.897140"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-28T04:31:23.897140",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.341668",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.377642",
+      "telegram_ban_reason": "unsubscribed"
     },
     "UK44": {
       "discord_id": 702642974097408131,
@@ -1560,13 +1684,13 @@ module.exports = {
         "telegram_username": "ocean656",
         "activated_at": "2025-10-28T05:45:30.702143"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-28T08:51:47.423450",
       "last_invite_issued_at": "2025-10-28T08:46:31.515648",
       "invite_link_issued": true,
-      "telegram_unsubscribed_at": "2025-10-28T08:49:23.535494",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-10-28T08:49:23.585870",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.395449",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.433983",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-10-28T08:51:47.451253"
     },
@@ -1583,8 +1707,12 @@ module.exports = {
         "telegram_username": "peacefulfreak",
         "activated_at": "2025-10-28T14:59:44.985359"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-28T14:59:51.596208"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-28T14:59:51.596208",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.453290",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.488722",
+      "telegram_ban_reason": "unsubscribed"
     },
     "SI21": {
       "discord_id": 665953451926356046,
@@ -1619,10 +1747,14 @@ module.exports = {
         "telegram_username": "Imperious159",
         "activated_at": "2025-10-28T23:39:49.288476"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-28T23:39:56.240634",
       "last_invite_issued_at": "2025-10-28T23:40:25.352668",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.524382",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.560438",
+      "telegram_ban_reason": "unsubscribed"
     },
     "XZTY": {
       "discord_id": 1324076549821038643,
@@ -1637,10 +1769,14 @@ module.exports = {
         "telegram_username": "gaddd1",
         "activated_at": "2025-10-29T13:11:37.442263"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-29T13:11:57.770400",
       "last_invite_issued_at": "2025-10-29T13:12:02.783026",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.578739",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.615622",
+      "telegram_ban_reason": "unsubscribed"
     },
     "QH8X": {
       "discord_id": 432510354107531264,
@@ -1678,8 +1814,12 @@ module.exports = {
         "telegram_username": "senseenzo",
         "activated_at": "2025-10-29T21:34:43.125164"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-29T21:34:51.050310"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-29T21:34:51.050310",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.654237",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.693926",
+      "telegram_ban_reason": "unsubscribed"
     },
     "SB7K": {
       "discord_id": 720703424785809489,
@@ -1694,8 +1834,12 @@ module.exports = {
         "telegram_username": "Sann3k",
         "activated_at": "2025-10-29T23:09:48.769382"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-29T23:09:53.224477"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-29T23:09:53.224477",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.713470",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.756393",
+      "telegram_ban_reason": "unsubscribed"
     },
     "XND0": {
       "discord_id": 885108195981393961,
@@ -1732,8 +1876,12 @@ module.exports = {
         "telegram_username": "hairka52",
         "activated_at": "2025-10-30T00:09:40.721119"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-30T00:09:50.062952"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-30T00:09:50.062952",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.840291",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.896033",
+      "telegram_ban_reason": "unsubscribed"
     },
     "6QSI": {
       "discord_id": 989235828372946994,
@@ -1748,8 +1896,12 @@ module.exports = {
         "telegram_username": "Eeeziiiii",
         "activated_at": "2025-10-30T20:58:32.858564"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-30T20:58:36.882604"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-30T20:58:36.882604",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.919427",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:37.959157",
+      "telegram_ban_reason": "unsubscribed"
     },
     "7WIR": {
       "discord_id": 446049853059891241,
@@ -1764,8 +1916,12 @@ module.exports = {
         "telegram_username": "Konstantintatum",
         "activated_at": "2025-10-30T22:27:53.276624"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-30T22:28:02.462423"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-30T22:28:02.462423",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:37.981403",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.032272",
+      "telegram_ban_reason": "unsubscribed"
     },
     "QMH2": {
       "discord_id": 1252031916589453335,
@@ -1780,8 +1936,12 @@ module.exports = {
         "telegram_username": "Sssrgyl",
         "activated_at": "2025-10-30T22:35:00.581594"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-30T22:36:14.531098"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-30T22:36:14.531098",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.059679",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.104030",
+      "telegram_ban_reason": "unsubscribed"
     },
     "C01C": {
       "discord_id": 613103041322811523,
@@ -1796,8 +1956,12 @@ module.exports = {
         "telegram_username": "baevq",
         "activated_at": "2025-10-30T22:55:07.489568"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-10-30T22:55:10.864990"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-30T22:55:10.864990",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.125465",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.168150",
+      "telegram_ban_reason": "unsubscribed"
     },
     "XJYC": {
       "discord_id": 468513276960178236,
@@ -1812,10 +1976,14 @@ module.exports = {
         "telegram_username": "ihateyouab",
         "activated_at": "2025-10-30T23:02:14.257104"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-30T23:02:29.954741",
       "last_invite_issued_at": "2025-10-30T23:02:35.601909",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.191906",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.238921",
+      "telegram_ban_reason": "unsubscribed"
     },
     "NAAS": {
       "discord_id": 1408009557443219529,
@@ -1830,10 +1998,14 @@ module.exports = {
         "telegram_username": "Rimmochka_Viktorovna",
         "activated_at": "2025-10-30T23:15:48.845189"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-30T23:15:58.550924",
       "last_invite_issued_at": "2025-10-30T23:19:04.968742",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.257260",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.298211",
+      "telegram_ban_reason": "unsubscribed"
     },
     "5MJD": {
       "discord_id": 867470973023158292,
@@ -1848,8 +2020,12 @@ module.exports = {
         "telegram_username": "idnkcr",
         "activated_at": "2025-11-01T19:32:13.518689"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-01T19:33:10.449349"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-11-01T19:33:10.449349",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.318196",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.355819",
+      "telegram_ban_reason": "unsubscribed"
     },
     "PEC8": {
       "discord_id": 380023243907792907,
@@ -1864,10 +2040,14 @@ module.exports = {
         "telegram_username": "simsolobimm",
         "activated_at": "2025-11-01T20:57:39.026263"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-01T20:57:44.139315",
       "last_invite_issued_at": "2025-11-01T20:57:59.731516",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.386226",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-02T02:10:38.424452",
+      "telegram_ban_reason": "unsubscribed"
     }
   }
 };
