@@ -2001,7 +2001,7 @@ module.exports = {
       "discord_removed_at": "2025-11-02T17:58:05.085693Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-02T17:58:07.146614Z",
+      "telegram_banned_at": "2025-11-02T17:52:31.931444Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-30T20:01:58.926790"
     },
@@ -2064,10 +2064,10 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-29T23:13:02.455570",
       "telegram_unsubscribed_at": "2025-10-31T01:05:46.122932",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-02T17:58:10.297879Z",
+      "telegram_banned_at": "2025-11-02T17:52:34.998405Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-02T17:58:08.743032Z"
+      "discord_removed_at": "2025-11-02T17:52:33.565531Z"
     },
     "J9TZ": {
       "discord_id": 710976667258191942,
@@ -2263,6 +2263,15 @@ module.exports = {
       "telegram_banned_at": "2025-11-02T02:10:38.424452",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:03.590372"
+    },
+    "TDJP": {
+      "discord_id": 872916742974898236,
+      "discord_username": "drakosha1938",
+      "discord_user": "drakosha1938",
+      "discord_server_nick": "Gusi",
+      "created_at": "2025 02 11 17:58",
+      "expires_at": "2025 02 11 18:00",
+      "used": false
     }
   }
 };
