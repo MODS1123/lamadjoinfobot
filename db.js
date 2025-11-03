@@ -2390,7 +2390,12 @@ module.exports = {
       "discord_server_nick": "Fexx",
       "created_at": "2025 03 11 22:46",
       "expires_at": "2025 03 11 22:48",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1571527225,
+        "telegram_username": "doxfromeu",
+        "activated_at": "2025-11-03T23:46:26.433355"
+      }
     }
   }
 };
