@@ -2325,14 +2325,15 @@ module.exports = {
         "telegram_username": "ki_sergeev",
         "activated_at": "2025-11-02T22:08:45.241166"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T22:08:55.203476",
       "discord_removed": true,
       "discord_removed_at": "2025-11-03T17:33:41.899752Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-03T17:33:43.390946Z",
-      "telegram_ban_reason": "not_in_guild_check"
+      "telegram_ban_reason": "not_in_guild_check",
+      "telegram_unsubscribed_at": "2025-11-03T18:37:22.276036"
     },
     "P3HS": {
       "discord_id": 974733191023849522,
