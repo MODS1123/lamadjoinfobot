@@ -2358,7 +2358,12 @@ module.exports = {
       "discord_server_nick": "Pip",
       "created_at": "2025 03 11 19:53",
       "expires_at": "2025 03 11 19:55",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 7455324113,
+        "telegram_username": null,
+        "activated_at": "2025-11-03T20:53:47.994116"
+      }
     }
   }
 };
