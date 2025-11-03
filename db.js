@@ -2313,6 +2313,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T22:08:55.203476"
+    },
+    "P3HS": {
+      "discord_id": 974733191023849522,
+      "discord_username": "skvirt2",
+      "discord_user": "skvirt2",
+      "discord_server_nick": "Divan",
+      "created_at": "2025 03 11 00:47",
+      "expires_at": "2025 03 11 00:49",
+      "used": false
     }
   }
 };
