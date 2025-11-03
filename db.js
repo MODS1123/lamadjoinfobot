@@ -2382,15 +2382,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-03T23:38:00.318769"
-    },
-    "UWBB": {
-      "discord_id": 899882115695509565,
-      "discord_username": "feloz1k",
-      "discord_user": "feloz1k",
-      "discord_server_nick": "Fexx",
-      "created_at": "2025 03 11 22:39",
-      "expires_at": "2025 03 11 22:41",
-      "used": false
     }
   }
 };
