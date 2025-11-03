@@ -2350,6 +2350,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-03T01:48:43.588993"
+    },
+    "WHZT": {
+      "discord_id": 459251533821902868,
+      "discord_username": "clsru",
+      "discord_user": "clsru",
+      "discord_server_nick": "Pip",
+      "created_at": "2025 03 11 19:53",
+      "expires_at": "2025 03 11 19:55",
+      "used": false
     }
   }
 };
