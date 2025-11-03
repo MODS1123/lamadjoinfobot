@@ -2395,7 +2395,9 @@ module.exports = {
         "telegram_id": 1571527225,
         "telegram_username": "doxfromeu",
         "activated_at": "2025-11-03T23:46:26.433355"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-03T23:47:29.514866"
     }
   }
 };
