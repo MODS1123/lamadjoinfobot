@@ -1009,7 +1009,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-04T04:19:28.691099Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-04T04:19:27.127448Z"
+      "discord_removed_at": "2025-11-04T04:25:12.819036Z"
     },
     "YNIU": {
       "discord_id": 356902862225408010,
