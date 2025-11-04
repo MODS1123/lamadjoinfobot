@@ -2407,6 +2407,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-03T23:47:29.514866"
+    },
+    "YXGG": {
+      "discord_id": 694555475999588482,
+      "discord_username": "mmozzii",
+      "discord_user": "mmozzii",
+      "discord_server_nick": "MarkIт",
+      "created_at": "2025 04 11 22:40",
+      "expires_at": "2025 04 11 22:42",
+      "used": false
     }
   }
 };
