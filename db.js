@@ -2407,15 +2407,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-03T23:47:29.514866"
-    },
-    "OMQJ": {
-      "discord_id": 451526812284223490,
-      "discord_username": ".sabzro",
-      "discord_user": ".sabzro",
-      "discord_server_nick": "Sabzerokuman",
-      "created_at": "2025 04 11 11:42",
-      "expires_at": "2025 04 11 11:44",
-      "used": false
     }
   }
 };
