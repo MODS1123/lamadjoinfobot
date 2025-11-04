@@ -2415,7 +2415,12 @@ module.exports = {
       "discord_server_nick": "MarkIт",
       "created_at": "2025 04 11 22:40",
       "expires_at": "2025 04 11 22:42",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 765683358,
+        "telegram_username": "ak_cheak",
+        "activated_at": "2025-11-04T23:40:31.735757"
+      }
     }
   }
 };
