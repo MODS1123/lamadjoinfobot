@@ -2420,7 +2420,9 @@ module.exports = {
         "telegram_id": 765683358,
         "telegram_username": "ak_cheak",
         "activated_at": "2025-11-04T23:40:31.735757"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-04T23:41:16.164352"
     }
   }
 };
