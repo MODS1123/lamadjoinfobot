@@ -2445,6 +2445,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-05T10:04:39.972197"
+    },
+    "C3T7": {
+      "discord_id": 1214534448071188571,
+      "discord_username": "zpripadokz",
+      "discord_user": "zpripadokz",
+      "discord_server_nick": "Bodya",
+      "created_at": "2025 05 11 12:38",
+      "expires_at": "2025 05 11 12:40",
+      "used": false
     }
   }
 };
