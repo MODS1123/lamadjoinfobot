@@ -2469,7 +2469,12 @@ module.exports = {
       "discord_server_nick": "Rin",
       "created_at": "2025 05 11 20:16",
       "expires_at": "2025 05 11 20:18",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1284518368,
+        "telegram_username": "polkahuyi",
+        "activated_at": "2025-11-05T21:17:29.953908"
+      }
     }
   }
 };
