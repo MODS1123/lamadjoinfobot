@@ -1782,7 +1782,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:01.306481",
       "telegram_unsubscribed_at": "2025-11-03T10:25:12.523171",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-05T20:11:20.405909Z",
+      "telegram_banned_at": "2025-11-05T20:17:29.478342Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:01.348983",
       "discord_removed": true,
@@ -2469,12 +2469,7 @@ module.exports = {
       "discord_server_nick": "Rin",
       "created_at": "2025 05 11 20:16",
       "expires_at": "2025 05 11 20:18",
-      "used": true,
-      "activated_by": {
-        "telegram_id": 1284518368,
-        "telegram_username": "polkahuyi",
-        "activated_at": "2025-11-05T21:17:29.953908"
-      }
+      "used": false
     }
   }
 };
