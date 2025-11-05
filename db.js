@@ -2461,6 +2461,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-05T13:39:42.552029"
+    },
+    "PVQM": {
+      "discord_id": 416624248304697344,
+      "discord_username": "scowl_1",
+      "discord_user": "scowl_1",
+      "discord_server_nick": "Rin",
+      "created_at": "2025 05 11 20:16",
+      "expires_at": "2025 05 11 20:18",
+      "used": false
     }
   }
 };
