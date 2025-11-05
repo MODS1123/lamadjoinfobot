@@ -2453,7 +2453,12 @@ module.exports = {
       "discord_server_nick": "Bodya",
       "created_at": "2025 05 11 12:38",
       "expires_at": "2025 05 11 12:40",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 6394518241,
+        "telegram_username": "lllXeqlll",
+        "activated_at": "2025-11-05T13:39:38.613640"
+      }
     }
   }
 };
