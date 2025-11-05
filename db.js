@@ -2423,6 +2423,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-04T23:41:16.164352"
+    },
+    "IGI3": {
+      "discord_id": 451526812284223490,
+      "discord_username": ".sabzro",
+      "discord_user": ".sabzro",
+      "discord_server_nick": "SabzroI",
+      "created_at": "2025 05 11 09:04",
+      "expires_at": "2025 05 11 09:06",
+      "used": false
     }
   }
 };
