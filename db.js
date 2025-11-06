@@ -2465,6 +2465,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-05T13:39:42.552029"
+    },
+    "EBRD": {
+      "discord_id": 150210721475461120,
+      "discord_username": "nastymouse",
+      "discord_user": "nastymouse",
+      "discord_server_nick": "Katrin",
+      "created_at": "2025 06 11 23:01",
+      "expires_at": "2025 06 11 23:03",
+      "used": false
     }
   }
 };
