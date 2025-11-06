@@ -1370,11 +1370,11 @@ module.exports = {
         "telegram_username": "ExitYou101",
         "activated_at": "2025-10-26T11:44:48.169438"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:14.870588",
       "last_invite_issued_at": "2025-10-26T11:45:34.572627",
       "invite_link_issued": true,
-      "telegram_unsubscribed_at": "2025-11-02T02:10:36.196411",
+      "telegram_unsubscribed_at": "2025-11-06T15:26:01.831868",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-06T14:25:12.522120Z",
       "telegram_ban_reason": "discord_removed_event",
