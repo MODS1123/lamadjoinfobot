@@ -311,7 +311,7 @@ module.exports = {
       "discord_removed_at": "2025-11-07T09:54:01.529393Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-07T09:54:03.112209Z",
+      "telegram_banned_at": "2025-11-07T09:47:56.121640Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-21T19:32:57.342437",
       "telegram_banned_by": {
@@ -927,7 +927,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:12.998835",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-07T09:47:57.904690Z",
+      "discord_removed_at": "2025-11-07T09:54:04.780126Z",
       "discord_removed_display_name": null
     },
     "J5S2": {
