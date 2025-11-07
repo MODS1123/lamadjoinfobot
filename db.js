@@ -2512,7 +2512,9 @@ module.exports = {
         "moderator_username": "Alberto114"
       },
       "grace_period_until": "2025-11-08T02:27:10.346581",
-      "telegram_unban_previous_reason": "manual_ban"
+      "telegram_unban_previous_reason": "manual_ban",
+      "last_invite_issued_at": "2025-11-07T14:27:53.244022",
+      "invite_link_issued": true
     }
   }
 };
