@@ -2495,7 +2495,7 @@ module.exports = {
         "telegram_username": "yasandu95",
         "activated_at": "2025-11-07T14:05:50.548832"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-07T14:06:40.803358",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-07T14:25:01.461504",
@@ -2503,7 +2503,8 @@ module.exports = {
       "telegram_banned_by": {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
-      }
+      },
+      "telegram_unsubscribed_at": "2025-11-07T14:25:25.137424"
     }
   }
 };
