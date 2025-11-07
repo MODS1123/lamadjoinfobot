@@ -2508,12 +2508,13 @@ module.exports = {
       "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-11-07T14:30:27.168833",
       "telegram_unban_previous_reason": "manual_ban",
-      "last_invite_issued_at": "2025-11-07T14:27:53.244022",
+      "last_invite_issued_at": "2025-11-07T14:32:18.171628",
       "telegram_unbanned_by": {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "grace_period_until": "2025-11-08T02:30:27.168842"
+      "grace_period_until": "2025-11-08T02:30:27.168842",
+      "invite_link_issued": true
     }
   }
 };
