@@ -2513,7 +2513,6 @@ module.exports = {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "grace_period_until": "2025-11-08T02:30:27.168842",
       "invite_link_issued": true
     }
   }
