@@ -1661,7 +1661,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-08T17:11:15.228961Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-08T17:11:13.372518Z",
+      "discord_removed_at": "2025-11-08T17:17:22.022015Z",
       "discord_removed_display_name": null
     },
     "P5JB": {
