@@ -2545,6 +2545,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-08T18:03:20.104812"
+    },
+    "WK0O": {
+      "discord_id": 387523781956206592,
+      "discord_username": "nachos100",
+      "discord_user": "nachos100",
+      "discord_server_nick": "Hefner",
+      "created_at": "2025 08 11 19:15",
+      "expires_at": "2025 08 11 19:17",
+      "used": false
     }
   }
 };
