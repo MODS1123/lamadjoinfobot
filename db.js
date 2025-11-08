@@ -2529,6 +2529,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-08T15:24:00.436023"
+    },
+    "NB8W": {
+      "discord_id": 531530942976622594,
+      "discord_username": "cyatojblin4ik",
+      "discord_user": "cyatojblin4ik",
+      "discord_server_nick": "Tomas",
+      "created_at": "2025 08 11 17:01",
+      "expires_at": "2025 08 11 17:03",
+      "used": false
     }
   }
 };
