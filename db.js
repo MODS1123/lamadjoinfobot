@@ -2513,6 +2513,15 @@ module.exports = {
         "moderator_username": "Alberto114"
       },
       "invite_link_issued": true
+    },
+    "G7TP": {
+      "discord_id": 416624248304697344,
+      "discord_username": "scowl_1",
+      "discord_user": "scowl_1",
+      "discord_server_nick": "Rin",
+      "created_at": "2025 08 11 14:23",
+      "expires_at": "2025 08 11 14:25",
+      "used": false
     }
   }
 };
