@@ -2526,7 +2526,9 @@ module.exports = {
         "telegram_id": 1284518368,
         "telegram_username": "polkahuyi",
         "activated_at": "2025-11-08T15:23:33.601692"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-08T15:24:00.436023"
     }
   }
 };
