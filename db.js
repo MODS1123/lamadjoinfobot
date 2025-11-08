@@ -2031,10 +2031,10 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-29T13:31:18.029952",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-08T14:32:12.595494Z",
+      "discord_removed_at": "2025-11-08T14:26:05.001530Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-08T14:26:06.896085Z",
+      "telegram_banned_at": "2025-11-08T14:32:13.982366Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-30T20:01:58.926790"
     },
