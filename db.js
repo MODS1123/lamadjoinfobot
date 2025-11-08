@@ -2505,7 +2505,6 @@ module.exports = {
       },
       "telegram_unsubscribed_at": "2025-11-07T14:25:25.137424",
       "telegram_unsubscribed": false,
-      "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-11-07T14:30:27.168833",
       "telegram_unban_previous_reason": "manual_ban",
       "last_invite_issued_at": "2025-11-07T14:32:18.171628",
