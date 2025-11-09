@@ -1074,10 +1074,10 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T17:39:44.929201",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-09T15:34:40.331279Z",
+      "discord_removed_at": "2025-11-09T15:28:36.763273Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-09T15:28:38.629438Z",
+      "telegram_banned_at": "2025-11-09T15:34:41.887242Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-26T11:16:21.790285"
     },
