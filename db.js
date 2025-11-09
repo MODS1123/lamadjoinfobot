@@ -2577,6 +2577,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-08T22:18:10.877850"
+    },
+    "P1T3": {
+      "discord_id": 657965283390259200,
+      "discord_username": "kureshuz",
+      "discord_user": "kureshuz",
+      "discord_server_nick": "ISCARIOT",
+      "created_at": "2025 09 11 13:39",
+      "expires_at": "2025 09 11 13:41",
+      "used": false
     }
   }
 };
