@@ -1382,7 +1382,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.918613",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-09T21:08:12.063132Z",
+      "discord_removed_at": "2025-11-09T21:14:21.860421Z",
       "discord_removed_display_name": null
     },
     "QKLD": {
@@ -2597,6 +2597,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-09T19:06:22.311236"
+    },
+    "L0NI": {
+      "discord_id": 1013175217922781205,
+      "discord_username": "sabziro2726",
+      "discord_user": "sabziro2726",
+      "discord_server_nick": "Sabziro",
+      "created_at": "2025 09 11 21:12",
+      "expires_at": "2025 09 11 21:14",
+      "used": false
     }
   }
 };
