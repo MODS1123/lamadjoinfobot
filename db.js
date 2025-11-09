@@ -2581,6 +2581,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-08T22:18:10.877850"
+    },
+    "A9LR": {
+      "discord_id": 1012607725055778837,
+      "discord_username": "ddp22062827",
+      "discord_user": "ddp22062827",
+      "discord_server_nick": "Zonerl",
+      "created_at": "2025 09 11 18:05",
+      "expires_at": "2025 09 11 18:07",
+      "used": false
     }
   }
 };
