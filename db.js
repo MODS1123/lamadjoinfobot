@@ -2628,7 +2628,7 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-10T14:24:51.453047",
-      "last_invite_issued_at": "2025-11-10T14:21:43.332803",
+      "last_invite_issued_at": "2025-11-10T14:25:26.066215",
       "telegram_unsubscribed_at": "2025-11-10T14:24:28.728303",
       "telegram_banned": false,
       "telegram_banned_at": "2025-11-10T14:24:28.848649",
@@ -2640,7 +2640,8 @@ module.exports = {
       },
       "grace_period_until": "2025-11-11T02:25:07.331416",
       "telegram_unban_previous_reason": "unsubscribed",
-      "telegram_subscribed_at": "2025-11-10T14:25:21.028167"
+      "telegram_subscribed_at": "2025-11-10T14:25:21.028167",
+      "invite_link_issued": true
     }
   }
 };
