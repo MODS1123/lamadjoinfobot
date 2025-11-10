@@ -1267,11 +1267,11 @@ module.exports = {
         "telegram_username": "Sukunure22",
         "activated_at": "2025-10-25T22:42:43.681918"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:14.436157",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:35.806924",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:35.844362",
+      "telegram_unsubscribed_at": "2025-11-10T17:00:29.823514",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-10T17:00:29.975560",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:14.480268"
     },
