@@ -2647,6 +2647,15 @@ module.exports = {
       "telegram_unban_previous_reason": "unsubscribed",
       "telegram_subscribed_at": "2025-11-10T14:25:21.028167",
       "invite_link_issued": true
+    },
+    "68TY": {
+      "discord_id": 861035434284417035,
+      "discord_username": "nyashkova",
+      "discord_user": "nyashkova",
+      "discord_server_nick": "MadinaI",
+      "created_at": "2025 10 11 18:26",
+      "expires_at": "2025 10 11 18:28",
+      "used": false
     }
   }
 };
