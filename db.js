@@ -2626,14 +2626,21 @@ module.exports = {
         "telegram_username": "d3_ment3d",
         "activated_at": "2025-11-10T14:21:01.943333"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-10T14:24:51.453047",
       "last_invite_issued_at": "2025-11-10T14:21:43.332803",
-      "invite_link_issued": true,
       "telegram_unsubscribed_at": "2025-11-10T14:24:28.728303",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-11-10T14:24:28.848649",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_at": "2025-11-10T14:25:07.331407",
+      "telegram_unbanned_by": {
+        "moderator_id": 921182112,
+        "moderator_username": "Alberto114"
+      },
+      "grace_period_until": "2025-11-11T02:25:07.331416",
+      "telegram_unban_previous_reason": "unsubscribed"
     }
   }
 };
