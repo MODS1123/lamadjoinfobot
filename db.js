@@ -2612,15 +2612,6 @@ module.exports = {
       "created_at": "2025 09 11 21:12",
       "expires_at": "2025 09 11 21:14",
       "used": false
-    },
-    "VBVY": {
-      "discord_id": 444887654492930050,
-      "discord_username": "machetik",
-      "discord_user": "machetik",
-      "discord_server_nick": "Ray",
-      "created_at": "2025 10 11 13:18",
-      "expires_at": "2025 10 11 13:20",
-      "used": false
     }
   }
 };
