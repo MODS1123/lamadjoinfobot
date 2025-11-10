@@ -1630,7 +1630,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:15.808786",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-10T20:09:05.150718Z",
+      "discord_removed_at": "2025-11-10T20:15:32.126462Z",
       "discord_removed_display_name": null
     },
     "ONF2": {
