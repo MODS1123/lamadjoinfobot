@@ -1841,7 +1841,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-10T09:38:07.671224Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-10T09:38:06.081156Z"
+      "discord_removed_at": "2025-11-10T09:44:21.371012Z"
     },
     "FCM2": {
       "discord_id": 1212280996284596225,
