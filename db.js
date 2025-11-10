@@ -2626,8 +2626,8 @@ module.exports = {
         "telegram_username": "d3_ment3d",
         "activated_at": "2025-11-10T14:21:01.943333"
       },
-      "telegram_subscribed": false,
-      "telegram_resubscribed_at": "2025-11-10T14:21:19.170547",
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-10T14:24:51.453047",
       "last_invite_issued_at": "2025-11-10T14:21:43.332803",
       "invite_link_issued": true,
       "telegram_unsubscribed_at": "2025-11-10T14:24:28.728303",
