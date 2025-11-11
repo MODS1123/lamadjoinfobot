@@ -1032,11 +1032,11 @@ module.exports = {
         "telegram_username": "FeeQs",
         "activated_at": "2025-10-25T13:12:53.221382"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:13.433444",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:46.838809",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:46.879860",
+      "telegram_unsubscribed_at": "2025-11-11T21:25:36.983062",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-11T21:25:37.025376",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:13.486425"
     },
