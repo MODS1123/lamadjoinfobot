@@ -2683,15 +2683,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-10T20:01:47.021035"
-    },
-    "ICCO": {
-      "discord_id": 260057509161598977,
-      "discord_username": "arsboss",
-      "discord_user": "arsboss",
-      "discord_server_nick": "Arslan",
-      "created_at": "2025 12 11 17:52",
-      "expires_at": "2025 12 11 17:54",
-      "used": false
     }
   }
 };
