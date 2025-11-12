@@ -1390,7 +1390,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.918613",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-12T13:53:48.668075Z",
+      "discord_removed_at": "2025-11-12T14:00:20.186758Z",
       "discord_removed_display_name": null
     },
     "QKLD": {
