@@ -1164,11 +1164,11 @@ module.exports = {
         "telegram_username": "tochnox",
         "activated_at": "2025-10-25T19:38:50.316069"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:13.931957",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:35.530022",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:35.559134",
+      "telegram_unsubscribed_at": "2025-11-12T11:59:21.110523",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-12T11:59:21.146658",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:13.979894"
     },
