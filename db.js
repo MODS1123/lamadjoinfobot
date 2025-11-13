@@ -2051,10 +2051,10 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-29T13:31:18.029952",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T12:27:36.336181Z",
+      "discord_removed_at": "2025-11-13T12:34:11.490165Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T12:27:37.852542Z",
+      "telegram_banned_at": "2025-11-13T12:34:13.189289Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-30T20:01:58.926790"
     },
@@ -2120,7 +2120,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-13T12:27:40.954855Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T12:27:39.412972Z"
+      "discord_removed_at": "2025-11-13T12:34:15.445443Z"
     },
     "J9TZ": {
       "discord_id": 710976667258191942,
@@ -2756,6 +2756,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T11:45:33.056113"
+    },
+    "3677": {
+      "discord_id": 1099367474513850379,
+      "discord_username": "stones1488",
+      "discord_user": "stones1488",
+      "discord_server_nick": "Mbappe",
+      "created_at": "2025 13 11 12:32",
+      "expires_at": "2025 13 11 12:34",
+      "used": false
     }
   }
 };
