@@ -2821,6 +2821,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T20:58:01.599783"
+    },
+    "LLAI": {
+      "discord_id": 786996938951753739,
+      "discord_username": "fraze01",
+      "discord_user": "fraze01",
+      "discord_server_nick": "Kiriyato",
+      "created_at": "2025 13 11 23:25",
+      "expires_at": "2025 13 11 23:27",
+      "used": false
     }
   }
 };
