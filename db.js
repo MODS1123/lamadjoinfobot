@@ -672,7 +672,10 @@ module.exports = {
       "telegram_banned": false,
       "telegram_banned_at": "2025-11-02T02:10:45.909196",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:12.052250"
+      "telegram_unbanned_at": "2025-11-02T02:11:12.052250",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-13T23:01:01.337262Z",
+      "discord_removed_display_name": null
     },
     "BUGK": {
       "discord_id": 691548000723664917,
