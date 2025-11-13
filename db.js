@@ -235,7 +235,9 @@ module.exports = {
         "moderator_username": "Alberto114"
       },
       "grace_period_until": "2025-11-14T12:34:16.215329",
-      "telegram_unban_previous_reason": "unsubscribed"
+      "telegram_unban_previous_reason": "unsubscribed",
+      "last_invite_issued_at": "2025-11-14T00:36:48.370649",
+      "invite_link_issued": true
     },
     "TQWQ": {
       "discord_id": 919220816707719228,
