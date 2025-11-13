@@ -2738,14 +2738,15 @@ module.exports = {
         "telegram_username": "chernobilski17bsb",
         "activated_at": "2025-11-13T10:59:25.503349"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-13T10:59:30.905251",
       "discord_removed": true,
       "discord_removed_at": "2025-11-13T14:22:05.281426Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-13T14:22:06.970628Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-13T15:22:51.405165"
     },
     "GOCG": {
       "discord_id": 445997065357623326,
