@@ -2868,7 +2868,12 @@ module.exports = {
       "discord_server_nick": "Katsu",
       "created_at": "2025 13 11 23:52",
       "expires_at": "2025 13 11 23:54",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 248978866,
+        "telegram_username": "kotmatros220",
+        "activated_at": "2025-11-14T00:53:02.771222"
+      }
     }
   }
 };
