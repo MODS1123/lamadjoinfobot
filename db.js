@@ -2764,7 +2764,12 @@ module.exports = {
       "discord_server_nick": "Mbappe",
       "created_at": "2025 13 11 12:34",
       "expires_at": "2025 13 11 12:36",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5662403729,
+        "telegram_username": "Banhammer359",
+        "activated_at": "2025-11-13T13:34:38.916924"
+      }
     }
   }
 };
