@@ -2810,7 +2810,9 @@ module.exports = {
         "telegram_id": 1787927035,
         "telegram_username": null,
         "activated_at": "2025-11-13T20:57:44.215858"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-13T20:58:01.599783"
     }
   }
 };
