@@ -1739,9 +1739,9 @@ module.exports = {
         "telegram_username": "Mechanic_Kivi",
         "activated_at": "2025-10-27T13:30:17.486476"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:01.068858",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:37.017870",
+      "telegram_unsubscribed_at": "2025-11-13T18:33:54.689527",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-13T17:32:44.588382Z",
       "telegram_ban_reason": "not_in_guild_check",
