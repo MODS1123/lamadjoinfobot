@@ -2860,6 +2860,15 @@ module.exports = {
       "created_at": "2025 13 11 23:34",
       "expires_at": "2025 13 11 23:36",
       "used": false
+    },
+    "5FID": {
+      "discord_id": 707337976912412782,
+      "discord_username": "kotmatroskin22",
+      "discord_user": "kotmatroskin22",
+      "discord_server_nick": "Katsu",
+      "created_at": "2025 13 11 23:51",
+      "expires_at": "2025 13 11 23:53",
+      "used": false
     }
   }
 };
