@@ -2737,7 +2737,9 @@ module.exports = {
         "telegram_id": 7781245858,
         "telegram_username": "chernobilski17bsb",
         "activated_at": "2025-11-13T10:59:25.503349"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-13T10:59:30.905251"
     }
   }
 };
