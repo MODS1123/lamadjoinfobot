@@ -2805,7 +2805,12 @@ module.exports = {
       "discord_server_nick": "BitonchikI",
       "created_at": "2025 13 11 19:56",
       "expires_at": "2025 13 11 19:58",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1787927035,
+        "telegram_username": null,
+        "activated_at": "2025-11-13T20:57:44.215858"
+      }
     }
   }
 };
