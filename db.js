@@ -2724,15 +2724,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T10:46:52.011468"
-    },
-    "UUEJ": {
-      "discord_id": 1275531531766726697,
-      "discord_username": "fanatberserk",
-      "discord_user": "fanatberserk",
-      "discord_server_nick": "Mateo",
-      "created_at": "2025 13 11 09:57",
-      "expires_at": "2025 13 11 09:59",
-      "used": false
     }
   }
 };
