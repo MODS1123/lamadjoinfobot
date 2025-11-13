@@ -2756,6 +2756,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T11:45:33.056113"
+    },
+    "3677": {
+      "discord_id": 1099367474513850379,
+      "discord_username": "stones1488",
+      "discord_user": "stones1488",
+      "discord_server_nick": "Mbappe",
+      "created_at": "2025 13 11 12:32",
+      "expires_at": "2025 13 11 12:34",
+      "used": false
     }
   }
 };
