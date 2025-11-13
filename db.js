@@ -222,8 +222,8 @@ module.exports = {
         "telegram_username": "ddn770",
         "activated_at": "2025-10-14T17:49:22.142746"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-14T00:36:18.708961",
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-10-14T17:49:26.727803",
       "telegram_unsubscribed_at": "2025-10-23T19:24:57.688874",
       "telegram_banned": false,
       "telegram_banned_at": "2025-10-23T19:25:00.422011",
@@ -1160,7 +1160,7 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-25T18:55:59.195346",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T23:29:11.408604Z",
+      "discord_removed_at": "2025-11-13T23:36:18.163430Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-13T23:29:12.858623Z",
@@ -2850,15 +2850,6 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-14T00:26:18.750178",
       "last_invite_issued_at": "2025-11-14T00:26:28.949190",
       "invite_link_issued": true
-    },
-    "O9Z3": {
-      "discord_id": 1175932260176900156,
-      "discord_username": "ddn077",
-      "discord_user": "ddn077",
-      "discord_server_nick": "Duka",
-      "created_at": "2025 13 11 23:34",
-      "expires_at": "2025 13 11 23:36",
-      "used": false
     }
   }
 };
