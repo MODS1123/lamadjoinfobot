@@ -1064,7 +1064,10 @@ module.exports = {
       "telegram_banned": false,
       "telegram_banned_at": "2025-11-02T02:10:46.938483",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:13.572197"
+      "telegram_unbanned_at": "2025-11-02T02:11:13.572197",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-13T23:08:09.978317Z",
+      "discord_removed_display_name": null
     },
     "YSBJ": {
       "discord_id": 1404836749225623554,
