@@ -2772,6 +2772,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T13:35:32.325421"
+    },
+    "U23Z": {
+      "discord_id": 901514406427521074,
+      "discord_username": "danielmarlow",
+      "discord_user": "danielmarlow",
+      "discord_server_nick": "Daniel",
+      "created_at": "2025 13 11 14:07",
+      "expires_at": "2025 13 11 14:09",
+      "used": false
     }
   }
 };
