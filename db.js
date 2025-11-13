@@ -2740,6 +2740,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T10:59:30.905251"
+    },
+    "GOCG": {
+      "discord_id": 445997065357623326,
+      "discord_username": "iaroslav0019",
+      "discord_user": "iaroslav0019",
+      "discord_server_nick": "Yaroslav",
+      "created_at": "2025 13 11 10:44",
+      "expires_at": "2025 13 11 10:46",
+      "used": false
     }
   }
 };
