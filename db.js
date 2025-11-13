@@ -1058,9 +1058,9 @@ module.exports = {
         "telegram_username": null,
         "activated_at": "2025-10-25T13:38:37.028528"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:13.527262",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:46.898409",
+      "telegram_unsubscribed_at": "2025-11-14T00:10:06.610865",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-13T23:08:23.996674Z",
       "telegram_ban_reason": "not_in_guild_check",
