@@ -2142,7 +2142,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-13T23:44:22.333534Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T23:44:20.883981Z"
+      "discord_removed_at": "2025-11-13T23:51:14.138207Z"
     },
     "J9TZ": {
       "discord_id": 710976667258191942,
@@ -2859,15 +2859,6 @@ module.exports = {
       "discord_server_nick": "Duka",
       "created_at": "2025 13 11 23:34",
       "expires_at": "2025 13 11 23:36",
-      "used": false
-    },
-    "5FID": {
-      "discord_id": 707337976912412782,
-      "discord_username": "kotmatroskin22",
-      "discord_user": "kotmatroskin22",
-      "discord_server_nick": "Katsu",
-      "created_at": "2025 13 11 23:51",
-      "expires_at": "2025 13 11 23:53",
       "used": false
     }
   }
