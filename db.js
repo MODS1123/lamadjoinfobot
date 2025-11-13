@@ -2797,6 +2797,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T15:07:55.476909"
+    },
+    "S7YI": {
+      "discord_id": 1368898752827494462,
+      "discord_username": "kaban20012",
+      "discord_user": "kaban20012",
+      "discord_server_nick": "BitonchikI",
+      "created_at": "2025 13 11 19:56",
+      "expires_at": "2025 13 11 19:58",
+      "used": false
     }
   }
 };
