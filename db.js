@@ -2873,7 +2873,9 @@ module.exports = {
         "telegram_id": 248978866,
         "telegram_username": "kotmatros220",
         "activated_at": "2025-11-14T00:53:02.771222"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-14T00:53:41.825523"
     }
   }
 };
