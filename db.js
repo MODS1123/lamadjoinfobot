@@ -1895,10 +1895,10 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-10-27T23:17:38.461869",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T09:37:28.873594Z",
+      "discord_removed_at": "2025-11-13T09:44:07.485423Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T09:37:30.758551Z",
+      "telegram_banned_at": "2025-11-13T09:44:09.033885Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-29T19:24:12.402348"
     },
@@ -1919,11 +1919,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:02.103565",
       "telegram_unsubscribed_at": "2025-11-03T13:37:49.331406",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T09:37:34.033477Z",
+      "telegram_banned_at": "2025-11-13T09:44:12.380141Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.149060",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T09:37:32.391700Z"
+      "discord_removed_at": "2025-11-13T09:44:10.776067Z"
     },
     "UK44": {
       "discord_id": 702642974097408131,
@@ -2707,15 +2707,6 @@ module.exports = {
       "discord_server_nick": "Teo",
       "created_at": "2025 13 11 09:41",
       "expires_at": "2025 13 11 09:43",
-      "used": false
-    },
-    "P0WP": {
-      "discord_id": 489329975061905418,
-      "discord_username": "grihan9l",
-      "discord_user": "grihan9l",
-      "discord_server_nick": "Teo",
-      "created_at": "2025 13 11 09:44",
-      "expires_at": "2025 13 11 09:46",
       "used": false
     }
   }
