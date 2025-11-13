@@ -1147,7 +1147,7 @@ module.exports = {
       "discord_removed_at": "2025-11-13T09:43:15.151371Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T09:36:42.522190Z",
+      "telegram_banned_at": "2025-11-13T09:43:16.724999Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unsubscribed_at": "2025-10-25T21:54:39.821310"
     },
@@ -1172,7 +1172,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:13.979894",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T09:36:44.474709Z"
+      "discord_removed_at": "2025-11-13T09:43:18.441308Z"
     },
     "QMEP": {
       "discord_id": 1145655089554526228,
@@ -2699,6 +2699,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-12T18:55:41.133186"
+    },
+    "OW6Y": {
+      "discord_id": 489329975061905418,
+      "discord_username": "grihan9l",
+      "discord_user": "grihan9l",
+      "discord_server_nick": "Teo",
+      "created_at": "2025 13 11 09:41",
+      "expires_at": "2025 13 11 09:43",
+      "used": false
     }
   }
 };
