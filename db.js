@@ -930,7 +930,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:12.955771",
       "telegram_unsubscribed_at": "2025-11-04T09:24:37.649995",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T23:01:30.014352Z",
+      "telegram_banned_at": "2025-11-13T23:08:09.594563Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:12.998835",
       "discord_removed": true,
@@ -1061,13 +1061,10 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T02:11:13.527262",
       "telegram_unsubscribed_at": "2025-11-02T02:10:46.898409",
-      "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T23:08:11.540391Z",
-      "telegram_ban_reason": "discord_removed_event",
-      "telegram_unbanned_at": "2025-11-02T02:11:13.572197",
-      "discord_removed": true,
-      "discord_removed_at": "2025-11-13T23:08:09.978317Z",
-      "discord_removed_display_name": null
+      "telegram_banned": false,
+      "telegram_banned_at": "2025-11-02T02:10:46.938483",
+      "telegram_ban_reason": "unsubscribed",
+      "telegram_unbanned_at": "2025-11-02T02:11:13.572197"
     },
     "YSBJ": {
       "discord_id": 1404836749225623554,
