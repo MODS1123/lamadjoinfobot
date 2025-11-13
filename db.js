@@ -1531,7 +1531,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-13T23:15:48.802872Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T23:22:39.167450Z",
+      "discord_removed_at": "2025-11-13T23:15:47.121522Z",
       "discord_removed_display_name": null
     },
     "OEO3": {
@@ -2821,6 +2821,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-13T20:58:01.599783"
+    },
+    "YYEX": {
+      "discord_id": 786996938951753739,
+      "discord_username": "fraze01",
+      "discord_user": "fraze01",
+      "discord_server_nick": "Kiriyato",
+      "created_at": "2025 13 11 23:22",
+      "expires_at": "2025 13 11 23:24",
+      "used": false
     }
   }
 };
