@@ -1523,7 +1523,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-13T16:45:38.351941Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T16:45:36.675885Z",
+      "discord_removed_at": "2025-11-13T16:52:16.785649Z",
       "discord_removed_display_name": null
     },
     "OEO3": {
