@@ -629,7 +629,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:11.861393",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T08:17:43.518207Z",
+      "discord_removed_at": "2025-11-13T08:24:13.871501Z",
       "discord_removed_display_name": null
     },
     "URBU": {
