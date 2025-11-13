@@ -2769,7 +2769,9 @@ module.exports = {
         "telegram_id": 5662403729,
         "telegram_username": "Banhammer359",
         "activated_at": "2025-11-13T13:34:38.916924"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-13T13:35:32.325421"
     }
   }
 };
