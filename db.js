@@ -956,7 +956,10 @@ module.exports = {
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-02T11:36:50.487387",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:13.151550"
+      "telegram_unbanned_at": "2025-11-02T02:11:13.151550",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-13T23:25:35.951442Z",
+      "discord_removed_display_name": null
     },
     "C5EU": {
       "discord_id": 1403319436261458011,
