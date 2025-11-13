@@ -666,9 +666,9 @@ module.exports = {
         "telegram_username": "NotBald97",
         "activated_at": "2025-10-23T19:06:01.584119"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:11.979850",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:45.866692",
+      "telegram_unsubscribed_at": "2025-11-14T00:01:34.705117",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-13T23:01:26.697419Z",
       "telegram_ban_reason": "not_in_guild_check",
@@ -1017,7 +1017,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-10-25T13:08:04.878057",
       "telegram_unsubscribed_at": "2025-10-25T15:44:35.869902",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-13T23:01:33.410618Z",
+      "telegram_banned_at": "2025-11-13T22:54:51.106555Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
       "discord_removed_at": "2025-11-13T23:01:31.748271Z"
@@ -1043,7 +1043,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:13.486425",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-13T23:01:35.582692Z"
+      "discord_removed_at": "2025-11-13T22:54:52.875279Z"
     },
     "2Y1L": {
       "discord_id": 1035927026621747240,
