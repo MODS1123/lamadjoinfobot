@@ -2832,7 +2832,12 @@ module.exports = {
       "discord_server_nick": "Kiriyato",
       "created_at": "2025 13 11 23:25",
       "expires_at": "2025 13 11 23:27",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1011169518,
+        "telegram_username": "FrazeW",
+        "activated_at": "2025-11-14T00:26:06.606721"
+      }
     }
   }
 };
