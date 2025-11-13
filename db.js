@@ -2708,6 +2708,15 @@ module.exports = {
       "created_at": "2025 13 11 09:41",
       "expires_at": "2025 13 11 09:43",
       "used": false
+    },
+    "SBNH": {
+      "discord_id": 489329975061905418,
+      "discord_username": "grihan9l",
+      "discord_user": "grihan9l",
+      "discord_server_nick": "Teo",
+      "created_at": "2025 13 11 09:45",
+      "expires_at": "2025 13 11 09:47",
+      "used": false
     }
   }
 };
