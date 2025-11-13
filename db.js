@@ -2851,15 +2851,6 @@ module.exports = {
       "last_invite_issued_at": "2025-11-14T00:26:28.949190",
       "invite_link_issued": true
     },
-    "0N7A": {
-      "discord_id": 1175932260176900156,
-      "discord_username": "ddn077",
-      "discord_user": "ddn077",
-      "discord_server_nick": "Duka",
-      "created_at": "2025 13 11 23:32",
-      "expires_at": "2025 13 11 23:34",
-      "used": false
-    },
     "O9Z3": {
       "discord_id": 1175932260176900156,
       "discord_username": "ddn077",
