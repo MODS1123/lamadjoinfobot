@@ -637,11 +637,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:11.802347",
       "telegram_unsubscribed_at": "2025-11-10T18:52:30.686490",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T01:16:09.774443Z",
+      "telegram_banned_at": "2025-11-14T01:23:35.589862Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:11.861393",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T01:23:33.812092Z",
+      "discord_removed_at": "2025-11-14T01:16:08.309780Z",
       "discord_removed_display_name": null
     },
     "URBU": {
