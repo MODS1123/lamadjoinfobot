@@ -1437,11 +1437,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:14.954299",
       "telegram_unsubscribed_at": "2025-11-04T00:32:17.909523",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:18:33.064111Z",
+      "telegram_banned_at": "2025-11-14T00:25:42.561363Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.998117",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:25:40.224843Z",
+      "discord_removed_at": "2025-11-14T00:18:31.259774Z",
       "discord_removed_display_name": null
     },
     "HMOH": {
