@@ -1303,7 +1303,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:14.436157",
       "telegram_unsubscribed_at": "2025-11-10T17:00:29.823514",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:25:34.772999Z",
+      "telegram_banned_at": "2025-11-14T00:32:53.322528Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.480268",
       "discord_removed": true,
@@ -1413,11 +1413,11 @@ module.exports = {
       "invite_link_issued": true,
       "telegram_unsubscribed_at": "2025-11-06T15:26:01.831868",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:25:38.070183Z",
+      "telegram_banned_at": "2025-11-14T00:32:57.315507Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.918613",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:25:36.416143Z",
+      "discord_removed_at": "2025-11-14T00:32:55.504798Z",
       "discord_removed_display_name": null
     },
     "QKLD": {
@@ -1437,11 +1437,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:14.954299",
       "telegram_unsubscribed_at": "2025-11-04T00:32:17.909523",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:25:42.561363Z",
+      "telegram_banned_at": "2025-11-14T00:33:00.589965Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.998117",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:18:31.259774Z",
+      "discord_removed_at": "2025-11-14T00:32:58.841551Z",
       "discord_removed_display_name": null
     },
     "HMOH": {
@@ -2319,11 +2319,11 @@ module.exports = {
         "telegram_username": "idnkcr",
         "activated_at": "2025-11-01T19:32:13.518689"
       },
-      "telegram_subscribed": false,
+      "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T02:11:03.432719",
-      "telegram_unsubscribed_at": "2025-11-14T01:33:00.479595",
-      "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T01:33:00.516721",
+      "telegram_unsubscribed_at": "2025-11-02T02:10:38.318196",
+      "telegram_banned": false,
+      "telegram_banned_at": "2025-11-02T02:10:38.355819",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:03.469750"
     },
