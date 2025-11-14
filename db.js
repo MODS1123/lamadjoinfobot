@@ -1276,11 +1276,11 @@ module.exports = {
         "telegram_username": "nev5r",
         "activated_at": "2025-10-25T22:06:42.936353"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:14.349777",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:35.716261",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:35.748796",
+      "telegram_unsubscribed_at": "2025-11-14T01:06:21.115752",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-14T01:06:21.148663",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:14.397942"
     },
