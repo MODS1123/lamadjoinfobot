@@ -1988,16 +1988,13 @@ module.exports = {
         "telegram_username": "peacefulfreak",
         "activated_at": "2025-10-28T14:59:44.985359"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:02.272962",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:37.453290",
+      "telegram_unsubscribed_at": "2025-11-14T01:22:21.794698",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:22:21.200774Z",
-      "telegram_ban_reason": "discord_removed_event",
-      "telegram_unbanned_at": "2025-11-02T02:11:02.318761",
-      "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:22:19.483257Z",
-      "discord_removed_display_name": null
+      "telegram_banned_at": "2025-11-14T01:22:21.837062",
+      "telegram_ban_reason": "unsubscribed",
+      "telegram_unbanned_at": "2025-11-02T02:11:02.318761"
     },
     "SI21": {
       "discord_id": 665953451926356046,
