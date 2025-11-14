@@ -2840,7 +2840,9 @@ module.exports = {
       "telegram_unsubscribed_at": "2025-11-14T01:48:52.435766",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-14T01:48:52.473105",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_ban_reason": "unsubscribed",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-14T00:56:10.552207Z"
     },
     "S7YI": {
       "discord_id": 1368898752827494462,
