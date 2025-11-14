@@ -1853,16 +1853,13 @@ module.exports = {
         "telegram_username": "maZZafakaa",
         "activated_at": "2025-10-27T19:24:41.546429"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:01.383865",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:37.234000",
+      "telegram_unsubscribed_at": "2025-11-14T01:20:11.945983",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:20:11.657353Z",
-      "telegram_ban_reason": "discord_removed_event",
-      "telegram_unbanned_at": "2025-11-02T02:11:01.436960",
-      "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:20:09.499981Z",
-      "discord_removed_display_name": null
+      "telegram_banned_at": "2025-11-14T01:20:11.974864",
+      "telegram_ban_reason": "unsubscribed",
+      "telegram_unbanned_at": "2025-11-02T02:11:01.436960"
     },
     "UI6L": {
       "discord_id": 477446898337447936,
