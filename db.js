@@ -1282,7 +1282,9 @@ module.exports = {
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-14T01:06:21.148663",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:14.397942"
+      "telegram_unbanned_at": "2025-11-02T02:11:14.397942",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-14T00:11:15.655151Z"
     },
     "TMDE": {
       "discord_id": 1034425830803251280,
