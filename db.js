@@ -1284,7 +1284,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.397942",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T05:06:36.244941Z"
+      "discord_removed_at": "2025-11-14T05:14:04.636700Z"
     },
     "TMDE": {
       "discord_id": 1034425830803251280,
