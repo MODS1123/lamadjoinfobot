@@ -2056,11 +2056,11 @@ module.exports = {
         "telegram_username": "gaddd1",
         "activated_at": "2025-10-29T13:11:37.442263"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:02.474977",
       "last_invite_issued_at": "2025-10-29T13:12:02.783026",
       "invite_link_issued": true,
-      "telegram_unsubscribed_at": "2025-11-02T02:10:37.578739",
+      "telegram_unsubscribed_at": "2025-11-14T01:27:41.881347",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-14T00:26:32.572776Z",
       "telegram_ban_reason": "not_in_guild_check",
