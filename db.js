@@ -2319,9 +2319,9 @@ module.exports = {
         "telegram_username": "idnkcr",
         "activated_at": "2025-11-01T19:32:13.518689"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:03.432719",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:38.318196",
+      "telegram_unsubscribed_at": "2025-11-14T01:35:08.814276",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-14T00:34:01.978253Z",
       "telegram_ban_reason": "not_in_guild_check",
@@ -2365,14 +2365,15 @@ module.exports = {
         "telegram_username": "GusiRaze",
         "activated_at": "2025-11-02T18:59:18.203949"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T18:59:26.135889",
       "discord_removed": true,
       "discord_removed_at": "2025-11-14T00:34:50.699465Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-14T00:34:52.244542Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-14T01:35:08.853367"
     },
     "QJLZ": {
       "discord_id": 1399747125591408694,
