@@ -1998,7 +1998,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.318761",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T11:11:06.802773Z"
+      "discord_removed_at": "2025-11-14T11:18:31.992748Z"
     },
     "SI21": {
       "discord_id": 665953451926356046,
@@ -2902,15 +2902,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-14T00:53:41.825523"
-    },
-    "JMZS": {
-      "discord_id": 927236094569906217,
-      "discord_username": "bald_000",
-      "discord_user": "bald_000",
-      "discord_server_nick": "Diego",
-      "created_at": "2025 14 11 11:18",
-      "expires_at": "2025 14 11 11:20",
-      "used": false
     }
   }
 };
