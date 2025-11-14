@@ -942,11 +942,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:12.955771",
       "telegram_unsubscribed_at": "2025-11-04T09:24:37.649995",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:17:43.827902Z",
+      "telegram_banned_at": "2025-11-14T00:24:54.660884Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:12.998835",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:24:52.881253Z",
+      "discord_removed_at": "2025-11-14T00:17:42.269462Z",
       "discord_removed_display_name": null
     },
     "J5S2": {
