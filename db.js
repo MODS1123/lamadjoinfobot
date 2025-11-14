@@ -1610,7 +1610,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:15.576064",
       "telegram_unsubscribed_at": "2025-11-05T13:14:39.775192",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:40:27.173571Z",
+      "telegram_banned_at": "2025-11-14T00:47:45.071659Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:15.622994",
       "discord_removed": true,
@@ -1655,11 +1655,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:15.762908",
       "telegram_unsubscribed_at": "2025-11-09T17:31:48.860172",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T00:40:30.687771Z",
+      "telegram_banned_at": "2025-11-14T00:47:47.978872Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:15.808786",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T00:40:29.058389Z",
+      "discord_removed_at": "2025-11-14T00:47:46.504769Z",
       "discord_removed_display_name": null
     },
     "ONF2": {
@@ -2835,12 +2835,8 @@ module.exports = {
         "telegram_username": "Daniel77645",
         "activated_at": "2025-11-13T15:07:13.646033"
       },
-      "telegram_subscribed": false,
-      "telegram_resubscribed_at": "2025-11-13T15:07:55.476909",
-      "telegram_unsubscribed_at": "2025-11-14T01:47:48.777729",
-      "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T01:47:48.807200",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-13T15:07:55.476909"
     },
     "S7YI": {
       "discord_id": 1368898752827494462,
