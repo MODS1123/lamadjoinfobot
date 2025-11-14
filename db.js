@@ -1857,11 +1857,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:01.383865",
       "telegram_unsubscribed_at": "2025-11-14T01:20:11.945983",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-14T17:11:00.048458Z",
+      "telegram_banned_at": "2025-11-14T17:18:34.645034Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:01.436960",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T17:18:33.100084Z"
+      "discord_removed_at": "2025-11-14T17:10:58.103718Z"
     },
     "UI6L": {
       "discord_id": 477446898337447936,
