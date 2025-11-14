@@ -2064,7 +2064,9 @@ module.exports = {
       "telegram_banned": false,
       "telegram_banned_at": "2025-11-02T02:10:37.615622",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:02.518442"
+      "telegram_unbanned_at": "2025-11-02T02:11:02.518442",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-14T00:26:30.661517Z"
     },
     "QH8X": {
       "discord_id": 432510354107531264,
