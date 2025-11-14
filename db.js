@@ -2902,6 +2902,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-14T00:53:41.825523"
+    },
+    "JMZS": {
+      "discord_id": 927236094569906217,
+      "discord_username": "bald_000",
+      "discord_user": "bald_000",
+      "discord_server_nick": "Diego",
+      "created_at": "2025 14 11 11:18",
+      "expires_at": "2025 14 11 11:20",
+      "used": false
     }
   }
 };
