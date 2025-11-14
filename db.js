@@ -1192,7 +1192,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:13.979894",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-14T04:51:43.290402Z"
+      "discord_removed_at": "2025-11-14T04:59:03.983230Z"
     },
     "QMEP": {
       "discord_id": 1145655089554526228,
