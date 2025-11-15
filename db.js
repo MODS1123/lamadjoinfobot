@@ -1441,7 +1441,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.998117",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T18:09:28.363170Z",
+      "discord_removed_at": "2025-11-15T18:16:54.951769Z",
       "discord_removed_display_name": null
     },
     "HMOH": {
