@@ -1655,7 +1655,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:15.762908",
       "telegram_unsubscribed_at": "2025-11-09T17:31:48.860172",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-15T21:37:21.536101Z",
+      "telegram_banned_at": "2025-11-15T21:44:44.972545Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:15.808786",
       "discord_removed": true,
@@ -2910,15 +2910,6 @@ module.exports = {
       "discord_server_nick": "Yuriy",
       "created_at": "2025 15 11 21:42",
       "expires_at": "2025 15 11 21:44",
-      "used": false
-    },
-    "CGLA": {
-      "discord_id": 615888429988970506,
-      "discord_username": "yyynker",
-      "discord_user": "yyynker",
-      "discord_server_nick": "Yuriy",
-      "created_at": "2025 15 11 21:44",
-      "expires_at": "2025 15 11 21:46",
       "used": false
     }
   }
