@@ -1413,7 +1413,7 @@ module.exports = {
       "invite_link_issued": true,
       "telegram_unsubscribed_at": "2025-11-06T15:26:01.831868",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-15T12:01:30.018999Z",
+      "telegram_banned_at": "2025-11-15T12:08:54.537566Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.918613",
       "discord_removed": true,
