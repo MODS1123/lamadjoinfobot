@@ -592,7 +592,7 @@ module.exports = {
       "last_invite_issued_at": "2025-10-23T18:31:45.815182",
       "invite_link_issued": true,
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T04:53:42.602435Z",
+      "discord_removed_at": "2025-11-15T05:01:01.125171Z",
       "discord_removed_display_name": null,
       "telegram_unsubscribed_at": "2025-10-28T11:49:27.487888",
       "telegram_banned": true,
