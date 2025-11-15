@@ -2919,7 +2919,12 @@ module.exports = {
       "discord_server_nick": "Yuriy",
       "created_at": "2025 15 11 21:47",
       "expires_at": "2025 15 11 21:49",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1006714493,
+        "telegram_username": "demorage",
+        "activated_at": "2025-11-15T22:47:32.306160"
+      }
     }
   }
 };
