@@ -1994,7 +1994,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:02.272962",
       "telegram_unsubscribed_at": "2025-11-14T01:22:21.794698",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-15T00:24:32.398788Z",
+      "telegram_banned_at": "2025-11-15T00:17:14.422092Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.318761",
       "discord_removed": true,
@@ -2066,7 +2066,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.518442",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T00:17:16.248753Z"
+      "discord_removed_at": "2025-11-15T00:24:34.126101Z"
     },
     "QH8X": {
       "discord_id": 432510354107531264,
