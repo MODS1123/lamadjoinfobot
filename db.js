@@ -682,11 +682,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:11.979850",
       "telegram_unsubscribed_at": "2025-11-14T00:03:46.409674",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-15T21:36:25.008582Z",
+      "telegram_banned_at": "2025-11-15T21:43:44.591066Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:12.052250",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T21:36:23.524636Z",
+      "discord_removed_at": "2025-11-15T21:43:43.025672Z",
       "discord_removed_display_name": null
     },
     "BUGK": {
@@ -2910,12 +2910,7 @@ module.exports = {
       "discord_server_nick": "Yuriy",
       "created_at": "2025 15 11 21:42",
       "expires_at": "2025 15 11 21:44",
-      "used": true,
-      "activated_by": {
-        "telegram_id": 1006714493,
-        "telegram_username": "demorage",
-        "activated_at": "2025-11-15T22:43:44.179042"
-      }
+      "used": false
     }
   }
 };
