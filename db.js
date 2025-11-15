@@ -2153,7 +2153,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-15T16:23:58.296702Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T16:23:56.593082Z"
+      "discord_removed_at": "2025-11-15T16:32:10.027965Z"
     },
     "J9TZ": {
       "discord_id": 710976667258191942,
