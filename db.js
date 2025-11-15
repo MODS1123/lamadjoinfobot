@@ -2911,6 +2911,15 @@ module.exports = {
       "created_at": "2025 15 11 21:42",
       "expires_at": "2025 15 11 21:44",
       "used": false
+    },
+    "CGLA": {
+      "discord_id": 615888429988970506,
+      "discord_username": "yyynker",
+      "discord_user": "yyynker",
+      "discord_server_nick": "Yuriy",
+      "created_at": "2025 15 11 21:44",
+      "expires_at": "2025 15 11 21:46",
+      "used": false
     }
   }
 };
