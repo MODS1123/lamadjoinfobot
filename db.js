@@ -1883,7 +1883,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-15T05:17:02.779125Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T05:17:01.470394Z"
+      "discord_removed_at": "2025-11-15T05:24:18.499779Z"
     },
     "FCM2": {
       "discord_id": 1212280996284596225,
