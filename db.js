@@ -2902,6 +2902,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-14T00:53:41.825523"
+    },
+    "2PYU": {
+      "discord_id": 615888429988970506,
+      "discord_username": "yyynker",
+      "discord_user": "yyynker",
+      "discord_server_nick": "Yuriy",
+      "created_at": "2025 15 11 21:42",
+      "expires_at": "2025 15 11 21:44",
+      "used": false
     }
   }
 };
