@@ -1081,7 +1081,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:13.572197",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-15T12:01:01.866481Z"
+      "discord_removed_at": "2025-11-15T12:08:23.659018Z"
     },
     "YSBJ": {
       "discord_id": 1404836749225623554,
