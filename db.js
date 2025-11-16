@@ -2062,7 +2062,7 @@ module.exports = {
       "invite_link_issued": true,
       "telegram_unsubscribed_at": "2025-11-14T01:27:41.881347",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-16T06:36:09.524462Z",
+      "telegram_banned_at": "2025-11-16T06:43:34.307227Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.518442",
       "discord_removed": true,
