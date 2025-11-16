@@ -2231,11 +2231,11 @@ module.exports = {
         "telegram_username": "Sssrgyl",
         "activated_at": "2025-10-30T22:35:00.581594"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:03.115074",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:38.059679",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:38.104030",
+      "telegram_unsubscribed_at": "2025-11-16T01:06:07.653195",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-16T01:06:07.692882",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:03.159188"
     },
