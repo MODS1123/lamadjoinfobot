@@ -345,7 +345,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:10.948904",
       "telegram_unsubscribed_at": "2025-11-14T00:59:57.773088",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-17T20:09:00.438583Z",
+      "telegram_banned_at": "2025-11-17T20:14:09.185030Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:10.987630",
       "discord_removed": true,
@@ -592,7 +592,7 @@ module.exports = {
       "last_invite_issued_at": "2025-10-23T18:31:45.815182",
       "invite_link_issued": true,
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T20:09:02.369191Z",
+      "discord_removed_at": "2025-11-17T20:14:11.334414Z",
       "discord_removed_display_name": null,
       "telegram_unsubscribed_at": "2025-10-28T11:49:27.487888",
       "telegram_banned": true,
@@ -2947,15 +2947,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
-    },
-    "J8FE": {
-      "discord_id": 1197117212385878087,
-      "discord_username": "albsefgpspbvgbvzv_19777",
-      "discord_user": "albsefgpspbvgbvzv_19777",
-      "discord_server_nick": "AlbertoV",
-      "created_at": "2025 17 11 20:14",
-      "expires_at": "2025 17 11 20:16",
-      "used": false
     }
   }
 };
