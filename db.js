@@ -2329,7 +2329,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:03.469750",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T01:54:34.931001Z"
+      "discord_removed_at": "2025-11-17T02:01:58.212812Z"
     },
     "PEC8": {
       "discord_id": 380023243907792907,
