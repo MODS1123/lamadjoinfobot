@@ -2947,6 +2947,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
+    },
+    "ZGHA": {
+      "discord_id": 1197117212385878087,
+      "discord_username": "albsefgpspbvgbvzv_19777",
+      "discord_user": "albsefgpspbvgbvzv_19777",
+      "discord_server_nick": "AlbertoV",
+      "created_at": "2025 17 11 20:19",
+      "expires_at": "2025 17 11 20:21",
+      "used": false
     }
   }
 };
