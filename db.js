@@ -1998,7 +1998,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.318761",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T06:05:30.564055Z"
+      "discord_removed_at": "2025-11-17T06:12:55.846064Z"
     },
     "SI21": {
       "discord_id": 665953451926356046,
