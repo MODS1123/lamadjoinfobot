@@ -2235,11 +2235,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:03.115074",
       "telegram_unsubscribed_at": "2025-11-16T01:06:07.653195",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-17T10:48:20.697063Z",
+      "telegram_banned_at": "2025-11-17T10:55:52.685536Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:03.159188",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T10:55:51.077332Z"
+      "discord_removed_at": "2025-11-17T10:48:19.248834Z"
     },
     "C01C": {
       "discord_id": 613103041322811523,
