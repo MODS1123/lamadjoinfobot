@@ -1054,7 +1054,7 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:13.433444",
       "telegram_unsubscribed_at": "2025-11-11T21:25:36.983062",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-17T19:28:58.019368Z",
+      "telegram_banned_at": "2025-11-17T19:34:59.749750Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:13.486425",
       "discord_removed": true,
@@ -1081,7 +1081,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:13.572197",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T19:28:59.875277Z"
+      "discord_removed_at": "2025-11-17T19:35:01.792161Z"
     },
     "YSBJ": {
       "discord_id": 1404836749225623554,
@@ -2947,15 +2947,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
-    },
-    "U440": {
-      "discord_id": 1197117212385878087,
-      "discord_username": "albsefgpspbvgbvzv_19777",
-      "discord_user": "albsefgpspbvgbvzv_19777",
-      "discord_server_nick": "AlbertoV",
-      "created_at": "2025 17 11 19:35",
-      "expires_at": "2025 17 11 19:37",
-      "used": false
     }
   }
 };
