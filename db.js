@@ -1994,11 +1994,11 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-02T02:11:02.272962",
       "telegram_unsubscribed_at": "2025-11-14T01:22:21.794698",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-17T10:48:08.036308Z",
+      "telegram_banned_at": "2025-11-17T10:55:34.783292Z",
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:02.318761",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T10:55:33.119236Z"
+      "discord_removed_at": "2025-11-17T10:48:06.315453Z"
     },
     "SI21": {
       "discord_id": 665953451926356046,
