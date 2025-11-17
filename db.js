@@ -2939,7 +2939,12 @@ module.exports = {
       "discord_server_nick": "IscariotI",
       "created_at": "2025 17 11 19:17",
       "expires_at": "2025 17 11 19:19",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 871850491,
+        "telegram_username": "kureshuz",
+        "activated_at": "2025-11-17T20:17:20.752747"
+      }
     }
   }
 };
