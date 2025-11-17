@@ -1883,7 +1883,7 @@ module.exports = {
       "telegram_banned_at": "2025-11-17T20:00:29.868265Z",
       "telegram_ban_reason": "not_in_guild_check",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T20:04:39.051528Z"
+      "discord_removed_at": "2025-11-17T20:00:27.921820Z"
     },
     "FCM2": {
       "discord_id": 1212280996284596225,
@@ -2947,6 +2947,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
+    },
+    "M6RB": {
+      "discord_id": 1197117212385878087,
+      "discord_username": "albsefgpspbvgbvzv_19777",
+      "discord_user": "albsefgpspbvgbvzv_19777",
+      "discord_server_nick": "AlbertoV",
+      "created_at": "2025 17 11 20:04",
+      "expires_at": "2025 17 11 20:09",
+      "used": false
     }
   }
 };
