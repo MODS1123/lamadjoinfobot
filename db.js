@@ -2931,15 +2931,6 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-15T22:47:50.938744",
       "last_invite_issued_at": "2025-11-15T22:47:55.469764",
       "invite_link_issued": true
-    },
-    "3WRM": {
-      "discord_id": 657965283390259200,
-      "discord_username": "kureshuz",
-      "discord_user": "kureshuz",
-      "discord_server_nick": "IscariotI",
-      "created_at": "2025 17 11 19:09",
-      "expires_at": "2025 17 11 19:11",
-      "used": false
     }
   }
 };
