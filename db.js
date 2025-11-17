@@ -1441,7 +1441,7 @@ module.exports = {
       "telegram_ban_reason": "not_in_guild_check",
       "telegram_unbanned_at": "2025-11-02T02:11:14.998117",
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T19:44:50.552545Z",
+      "discord_removed_at": "2025-11-17T19:54:29.454540Z",
       "discord_removed_display_name": null
     },
     "HMOH": {
@@ -2947,15 +2947,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
-    },
-    "ZNTQ": {
-      "discord_id": 1197117212385878087,
-      "discord_username": "albsefgpspbvgbvzv_19777",
-      "discord_user": "albsefgpspbvgbvzv_19777",
-      "discord_server_nick": "AlbertoV",
-      "created_at": "2025 17 11 19:54",
-      "expires_at": "2025 17 11 20:04",
-      "used": false
     }
   }
 };
