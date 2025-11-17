@@ -592,11 +592,11 @@ module.exports = {
       "last_invite_issued_at": "2025-10-23T18:31:45.815182",
       "invite_link_issued": true,
       "discord_removed": true,
-      "discord_removed_at": "2025-11-17T19:50:45.964020Z",
+      "discord_removed_at": "2025-11-17T19:58:56.267748Z",
       "discord_removed_display_name": null,
       "telegram_unsubscribed_at": "2025-10-28T11:49:27.487888",
       "telegram_banned": true,
-      "telegram_banned_at": "2025-11-17T19:50:47.519933Z",
+      "telegram_banned_at": "2025-11-17T19:58:57.893355Z",
       "telegram_ban_reason": "not_in_guild_check"
     },
     "O8SF": {
@@ -2947,15 +2947,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
-    },
-    "A8SB": {
-      "discord_id": 1197117212385878087,
-      "discord_username": "albsefgpspbvgbvzv_19777",
-      "discord_user": "albsefgpspbvgbvzv_19777",
-      "discord_server_nick": "AlbertoV",
-      "created_at": "2025 17 11 19:58",
-      "expires_at": "2025 17 11 20:03",
-      "used": false
     }
   }
 };
