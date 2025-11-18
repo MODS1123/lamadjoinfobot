@@ -2947,6 +2947,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-17T20:18:21.990441"
+    },
+    "0M3V": {
+      "discord_id": 629009991386267659,
+      "discord_username": "mzrka",
+      "discord_user": "mzrka",
+      "discord_server_nick": "Kappa",
+      "created_at": "2025 18 11 15:51",
+      "expires_at": "2025 18 11 15:56",
+      "used": false
     }
   }
 };
