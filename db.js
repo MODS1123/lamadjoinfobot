@@ -2955,7 +2955,12 @@ module.exports = {
       "discord_server_nick": "Kappa",
       "created_at": "2025 18 11 15:51",
       "expires_at": "2025 18 11 15:56",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1286392389,
+        "telegram_username": "mmz_web",
+        "activated_at": "2025-11-18T16:53:20.065447"
+      }
     }
   }
 };
