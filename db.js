@@ -2960,7 +2960,9 @@ module.exports = {
         "telegram_id": 1286392389,
         "telegram_username": "mmz_web",
         "activated_at": "2025-11-18T16:53:20.065447"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-18T16:54:14.969822"
     }
   }
 };
