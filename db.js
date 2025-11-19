@@ -2963,6 +2963,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-18T16:54:14.969822"
+    },
+    "LEAA": {
+      "discord_id": 656896279552458756,
+      "discord_username": "chegokek",
+      "discord_user": "chegokek",
+      "discord_server_nick": "Ilya",
+      "created_at": "2025 19 11 16:45",
+      "expires_at": "2025 19 11 16:50",
+      "used": false
     }
   }
 };
