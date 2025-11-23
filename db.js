@@ -3006,6 +3006,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-23T17:59:08.258498"
+    },
+    "3DYE": {
+      "discord_id": 765942286889648158,
+      "discord_username": "manso0n",
+      "discord_user": "manso0n",
+      "discord_server_nick": "Travis",
+      "created_at": "2025 23 11 17:34",
+      "expires_at": "2025 23 11 17:39",
+      "used": false
     }
   }
 };
