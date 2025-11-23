@@ -494,7 +494,9 @@ module.exports = {
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-23T10:52:55.577387",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:11.444788"
+      "telegram_unbanned_at": "2025-11-02T02:11:11.444788",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-23T09:58:03.160543Z"
     },
     "7FSA": {
       "discord_id": 425770085177622529,
