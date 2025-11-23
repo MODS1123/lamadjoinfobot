@@ -3024,15 +3024,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-23T18:37:10.448054"
-    },
-    "9XQ6": {
-      "discord_id": 1197117212385878087,
-      "discord_username": "albsefgpspbvgbvzv_19777",
-      "discord_user": "albsefgpspbvgbvzv_19777",
-      "discord_server_nick": "AlbertoV",
-      "created_at": "2025 23 11 23:31",
-      "expires_at": "2025 23 11 23:36",
-      "used": false
     }
   }
 };
