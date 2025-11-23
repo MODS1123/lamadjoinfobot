@@ -2990,6 +2990,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-23T17:51:39.693266"
+    },
+    "BAZP": {
+      "discord_id": 719075361908064307,
+      "discord_username": "bernthal_",
+      "discord_user": "bernthal_",
+      "discord_server_nick": "BernardI",
+      "created_at": "2025 23 11 16:55",
+      "expires_at": "2025 23 11 17:00",
+      "used": false
     }
   }
 };
