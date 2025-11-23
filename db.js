@@ -2975,11 +2975,11 @@ module.exports = {
       "expires_at": "2025 19 11 16:50",
       "used": false
     },
-    "ITVO": {
-      "discord_id": 719075361908064307,
-      "discord_username": "bernthal_",
-      "discord_user": "bernthal_",
-      "discord_server_nick": "BernardI",
+    "RJRB": {
+      "discord_id": 1218570464687816705,
+      "discord_username": "evilcandy",
+      "discord_user": "evilcandy",
+      "discord_server_nick": "Sidni",
       "created_at": "2025 23 11 16:49",
       "expires_at": "2025 23 11 16:54",
       "used": false
