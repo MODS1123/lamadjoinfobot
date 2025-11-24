@@ -3058,15 +3058,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-24T03:33:56.575576"
-    },
-    "QF1J": {
-      "discord_id": 783708150360309781,
-      "discord_username": "kaha1732",
-      "discord_user": "kaha1732",
-      "discord_server_nick": "MagaI",
-      "created_at": "2025 24 11 17:29",
-      "expires_at": "2025 24 11 17:34",
-      "used": false
     }
   }
 };
