@@ -3042,15 +3042,6 @@ module.exports = {
       "created_at": "2025 24 11 00:06",
       "expires_at": "2025 24 11 00:11",
       "used": false
-    },
-    "5W0B": {
-      "discord_id": 612077901830946835,
-      "discord_username": "jmyx2460",
-      "discord_user": "jmyx2460",
-      "discord_server_nick": "jmyx",
-      "created_at": "2025 24 11 02:26",
-      "expires_at": "2025 24 11 02:31",
-      "used": false
     }
   }
 };
