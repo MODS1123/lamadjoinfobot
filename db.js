@@ -3074,6 +3074,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-24T18:35:47.679224"
+    },
+    "40FL": {
+      "discord_id": 386586621895639051,
+      "discord_username": "deitty666",
+      "discord_user": "deitty666",
+      "discord_server_nick": "Massa",
+      "created_at": "2025 24 11 17:39",
+      "expires_at": "2025 24 11 17:44",
+      "used": false
     }
   }
 };
