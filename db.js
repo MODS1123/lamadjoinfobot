@@ -3082,7 +3082,12 @@ module.exports = {
       "discord_server_nick": "Massa",
       "created_at": "2025 24 11 17:39",
       "expires_at": "2025 24 11 17:44",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 707538598,
+        "telegram_username": "w1ldking666",
+        "activated_at": "2025-11-24T18:39:53.231326"
+      }
     }
   }
 };
