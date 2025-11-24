@@ -3066,7 +3066,12 @@ module.exports = {
       "discord_server_nick": "MagaI",
       "created_at": "2025 24 11 17:35",
       "expires_at": "2025 24 11 17:40",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5117403120,
+        "telegram_username": "meloni_333",
+        "activated_at": "2025-11-24T18:35:40.680261"
+      }
     }
   }
 };
