@@ -3042,6 +3042,15 @@ module.exports = {
       "created_at": "2025 24 11 00:06",
       "expires_at": "2025 24 11 00:11",
       "used": false
+    },
+    "CQBR": {
+      "discord_id": 612077901830946835,
+      "discord_username": "jmyx2460",
+      "discord_user": "jmyx2460",
+      "discord_server_nick": "jmyx",
+      "created_at": "2025 24 11 02:33",
+      "expires_at": "2025 24 11 02:38",
+      "used": false
     }
   }
 };
