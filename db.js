@@ -3101,6 +3101,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-24T18:40:01.899162"
+    },
+    "EDTC": {
+      "discord_id": 464329841601150976,
+      "discord_username": "lorexbtw",
+      "discord_user": "lorexbtw",
+      "discord_server_nick": "Mercury",
+      "created_at": "2025 25 11 19:55",
+      "expires_at": "2025 25 11 20:00",
+      "used": false
     }
   }
 };
