@@ -3109,7 +3109,12 @@ module.exports = {
       "discord_server_nick": "Mercury",
       "created_at": "2025 25 11 19:55",
       "expires_at": "2025 25 11 20:00",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5022090112,
+        "telegram_username": "mexicanec000",
+        "activated_at": "2025-11-25T20:55:47.461349"
+      }
     }
   }
 };
