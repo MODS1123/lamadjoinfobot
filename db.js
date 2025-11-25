@@ -3022,14 +3022,15 @@ module.exports = {
         "telegram_username": null,
         "activated_at": "2025-11-23T18:36:59.786195"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-23T18:37:10.448054",
       "discord_removed": true,
       "discord_removed_at": "2025-11-25T12:50:24.055164Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-25T12:50:25.736282Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-25T13:51:06.973958"
     },
     "JBWZ": {
       "discord_id": 1197117212385878087,
