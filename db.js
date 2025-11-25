@@ -2499,8 +2499,12 @@ module.exports = {
         "telegram_username": "ak_cheak",
         "activated_at": "2025-11-04T23:40:31.735757"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-04T23:41:16.164352"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-11-04T23:41:16.164352",
+      "telegram_unsubscribed_at": "2025-11-25T14:52:08.553271",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-25T14:52:08.833053",
+      "telegram_ban_reason": "unsubscribed"
     },
     "IGI3": {
       "discord_id": 451526812284223490,
