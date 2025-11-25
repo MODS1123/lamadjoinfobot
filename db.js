@@ -3117,6 +3117,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-25T20:56:41.253313"
+    },
+    "WFSP": {
+      "discord_id": 1081279336621031436,
+      "discord_username": "assaultrifle9",
+      "discord_user": "assaultrifle9",
+      "discord_server_nick": "Aleksandr",
+      "created_at": "2025 25 11 20:16",
+      "expires_at": "2025 25 11 20:21",
+      "used": false
     }
   }
 };
