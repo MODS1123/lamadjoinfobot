@@ -3114,7 +3114,9 @@ module.exports = {
         "telegram_id": 5022090112,
         "telegram_username": "mexicanec000",
         "activated_at": "2025-11-25T20:55:47.461349"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-25T20:56:41.253313"
     }
   }
 };
