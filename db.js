@@ -3148,7 +3148,9 @@ module.exports = {
         "activated_at": "2025-11-26T16:36:04.809120"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-26T16:36:15.412839"
+      "telegram_resubscribed_at": "2025-11-26T16:36:15.412839",
+      "last_invite_issued_at": "2025-11-26T16:37:05.528215",
+      "invite_link_issued": true
     }
   }
 };
