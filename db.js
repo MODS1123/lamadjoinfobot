@@ -1522,9 +1522,9 @@ module.exports = {
         "telegram_username": "iMars71",
         "activated_at": "2025-10-26T15:12:19.804776"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:15.287866",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:36.483478",
+      "telegram_unsubscribed_at": "2025-11-26T18:32:46.652197",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-02T02:10:36.519561",
       "telegram_ban_reason": "discord_removed_event",
