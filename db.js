@@ -3154,6 +3154,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-26T16:36:15.412839",
       "last_invite_issued_at": "2025-11-26T16:37:05.528215",
       "invite_link_issued": true
+    },
+    "A20W": {
+      "discord_id": 1242111030071529585,
+      "discord_username": "nedanon123.",
+      "discord_user": "nedanon123.",
+      "discord_server_nick": "Shiva",
+      "created_at": "2025 26 11 20:53",
+      "expires_at": "2025 26 11 20:58",
+      "used": false
     }
   }
 };
