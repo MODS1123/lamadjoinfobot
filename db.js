@@ -3154,6 +3154,15 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-26T16:36:15.412839",
       "last_invite_issued_at": "2025-11-26T16:37:05.528215",
       "invite_link_issued": true
+    },
+    "1PIF": {
+      "discord_id": 927236094569906217,
+      "discord_username": "bald_000",
+      "discord_user": "bald_000",
+      "discord_server_nick": "Diego",
+      "created_at": "2025 26 11 19:21",
+      "expires_at": "2025 26 11 19:26",
+      "used": false
     }
   }
 };
