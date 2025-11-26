@@ -34,13 +34,13 @@ module.exports = {
         "telegram_username": "Alberto114",
         "activated_at": "2025-10-14T00:35:33.693411"
       },
-      "telegram_subscribed": false,
-      "telegram_resubscribed_at": "2025-11-02T02:11:10.095830",
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-11-26T20:52:41.816307",
       "telegram_unsubscribed_at": "2025-11-26T20:51:11.431486",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-11-26T20:51:34.512694",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:10.150595"
+      "telegram_unbanned_at": "2025-11-26T20:52:41.852821"
     },
     "7VL0": {
       "discord_id": 1259609230684459079,
