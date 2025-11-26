@@ -3133,6 +3133,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-25T21:18:47.387301"
+    },
+    "TDTU": {
+      "discord_id": 868154127715303477,
+      "discord_username": "maisonsainthust",
+      "discord_user": "maisonsainthust",
+      "discord_server_nick": "Kiroka",
+      "created_at": "2025 26 11 15:32",
+      "expires_at": "2025 26 11 15:37",
+      "used": false
     }
   }
 };
