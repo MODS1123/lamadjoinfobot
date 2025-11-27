@@ -3005,7 +3005,10 @@ module.exports = {
         "activated_at": "2025-11-23T17:51:11.864946"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-23T17:51:39.693266"
+      "telegram_resubscribed_at": "2025-11-23T17:51:39.693266",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-27T20:36:53.069931Z",
+      "discord_removed_display_name": null
     },
     "BAZP": {
       "discord_id": 719075361908064307,
