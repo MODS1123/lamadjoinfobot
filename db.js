@@ -3177,6 +3177,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-26T21:56:14.444174"
+    },
+    "Y803": {
+      "discord_id": 656896279552458756,
+      "discord_username": "chegokek",
+      "discord_user": "chegokek",
+      "discord_server_nick": "Ilya",
+      "created_at": "2025 27 11 20:32",
+      "expires_at": "2025 27 11 20:37",
+      "used": false
     }
   }
 };
