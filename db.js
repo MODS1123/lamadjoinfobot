@@ -2490,7 +2490,10 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-03T23:47:29.514866",
       "discord_removed": true,
       "discord_removed_at": "2025-11-27T20:42:13.731973Z",
-      "discord_removed_display_name": null
+      "discord_removed_display_name": null,
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-27T20:42:15.393181Z",
+      "telegram_ban_reason": "discord_removed_event"
     },
     "YXGG": {
       "discord_id": 694555475999588482,
