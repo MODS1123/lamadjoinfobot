@@ -3004,14 +3004,15 @@ module.exports = {
         "telegram_username": "Sidni55",
         "activated_at": "2025-11-23T17:51:11.864946"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-23T17:51:39.693266",
       "discord_removed": true,
       "discord_removed_at": "2025-11-27T20:36:53.069931Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-27T20:36:54.781515Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-27T21:37:24.036997"
     },
     "BAZP": {
       "discord_id": 719075361908064307,
@@ -3026,14 +3027,15 @@ module.exports = {
         "telegram_username": "radik4502",
         "activated_at": "2025-11-23T17:55:58.619334"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-23T17:59:08.258498",
       "discord_removed": true,
       "discord_removed_at": "2025-11-27T20:36:48.489103Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-27T20:36:50.210931Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-27T21:37:24.056279"
     },
     "3DYE": {
       "discord_id": 765942286889648158,
@@ -3121,8 +3123,12 @@ module.exports = {
         "telegram_username": "w1ldking666",
         "activated_at": "2025-11-24T18:39:53.231326"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-24T18:40:01.899162"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-11-24T18:40:01.899162",
+      "telegram_unsubscribed_at": "2025-11-27T21:37:24.137688",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-11-27T21:37:24.177602",
+      "telegram_ban_reason": "unsubscribed"
     },
     "EDTC": {
       "discord_id": 464329841601150976,
