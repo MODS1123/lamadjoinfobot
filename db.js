@@ -3005,10 +3005,7 @@ module.exports = {
         "activated_at": "2025-11-23T17:51:11.864946"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-23T17:51:39.693266",
-      "discord_removed": true,
-      "discord_removed_at": "2025-11-27T20:36:53.069931Z",
-      "discord_removed_display_name": null
+      "telegram_resubscribed_at": "2025-11-23T17:51:39.693266"
     },
     "BAZP": {
       "discord_id": 719075361908064307,
@@ -3119,7 +3116,10 @@ module.exports = {
         "activated_at": "2025-11-24T18:39:53.231326"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-24T18:40:01.899162"
+      "telegram_resubscribed_at": "2025-11-24T18:40:01.899162",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-27T20:36:54.234962Z",
+      "discord_removed_display_name": null
     },
     "EDTC": {
       "discord_id": 464329841601150976,
