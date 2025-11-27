@@ -2539,7 +2539,10 @@ module.exports = {
         "activated_at": "2025-11-05T13:39:38.613640"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-05T13:39:42.552029"
+      "telegram_resubscribed_at": "2025-11-05T13:39:42.552029",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-27T10:45:39.959705Z",
+      "discord_removed_display_name": null
     },
     "EBRD": {
       "discord_id": 150210721475461120,
