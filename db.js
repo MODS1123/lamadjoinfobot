@@ -3117,14 +3117,15 @@ module.exports = {
         "telegram_username": "meloni_333",
         "activated_at": "2025-11-24T18:35:40.680261"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-24T18:35:47.679224",
       "discord_removed": true,
       "discord_removed_at": "2025-11-28T14:57:32.364439Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-28T14:57:34.523004Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-28T15:58:17.096062"
     },
     "40FL": {
       "discord_id": 386586621895639051,
