@@ -2305,11 +2305,11 @@ module.exports = {
         "telegram_username": "Rimmochka_Viktorovna",
         "activated_at": "2025-10-30T23:15:48.845189"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:03.362938",
       "last_invite_issued_at": "2025-10-30T23:19:04.968742",
       "invite_link_issued": true,
-      "telegram_unsubscribed_at": "2025-11-02T02:10:38.257260",
+      "telegram_unsubscribed_at": "2025-11-28T02:18:28.124160",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-02T02:10:38.298211",
       "telegram_ban_reason": "discord_removed_event",
