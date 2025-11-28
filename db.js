@@ -3150,14 +3150,15 @@ module.exports = {
         "telegram_username": "mexicanec000",
         "activated_at": "2025-11-25T20:55:47.461349"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-25T20:56:41.253313",
       "discord_removed": true,
       "discord_removed_at": "2025-11-28T00:15:38.582911Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-28T00:15:40.347214Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-11-28T01:16:19.856597"
     },
     "WFSP": {
       "discord_id": 1081279336621031436,
