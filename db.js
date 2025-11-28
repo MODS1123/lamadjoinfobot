@@ -3151,7 +3151,10 @@ module.exports = {
         "activated_at": "2025-11-25T20:55:47.461349"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-25T20:56:41.253313"
+      "telegram_resubscribed_at": "2025-11-25T20:56:41.253313",
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-28T00:15:38.582911Z",
+      "discord_removed_display_name": null
     },
     "WFSP": {
       "discord_id": 1081279336621031436,
