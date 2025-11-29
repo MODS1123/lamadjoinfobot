@@ -1349,13 +1349,10 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T02:11:14.599336",
       "telegram_unsubscribed_at": "2025-11-02T02:10:35.942786",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-11-02T02:10:35.983763",
-      "telegram_ban_reason": "discord_removed_event",
-      "telegram_unbanned_at": "2025-11-02T02:11:14.658101",
-      "discord_removed": true,
-      "discord_removed_at": "2025-11-29T18:48:45.386875Z",
-      "discord_removed_display_name": null
+      "telegram_ban_reason": "unsubscribed",
+      "telegram_unbanned_at": "2025-11-02T02:11:14.658101"
     },
     "XWHT": {
       "discord_id": 572725668329029653,
@@ -2046,11 +2043,11 @@ module.exports = {
         "telegram_username": "Imperious159",
         "activated_at": "2025-10-28T23:39:49.288476"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:02.394715",
       "last_invite_issued_at": "2025-10-28T23:40:25.352668",
       "invite_link_issued": true,
-      "telegram_unsubscribed_at": "2025-11-02T02:10:37.524382",
+      "telegram_unsubscribed_at": "2025-11-29T19:48:46.745990",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-02T02:10:37.560438",
       "telegram_ban_reason": "discord_removed_event",
