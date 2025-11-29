@@ -2599,7 +2599,7 @@ module.exports = {
         "telegram_username": "yasandu95",
         "activated_at": "2025-11-07T14:05:50.548832"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-07T14:32:14.924726",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-07T14:30:23.099564",
@@ -2607,7 +2607,7 @@ module.exports = {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "telegram_unsubscribed_at": "2025-11-07T14:25:25.137424",
+      "telegram_unsubscribed_at": "2025-11-29T19:54:10.891909",
       "telegram_unsubscribed": false,
       "telegram_unbanned_at": "2025-11-07T14:30:27.168833",
       "telegram_unban_previous_reason": "manual_ban",
