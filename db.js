@@ -3219,6 +3219,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-26T21:56:14.444174"
+    },
+    "1TEE": {
+      "discord_id": 972197263558447114,
+      "discord_username": "theslim4.",
+      "discord_user": "theslim4.",
+      "discord_server_nick": "Slim",
+      "created_at": "2025 29 11 18:42",
+      "expires_at": "2025 29 11 18:47",
+      "used": false
     }
   }
 };
