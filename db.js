@@ -2601,7 +2601,7 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-07T14:32:14.924726",
-      "telegram_banned": false,
+      "telegram_banned": true,
       "telegram_banned_at": "2025-11-07T14:30:23.099564",
       "telegram_banned_by": {
         "moderator_id": 921182112,
@@ -2619,7 +2619,8 @@ module.exports = {
       "invite_link_issued": true,
       "discord_removed": true,
       "discord_removed_at": "2025-11-29T18:53:49.301312Z",
-      "discord_removed_display_name": null
+      "discord_removed_display_name": null,
+      "telegram_ban_reason": "discord_removed_event"
     },
     "G7TP": {
       "discord_id": 416624248304697344,
