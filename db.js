@@ -2616,7 +2616,10 @@ module.exports = {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "discord_removed": true,
+      "discord_removed_at": "2025-11-29T18:53:49.301312Z",
+      "discord_removed_display_name": null
     },
     "G7TP": {
       "discord_id": 416624248304697344,
