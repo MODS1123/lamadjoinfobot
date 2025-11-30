@@ -3258,6 +3258,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-30T16:15:48.535108"
+    },
+    "B4Y2": {
+      "discord_id": 603142071494377503,
+      "discord_username": "sa_myra_y",
+      "discord_user": "sa_myra_y",
+      "discord_server_nick": "Bogdan",
+      "created_at": "2025 30 11 20:48",
+      "expires_at": "2025 30 11 20:53",
+      "used": false
     }
   }
 };
