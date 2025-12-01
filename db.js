@@ -3282,6 +3282,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-30T21:51:59.923284"
+    },
+    "PSM6": {
+      "discord_id": 972197263558447114,
+      "discord_username": "theslim4.",
+      "discord_user": "theslim4.",
+      "discord_server_nick": "Slim",
+      "created_at": "2025 01 12 22:43",
+      "expires_at": "2025 01 12 22:48",
+      "used": false
     }
   }
 };
