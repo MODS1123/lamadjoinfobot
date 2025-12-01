@@ -1748,8 +1748,9 @@ module.exports = {
       "used": true,
       "activated_by": {
         "telegram_id": 5238173344,
-        "telegram_username": null,
-        "activated_at": "2025-10-27T13:15:53.708182"
+        "telegram_username": "vmsdknmfknS",
+        "activated_at": "2025-10-27T13:15:53.708182",
+        "username_updated_at": "2025-12-01T17:52:16.048404"
       },
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:00.987224",
