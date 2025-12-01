@@ -2489,8 +2489,12 @@ module.exports = {
         "telegram_username": "D0rn1k",
         "activated_at": "2025-11-03T23:37:37.143310"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-03T23:38:00.318769"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-11-03T23:38:00.318769",
+      "telegram_unsubscribed_at": "2025-12-01T22:44:25.550371",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-01T22:44:25.625266",
+      "telegram_ban_reason": "unsubscribed"
     },
     "VH71": {
       "discord_id": 899882115695509565,
