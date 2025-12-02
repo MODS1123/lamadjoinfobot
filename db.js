@@ -85,11 +85,11 @@ module.exports = {
         "telegram_username": "Staffystack",
         "activated_at": "2025-10-14T01:00:53.668375"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-21T18:36:15.144479",
-      "telegram_unsubscribed_at": "2025-11-21T18:34:59.354894",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-21T18:34:59.455276",
+      "telegram_unsubscribed_at": "2025-12-02T19:49:29.822503",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-02T19:49:30.003843",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-21T18:36:15.183412"
     },
