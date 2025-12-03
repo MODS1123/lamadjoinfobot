@@ -1352,10 +1352,17 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:14.599336",
       "telegram_unsubscribed_at": "2025-11-29T19:49:52.728862",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-11-29T19:49:52.771657",
-      "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:14.658101"
+      "telegram_unbanned_at": "2025-12-03T22:21:12.201566",
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_by": {
+        "moderator_id": 738742514,
+        "moderator_username": "foby_01"
+      },
+      "grace_period_until": "2025-12-04T10:21:12.201577",
+      "telegram_unban_previous_reason": "unsubscribed"
     },
     "XWHT": {
       "discord_id": 572725668329029653,
