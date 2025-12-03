@@ -2576,10 +2576,18 @@ module.exports = {
       "discord_removed": true,
       "discord_removed_at": "2025-11-27T10:45:39.959705Z",
       "discord_removed_display_name": null,
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-11-27T10:45:41.675483Z",
-      "telegram_ban_reason": "discord_removed_event",
-      "telegram_unsubscribed_at": "2025-11-27T11:46:05.650596"
+      "telegram_unsubscribed_at": "2025-11-27T11:46:05.650596",
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_at": "2025-12-03T01:54:56.322102",
+      "telegram_unbanned_by": {
+        "moderator_id": 921182112,
+        "moderator_username": "Alberto114"
+      },
+      "grace_period_until": "2025-12-03T13:54:56.322114",
+      "telegram_unban_previous_reason": "discord_removed_event"
     },
     "EBRD": {
       "discord_id": 150210721475461120,
