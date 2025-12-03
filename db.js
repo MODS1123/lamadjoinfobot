@@ -3305,6 +3305,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-30T21:51:59.923284"
+    },
+    "ZUPC": {
+      "discord_id": 345555121536761857,
+      "discord_username": "hs7337",
+      "discord_user": "hs7337",
+      "discord_server_nick": "Gregor",
+      "created_at": "2025 03 12 21:19",
+      "expires_at": "2025 03 12 21:24",
+      "used": false
     }
   }
 };
