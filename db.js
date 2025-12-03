@@ -2808,8 +2808,12 @@ module.exports = {
         "telegram_username": "Cash_3",
         "activated_at": "2025-11-12T18:54:36.107052"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-12T18:55:41.133186"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-11-12T18:55:41.133186",
+      "telegram_unsubscribed_at": "2025-12-03T08:42:30.073286",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-03T08:42:30.237678",
+      "telegram_ban_reason": "unsubscribed"
     },
     "OW6Y": {
       "discord_id": 489329975061905418,
