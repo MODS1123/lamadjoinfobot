@@ -659,11 +659,11 @@ module.exports = {
         "telegram_username": "eduardcypoBbIu",
         "activated_at": "2025-10-23T18:54:49.440740"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:11.902795",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:45.806865",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:45.847083",
+      "telegram_unsubscribed_at": "2025-12-03T20:09:11.560399",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-03T20:09:11.685191",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:11.943720"
     },
