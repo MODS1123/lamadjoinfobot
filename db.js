@@ -2593,7 +2593,9 @@ module.exports = {
       },
       "telegram_unban_previous_reason": "discord_removed_event",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_subscribed_at": "2025-12-04T03:29:10.255622"
+      "telegram_subscribed_at": "2025-12-04T03:29:10.255622",
+      "last_invite_issued_at": "2025-12-04T14:08:47.119884",
+      "invite_link_issued": true
     },
     "EBRD": {
       "discord_id": 150210721475461120,
