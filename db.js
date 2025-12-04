@@ -2586,14 +2586,14 @@ module.exports = {
       "telegram_banned_at": "2025-12-03T13:55:06.844112",
       "telegram_unsubscribed_at": "2025-11-27T11:46:05.650596",
       "telegram_unsubscribed": false,
-      "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-12-04T03:27:25.500595",
       "telegram_unbanned_by": {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
       "telegram_unban_previous_reason": "discord_removed_event",
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_ban_reason": "unsubscribed",
+      "telegram_subscribed_at": "2025-12-04T03:29:10.255622"
     },
     "EBRD": {
       "discord_id": 150210721475461120,
