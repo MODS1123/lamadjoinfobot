@@ -2792,7 +2792,6 @@ module.exports = {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "grace_period_until": "2025-12-06T01:58:35.504748",
       "telegram_unban_previous_reason": "unsubscribed",
       "telegram_subscribed_at": "2025-12-05T13:59:36.280846",
       "last_invite_issued_at": "2025-12-05T14:01:35.980751",
