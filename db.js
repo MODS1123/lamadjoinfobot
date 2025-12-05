@@ -3323,6 +3323,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-30T21:51:59.923284"
+    },
+    "VJHG": {
+      "discord_id": 875155868457533441,
+      "discord_username": "lostxjeck",
+      "discord_user": "lostxjeck",
+      "discord_server_nick": "Aslan",
+      "created_at": "2025 05 12 19:35",
+      "expires_at": "2025 05 12 19:40",
+      "used": false
     }
   }
 };
