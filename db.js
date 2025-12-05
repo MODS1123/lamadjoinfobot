@@ -2781,20 +2781,20 @@ module.exports = {
         "activated_at": "2025-11-10T19:27:54.301400",
         "username_updated_at": "2025-12-05T13:55:59.407548"
       },
-      "telegram_subscribed": false,
+      "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-10T19:28:04.872147",
       "telegram_unsubscribed_at": "2025-12-03T20:17:21.631147",
       "telegram_banned": false,
       "telegram_banned_at": "2025-12-03T20:17:22.000024",
       "telegram_unsubscribed": false,
-      "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-12-05T13:58:35.504736",
       "telegram_unbanned_by": {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
       "grace_period_until": "2025-12-06T01:58:35.504748",
-      "telegram_unban_previous_reason": "unsubscribed"
+      "telegram_unban_previous_reason": "unsubscribed",
+      "telegram_subscribed_at": "2025-12-05T13:59:36.280846"
     },
     "01F2": {
       "discord_id": 945604048789307392,
