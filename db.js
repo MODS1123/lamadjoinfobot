@@ -2959,7 +2959,10 @@ module.exports = {
       "telegram_resubscribed_at": "2025-11-13T20:58:01.599783",
       "discord_removed": true,
       "discord_removed_at": "2025-12-06T22:51:11.705610Z",
-      "discord_removed_display_name": null
+      "discord_removed_display_name": null,
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-06T22:51:13.667932Z",
+      "telegram_ban_reason": "discord_removed_event"
     },
     "LLAI": {
       "discord_id": 786996938951753739,
