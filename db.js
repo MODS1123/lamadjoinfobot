@@ -2956,7 +2956,10 @@ module.exports = {
         "activated_at": "2025-11-13T20:57:44.215858"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-13T20:58:01.599783"
+      "telegram_resubscribed_at": "2025-11-13T20:58:01.599783",
+      "discord_removed": true,
+      "discord_removed_at": "2025-12-06T22:51:11.705610Z",
+      "discord_removed_display_name": null
     },
     "LLAI": {
       "discord_id": 786996938951753739,
