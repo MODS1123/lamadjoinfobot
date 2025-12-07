@@ -2422,7 +2422,7 @@ module.exports = {
         "telegram_username": "rustam111777",
         "activated_at": "2025-11-02T19:32:51.625408"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T19:33:00.508316",
       "last_invite_issued_at": "2025-11-02T19:34:12.709218",
       "invite_link_issued": true,
@@ -2431,7 +2431,8 @@ module.exports = {
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-12-07T18:19:53.154466Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-12-07T19:20:04.555676"
     },
     "1ZEX": {
       "discord_id": 764189498257965107,
