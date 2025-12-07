@@ -2428,7 +2428,10 @@ module.exports = {
       "invite_link_issued": true,
       "discord_removed": true,
       "discord_removed_at": "2025-12-07T18:19:51.122420Z",
-      "discord_removed_display_name": null
+      "discord_removed_display_name": null,
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-07T18:19:53.154466Z",
+      "telegram_ban_reason": "discord_removed_event"
     },
     "1ZEX": {
       "discord_id": 764189498257965107,
