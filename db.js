@@ -2425,7 +2425,10 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T19:33:00.508316",
       "last_invite_issued_at": "2025-11-02T19:34:12.709218",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "discord_removed": true,
+      "discord_removed_at": "2025-12-07T18:19:51.122420Z",
+      "discord_removed_display_name": null
     },
     "1ZEX": {
       "discord_id": 764189498257965107,
