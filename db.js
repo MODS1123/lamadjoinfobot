@@ -3377,6 +3377,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-08T11:06:05.017158"
+    },
+    "ZRKB": {
+      "discord_id": 1102004963879702639,
+      "discord_username": "molodoisort.",
+      "discord_user": "molodoisort.",
+      "discord_server_nick": "MolodoiI",
+      "created_at": "2025 08 12 21:48",
+      "expires_at": "2025 08 12 21:53",
+      "used": false
     }
   }
 };
