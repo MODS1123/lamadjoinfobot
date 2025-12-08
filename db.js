@@ -3385,7 +3385,12 @@ module.exports = {
       "discord_server_nick": "MolodoiI",
       "created_at": "2025 08 12 21:48",
       "expires_at": "2025 08 12 21:53",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1655970499,
+        "telegram_username": "molodoisort",
+        "activated_at": "2025-12-08T22:50:12.594715"
+      }
     },
     "BTO1": {
       "discord_id": 972197263558447114,
