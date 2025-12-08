@@ -3390,7 +3390,9 @@ module.exports = {
         "telegram_id": 1655970499,
         "telegram_username": "molodoisort",
         "activated_at": "2025-12-08T22:50:12.594715"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-08T22:51:16.143032"
     },
     "BTO1": {
       "discord_id": 972197263558447114,
