@@ -3393,15 +3393,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-08T22:51:16.143032"
-    },
-    "BTO1": {
-      "discord_id": 972197263558447114,
-      "discord_username": "theslim4.",
-      "discord_user": "theslim4.",
-      "discord_server_nick": "Slim",
-      "created_at": "2025 08 12 21:48",
-      "expires_at": "2025 08 12 21:53",
-      "used": false
     }
   }
 };
