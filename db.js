@@ -3404,7 +3404,12 @@ module.exports = {
       "discord_server_nick": "Bishop",
       "created_at": "2025 10 12 15:28",
       "expires_at": "2025 10 12 15:33",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 848925557,
+        "telegram_username": "desonansu",
+        "activated_at": "2025-12-10T16:29:36.894841"
+      }
     }
   }
 };
