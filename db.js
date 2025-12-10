@@ -3396,6 +3396,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-08T22:51:16.143032"
+    },
+    "3T0Q": {
+      "discord_id": 521032703056019456,
+      "discord_username": ".saveme",
+      "discord_user": ".saveme",
+      "discord_server_nick": "Bishop",
+      "created_at": "2025 10 12 15:28",
+      "expires_at": "2025 10 12 15:33",
+      "used": false
     }
   }
 };
