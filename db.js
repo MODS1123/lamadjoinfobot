@@ -1403,7 +1403,10 @@ module.exports = {
       "telegram_banned": false,
       "telegram_banned_at": "2025-11-02T02:10:36.163227",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:14.826794"
+      "telegram_unbanned_at": "2025-11-02T02:11:14.826794",
+      "discord_removed": true,
+      "discord_removed_at": "2025-12-11T14:19:41.130231Z",
+      "discord_removed_display_name": null
     },
     "LX9I": {
       "discord_id": 1137691796282015764,
