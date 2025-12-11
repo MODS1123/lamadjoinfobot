@@ -1397,9 +1397,9 @@ module.exports = {
         "telegram_username": "ZIMAxdx",
         "activated_at": "2025-10-26T09:05:17.457747"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:14.783040",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:36.104877",
+      "telegram_unsubscribed_at": "2025-12-11T15:20:31.167799",
       "telegram_banned": true,
       "telegram_banned_at": "2025-11-02T02:10:36.163227",
       "telegram_ban_reason": "discord_removed_event",
