@@ -3412,15 +3412,6 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-10T16:30:03.531766"
-    },
-    "YFMW": {
-      "discord_id": 438636804787404802,
-      "discord_username": "cherdunk",
-      "discord_user": "cherdunk",
-      "discord_server_nick": "CHERDUNK",
-      "created_at": "2025 11 12 00:02",
-      "expires_at": "2025 11 12 00:07",
-      "used": false
     }
   }
 };
