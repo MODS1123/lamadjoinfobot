@@ -3424,7 +3424,12 @@ module.exports = {
       "discord_server_nick": "Muslim",
       "created_at": "2025 12 12 14:36",
       "expires_at": "2025 12 12 14:41",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 496700961,
+        "telegram_username": "report_pass",
+        "activated_at": "2025-12-12T15:37:45.226084"
+      }
     }
   }
 };
