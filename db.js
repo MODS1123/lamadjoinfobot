@@ -3416,6 +3416,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-10T16:30:03.531766"
+    },
+    "PGKS": {
+      "discord_id": 294529576808480769,
+      "discord_username": "muslim8438",
+      "discord_user": "muslim8438",
+      "discord_server_nick": "Muslim",
+      "created_at": "2025 12 12 14:36",
+      "expires_at": "2025 12 12 14:41",
+      "used": false
     }
   }
 };
