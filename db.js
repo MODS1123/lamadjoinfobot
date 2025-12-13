@@ -3444,7 +3444,12 @@ module.exports = {
       "discord_server_nick": "Demalo",
       "created_at": "2025 13 12 16:14",
       "expires_at": "2025 13 12 16:19",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1357749455,
+        "telegram_username": "vladikdamn",
+        "activated_at": "2025-12-13T17:16:05.162796"
+      }
     }
   }
 };
