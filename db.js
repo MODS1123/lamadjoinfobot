@@ -3419,7 +3419,10 @@ module.exports = {
         "activated_at": "2025-12-10T16:29:36.894841"
       },
       "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-12-10T16:30:03.531766"
+      "telegram_resubscribed_at": "2025-12-10T16:30:03.531766",
+      "discord_removed": true,
+      "discord_removed_at": "2025-12-13T21:38:21.767866Z",
+      "discord_removed_display_name": null
     },
     "PGKS": {
       "discord_id": 294529576808480769,
