@@ -3418,14 +3418,15 @@ module.exports = {
         "telegram_username": "desonansu",
         "activated_at": "2025-12-10T16:29:36.894841"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-12-10T16:30:03.531766",
       "discord_removed": true,
       "discord_removed_at": "2025-12-13T21:38:21.767866Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-12-13T21:38:23.913724Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-12-13T22:38:42.091936"
     },
     "PGKS": {
       "discord_id": 294529576808480769,
