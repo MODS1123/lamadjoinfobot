@@ -3422,7 +3422,10 @@ module.exports = {
       "telegram_resubscribed_at": "2025-12-10T16:30:03.531766",
       "discord_removed": true,
       "discord_removed_at": "2025-12-13T21:38:21.767866Z",
-      "discord_removed_display_name": null
+      "discord_removed_display_name": null,
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-13T21:38:23.913724Z",
+      "telegram_ban_reason": "discord_removed_event"
     },
     "PGKS": {
       "discord_id": 294529576808480769,
