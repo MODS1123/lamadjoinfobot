@@ -3452,6 +3452,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-13T17:16:56.634563"
+    },
+    "RW6C": {
+      "discord_id": 873855155580317756,
+      "discord_username": "lilxan228",
+      "discord_user": "lilxan228",
+      "discord_server_nick": "ЖУЖА",
+      "created_at": "2025 13 12 17:39",
+      "expires_at": "2025 13 12 17:44",
+      "used": false
     }
   }
 };
