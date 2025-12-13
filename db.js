@@ -3436,6 +3436,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-12T15:38:27.058028"
+    },
+    "KMRW": {
+      "discord_id": 570581274977370123,
+      "discord_username": "demalox",
+      "discord_user": "demalox",
+      "discord_server_nick": "Demalo",
+      "created_at": "2025 13 12 16:14",
+      "expires_at": "2025 13 12 16:19",
+      "used": false
     }
   }
 };
