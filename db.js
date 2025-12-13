@@ -3460,7 +3460,12 @@ module.exports = {
       "discord_server_nick": "ЖУЖА",
       "created_at": "2025 13 12 17:39",
       "expires_at": "2025 13 12 17:44",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 8170029019,
+        "telegram_username": "khanvlX",
+        "activated_at": "2025-12-13T18:41:05.322177"
+      }
     }
   }
 };
