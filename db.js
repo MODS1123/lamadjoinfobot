@@ -3398,8 +3398,12 @@ module.exports = {
         "telegram_username": "molodoisort",
         "activated_at": "2025-12-08T22:50:12.594715"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-12-08T22:51:16.143032"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-12-08T22:51:16.143032",
+      "telegram_unsubscribed_at": "2025-12-13T07:06:25.920475",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-13T07:06:26.073627",
+      "telegram_ban_reason": "unsubscribed"
     },
     "3T0Q": {
       "discord_id": 521032703056019456,
