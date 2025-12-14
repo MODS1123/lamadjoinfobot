@@ -3542,6 +3542,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-14T18:46:37.126817"
+    },
+    "7AIK": {
+      "discord_id": 1024410228873236640,
+      "discord_username": "h_l8",
+      "discord_user": "h_l8",
+      "discord_server_nick": "Danny",
+      "created_at": "2025 14 12 17:59",
+      "expires_at": "2025 14 12 18:04",
+      "used": false
     }
   }
 };
