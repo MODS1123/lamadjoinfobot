@@ -3494,6 +3494,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-14T07:43:20.310090"
+    },
+    "I59A": {
+      "discord_id": 752073017625935872,
+      "discord_username": "meit_neri",
+      "discord_user": "meit_neri",
+      "discord_server_nick": "Meit",
+      "created_at": "2025 14 12 16:56",
+      "expires_at": "2025 14 12 17:01",
+      "used": false
     }
   }
 };
