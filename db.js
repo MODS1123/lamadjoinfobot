@@ -771,7 +771,10 @@ module.exports = {
       "telegram_subscribed_at": "2025-10-23T19:59:56.829983",
       "last_invite_issued_at": "2025-10-23T20:00:52.792715",
       "invite_link_issued": true,
-      "telegram_ban_reason": "unsubscribed"
+      "telegram_ban_reason": "unsubscribed",
+      "discord_removed": true,
+      "discord_removed_at": "2025-12-14T08:19:26.671030Z",
+      "discord_removed_display_name": null
     },
     "L89Z": {
       "discord_id": 513375645070524428,
