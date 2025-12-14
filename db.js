@@ -3523,7 +3523,9 @@ module.exports = {
         "telegram_id": 7207109176,
         "telegram_username": "nelegal_333",
         "activated_at": "2025-12-14T18:11:39.890603"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-14T18:11:49.508427"
     }
   }
 };
