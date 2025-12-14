@@ -816,11 +816,11 @@ module.exports = {
         "telegram_username": "xmotti",
         "activated_at": "2025-10-23T21:11:45.995939"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:12.428817",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:46.191676",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:46.231135",
+      "telegram_unsubscribed_at": "2025-12-14T20:29:00.048736",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-14T20:29:04.923090",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:12.466636"
     },
