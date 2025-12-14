@@ -3555,7 +3555,9 @@ module.exports = {
         "telegram_id": 1253437044,
         "telegram_username": "HL_eight",
         "activated_at": "2025-12-14T19:00:52.923958"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-14T19:01:43.547183"
     }
   }
 };
