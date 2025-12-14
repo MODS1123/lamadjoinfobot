@@ -3526,6 +3526,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-14T18:11:49.508427"
+    },
+    "NBQ4": {
+      "discord_id": 161442814058692608,
+      "discord_username": "rikudousen",
+      "discord_user": "rikudousen",
+      "discord_server_nick": "Tony",
+      "created_at": "2025 14 12 17:44",
+      "expires_at": "2025 14 12 17:49",
+      "used": false
     }
   }
 };
