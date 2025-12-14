@@ -759,7 +759,7 @@ module.exports = {
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-11-02T02:11:12.276833",
       "telegram_unsubscribed_at": "2025-11-02T02:10:46.055962",
-      "telegram_banned": false,
+      "telegram_banned": true,
       "telegram_banned_at": "2025-11-02T02:10:46.112291",
       "telegram_unsubscribed": false,
       "telegram_unbanned_at": "2025-11-02T02:11:12.315600",
@@ -771,7 +771,7 @@ module.exports = {
       "telegram_subscribed_at": "2025-10-23T19:59:56.829983",
       "last_invite_issued_at": "2025-10-23T20:00:52.792715",
       "invite_link_issued": true,
-      "telegram_ban_reason": "unsubscribed",
+      "telegram_ban_reason": "discord_removed_event",
       "discord_removed": true,
       "discord_removed_at": "2025-12-14T08:19:26.671030Z",
       "discord_removed_display_name": null
