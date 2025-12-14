@@ -3503,6 +3503,15 @@ module.exports = {
       "created_at": "2025 14 12 14:55",
       "expires_at": "2025 14 12 15:00",
       "used": false
+    },
+    "03ME": {
+      "discord_id": 927236094569906217,
+      "discord_username": "bald_000",
+      "discord_user": "bald_000",
+      "discord_server_nick": "Diego",
+      "created_at": "2025 14 12 14:55",
+      "expires_at": "2025 14 12 15:00",
+      "used": false
     }
   }
 };
