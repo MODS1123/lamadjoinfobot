@@ -3475,6 +3475,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-13T18:41:46.451249"
+    },
+    "0TQB": {
+      "discord_id": 536583087123857449,
+      "discord_username": "qikert3195",
+      "discord_user": "qikert3195",
+      "discord_server_nick": "YanI",
+      "created_at": "2025 14 12 06:41",
+      "expires_at": "2025 14 12 06:46",
+      "used": false
     }
   }
 };
