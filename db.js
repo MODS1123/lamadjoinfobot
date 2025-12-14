@@ -3507,7 +3507,9 @@ module.exports = {
         "telegram_id": 5951038976,
         "telegram_username": "meit_neri",
         "activated_at": "2025-12-14T17:57:57.972912"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-14T17:59:00.522543"
     }
   }
 };
