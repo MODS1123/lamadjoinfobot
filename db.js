@@ -3510,6 +3510,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-14T17:59:00.522543"
+    },
+    "1ORJ": {
+      "discord_id": 343515488724320256,
+      "discord_username": "56673",
+      "discord_user": "56673",
+      "discord_server_nick": "Semen",
+      "created_at": "2025 14 12 17:09",
+      "expires_at": "2025 14 12 17:14",
+      "used": false
     }
   }
 };
