@@ -3566,7 +3566,12 @@ module.exports = {
       "discord_server_nick": "Chaisee",
       "created_at": "2025 15 12 07:24",
       "expires_at": "2025 15 12 07:29",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 542517156,
+        "telegram_username": "Cha1see",
+        "activated_at": "2025-12-15T08:26:06.486837"
+      }
     }
   }
 };
