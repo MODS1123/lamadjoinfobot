@@ -3582,7 +3582,12 @@ module.exports = {
       "discord_server_nick": "Nagano",
       "created_at": "2025 15 12 13:35",
       "expires_at": "2025 15 12 13:40",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1014752523,
+        "telegram_username": "Yakimov_Al",
+        "activated_at": "2025-12-15T14:36:40.177981"
+      }
     }
   }
 };
