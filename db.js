@@ -3587,7 +3587,9 @@ module.exports = {
         "telegram_id": 1014752523,
         "telegram_username": "Yakimov_Al",
         "activated_at": "2025-12-15T14:36:40.177981"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-15T14:36:55.459750"
     }
   }
 };
