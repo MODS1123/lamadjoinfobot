@@ -3558,6 +3558,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-14T19:01:43.547183"
+    },
+    "TAY5": {
+      "discord_id": 1354189589467631626,
+      "discord_username": ".cha1see",
+      "discord_user": ".cha1see",
+      "discord_server_nick": "Chaisee",
+      "created_at": "2025 15 12 07:24",
+      "expires_at": "2025 15 12 07:29",
+      "used": false
     }
   }
 };
