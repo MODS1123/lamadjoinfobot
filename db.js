@@ -3574,6 +3574,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-15T08:26:23.997633"
+    },
+    "TJD8": {
+      "discord_id": 300585650736988161,
+      "discord_username": "nagano116",
+      "discord_user": "nagano116",
+      "discord_server_nick": "Nagano",
+      "created_at": "2025 15 12 13:35",
+      "expires_at": "2025 15 12 13:40",
+      "used": false
     }
   }
 };
