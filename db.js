@@ -3540,8 +3540,12 @@ module.exports = {
         "telegram_username": null,
         "activated_at": "2025-12-14T18:46:11.317711"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-12-14T18:46:37.126817"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-12-14T18:46:37.126817",
+      "telegram_unsubscribed_at": "2025-12-16T04:51:41.974105",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-16T04:51:42.093678",
+      "telegram_ban_reason": "unsubscribed"
     },
     "7AIK": {
       "discord_id": 1024410228873236640,
