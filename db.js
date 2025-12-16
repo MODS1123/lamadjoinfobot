@@ -2812,9 +2812,9 @@ module.exports = {
       "telegram_subscribed_at": "2025-12-05T13:59:36.280846",
       "last_invite_issued_at": "2025-12-05T14:01:35.980751",
       "invite_link_issued": true,
-      "telegram_ban_reason": "discord_removed_event",
+      "telegram_ban_reason": "unsubscribed",
       "discord_removed": true,
-      "discord_removed_at": "2025-12-16T21:29:54.431819Z",
+      "discord_removed_at": "2025-12-16T21:29:54.467177Z",
       "discord_removed_display_name": null
     },
     "01F2": {
