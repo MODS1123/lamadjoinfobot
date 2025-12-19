@@ -3600,6 +3600,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-15T14:36:55.459750"
+    },
+    "2XJ7": {
+      "discord_id": 727411915835441233,
+      "discord_username": "sane4eeek",
+      "discord_user": "sane4eeek",
+      "discord_server_nick": "Alik",
+      "created_at": "2025 19 12 17:43",
+      "expires_at": "2025 19 12 17:48",
+      "used": false
     }
   }
 };
