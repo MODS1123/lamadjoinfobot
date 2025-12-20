@@ -3659,6 +3659,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-20T17:47:53.364678"
+    },
+    "CFRZ": {
+      "discord_id": 1030527114287530016,
+      "discord_username": "efim2269",
+      "discord_user": "efim2269",
+      "discord_server_nick": "Efim",
+      "created_at": "2025 20 12 19:22",
+      "expires_at": "2025 20 12 19:27",
+      "used": false
     }
   }
 };
