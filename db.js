@@ -3631,7 +3631,12 @@ module.exports = {
       "discord_server_nick": "KanoI",
       "created_at": "2025 20 12 16:45",
       "expires_at": "2025 20 12 16:50",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 350711201,
+        "telegram_username": "serfrazer",
+        "activated_at": "2025-12-20T17:46:44.709569"
+      }
     },
     "XFQZ": {
       "discord_id": 632709653767127070,
