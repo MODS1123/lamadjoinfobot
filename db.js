@@ -3667,7 +3667,12 @@ module.exports = {
       "discord_server_nick": "Efim",
       "created_at": "2025 20 12 19:22",
       "expires_at": "2025 20 12 19:27",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5450142326,
+        "telegram_username": "nofla_gg",
+        "activated_at": "2025-12-20T20:22:51.583376"
+      }
     }
   }
 };
