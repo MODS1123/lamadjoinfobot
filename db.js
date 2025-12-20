@@ -3479,8 +3479,12 @@ module.exports = {
         "telegram_username": "khanvlX",
         "activated_at": "2025-12-13T18:41:05.322177"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-12-13T18:41:46.451249"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-12-13T18:41:46.451249",
+      "telegram_unsubscribed_at": "2025-12-20T19:54:26.265401",
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-20T19:54:26.425889",
+      "telegram_ban_reason": "unsubscribed"
     },
     "0TQB": {
       "discord_id": 536583087123857449,
