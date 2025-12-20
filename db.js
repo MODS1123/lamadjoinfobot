@@ -3623,6 +3623,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-19T18:44:43.893373"
+    },
+    "F8DA": {
+      "discord_id": 923524226554662934,
+      "discord_username": "serfrazer",
+      "discord_user": "serfrazer",
+      "discord_server_nick": "KanoI",
+      "created_at": "2025 20 12 16:45",
+      "expires_at": "2025 20 12 16:50",
+      "used": false
     }
   }
 };
