@@ -3582,14 +3582,15 @@ module.exports = {
         "telegram_username": "Cha1see",
         "activated_at": "2025-12-15T08:26:06.486837"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-12-15T08:26:23.997633",
       "discord_removed": true,
       "discord_removed_at": "2025-12-20T09:52:17.611580Z",
       "discord_removed_display_name": null,
       "telegram_banned": true,
       "telegram_banned_at": "2025-12-20T09:52:20.179950Z",
-      "telegram_ban_reason": "discord_removed_event"
+      "telegram_ban_reason": "discord_removed_event",
+      "telegram_unsubscribed_at": "2025-12-20T10:52:27.924672"
     },
     "TJD8": {
       "discord_id": 300585650736988161,
