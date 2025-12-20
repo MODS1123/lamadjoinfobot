@@ -3636,7 +3636,9 @@ module.exports = {
         "telegram_id": 350711201,
         "telegram_username": "serfrazer",
         "activated_at": "2025-12-20T17:46:44.709569"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-20T17:47:53.341948"
     },
     "XFQZ": {
       "discord_id": 632709653767127070,
@@ -3650,7 +3652,9 @@ module.exports = {
         "telegram_id": 872778148,
         "telegram_username": "netor4",
         "activated_at": "2025-12-20T17:46:56.445272"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-20T17:47:53.364678"
     }
   }
 };
