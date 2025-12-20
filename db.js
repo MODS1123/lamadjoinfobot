@@ -3632,6 +3632,15 @@ module.exports = {
       "created_at": "2025 20 12 16:45",
       "expires_at": "2025 20 12 16:50",
       "used": false
+    },
+    "XFQZ": {
+      "discord_id": 632709653767127070,
+      "discord_username": "camry_3.5",
+      "discord_user": "camry_3.5",
+      "discord_server_nick": "СamryI",
+      "created_at": "2025 20 12 16:45",
+      "expires_at": "2025 20 12 16:50",
+      "used": false
     }
   }
 };
