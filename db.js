@@ -3645,7 +3645,12 @@ module.exports = {
       "discord_server_nick": "СamryI",
       "created_at": "2025 20 12 16:45",
       "expires_at": "2025 20 12 16:50",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 872778148,
+        "telegram_username": "netor4",
+        "activated_at": "2025-12-20T17:46:56.445272"
+      }
     }
   }
 };
