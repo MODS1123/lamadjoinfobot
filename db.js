@@ -3714,6 +3714,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-22T18:48:07.724167"
+    },
+    "2GJI": {
+      "discord_id": 299643402180624385,
+      "discord_username": "syrkhai",
+      "discord_user": "syrkhai",
+      "discord_server_nick": "Syrhai",
+      "created_at": "2025 22 12 17:57",
+      "expires_at": "2025 22 12 18:02",
+      "used": false
     }
   }
 };
