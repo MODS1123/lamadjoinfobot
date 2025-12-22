@@ -3675,6 +3675,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-20T20:23:21.765577"
+    },
+    "SU5V": {
+      "discord_id": 596687150385201162,
+      "discord_username": "1jasongg",
+      "discord_user": "1jasongg",
+      "discord_server_nick": "Jason",
+      "created_at": "2025 22 12 16:35",
+      "expires_at": "2025 22 12 16:40",
+      "used": false
     }
   }
 };
