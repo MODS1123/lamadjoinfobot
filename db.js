@@ -3722,7 +3722,12 @@ module.exports = {
       "discord_server_nick": "Syrhai",
       "created_at": "2025 22 12 17:57",
       "expires_at": "2025 22 12 18:02",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 1289837944,
+        "telegram_username": "GeneralX_05",
+        "activated_at": "2025-12-22T18:57:45.803061"
+      }
     }
   }
 };
