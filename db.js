@@ -3698,6 +3698,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-22T17:37:16.570262"
+    },
+    "TQGA": {
+      "discord_id": 433278701698809866,
+      "discord_username": "skieep_",
+      "discord_user": "skieep_",
+      "discord_server_nick": "Marivuan",
+      "created_at": "2025 22 12 17:43",
+      "expires_at": "2025 22 12 17:48",
+      "used": false
     }
   }
 };
