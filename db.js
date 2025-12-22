@@ -3711,7 +3711,9 @@ module.exports = {
         "telegram_id": 5386451704,
         "telegram_username": "we_vlados",
         "activated_at": "2025-12-22T18:45:26.285091"
-      }
+      },
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-22T18:48:07.724167"
     },
     "8F6D": {
       "discord_id": 299643402180624385,
