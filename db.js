@@ -3706,7 +3706,12 @@ module.exports = {
       "discord_server_nick": "Marivuan",
       "created_at": "2025 22 12 17:43",
       "expires_at": "2025 22 12 17:48",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 5386451704,
+        "telegram_username": "we_vlados",
+        "activated_at": "2025-12-22T18:45:26.285091"
+      }
     },
     "8F6D": {
       "discord_id": 299643402180624385,
