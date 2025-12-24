@@ -3762,14 +3762,14 @@ module.exports = {
       },
       "telegram_banned": false,
       "telegram_unsubscribed": false,
-      "telegram_subscribed": false,
-      "telegram_requires_subscription": true,
+      "telegram_subscribed": true,
       "telegram_unbanned_at": "2025-12-24T12:12:37.165303",
       "telegram_unbanned_by": {
         "moderator_id": 921182112,
         "moderator_username": "Alberto114"
       },
-      "grace_period_until": "2025-12-25T00:12:37.165323"
+      "grace_period_until": "2025-12-25T00:12:37.165323",
+      "telegram_subscribed_at": "2025-12-24T12:13:35.345677"
     }
   }
 };
