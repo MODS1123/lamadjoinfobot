@@ -3770,6 +3770,15 @@ module.exports = {
       },
       "grace_period_until": "2025-12-25T00:12:37.165323",
       "telegram_subscribed_at": "2025-12-24T12:13:35.345677"
+    },
+    "ZGOA": {
+      "discord_id": 1185193353516687551,
+      "discord_username": "h1z052ngg",
+      "discord_user": "h1z052ngg",
+      "discord_server_nick": "Takata",
+      "created_at": "2025 24 12 11:42",
+      "expires_at": "2025 24 12 11:47",
+      "used": false
     }
   }
 };
