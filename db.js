@@ -3759,7 +3759,10 @@ module.exports = {
         "telegram_id": 567587212,
         "telegram_username": "semqa731",
         "activated_at": "2025-12-24T12:12:10.453024"
-      }
+      },
+      "telegram_banned": true,
+      "telegram_banned_at": "2025-12-24T12:12:36.510863",
+      "telegram_ban_reason": "unsubscribed"
     }
   }
 };
