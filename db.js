@@ -3730,6 +3730,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-22T18:58:18.438610"
+    },
+    "E7JA": {
+      "discord_id": 170948337200136203,
+      "discord_username": "default_u",
+      "discord_user": "default_u",
+      "discord_server_nick": "Zick",
+      "created_at": "2025 24 12 10:10",
+      "expires_at": "2025 24 12 10:15",
+      "used": false
     }
   }
 };
