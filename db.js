@@ -3754,7 +3754,12 @@ module.exports = {
       "discord_server_nick": "Goat",
       "created_at": "2025 24 12 11:11",
       "expires_at": "2025 24 12 11:16",
-      "used": false
+      "used": true,
+      "activated_by": {
+        "telegram_id": 567587212,
+        "telegram_username": "semqa731",
+        "activated_at": "2025-12-24T12:12:10.453024"
+      }
     }
   }
 };
