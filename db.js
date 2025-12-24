@@ -3746,6 +3746,15 @@ module.exports = {
       },
       "telegram_subscribed": true,
       "telegram_resubscribed_at": "2025-12-24T11:12:46.946412"
+    },
+    "L012": {
+      "discord_id": 669227604401979411,
+      "discord_username": "goat731",
+      "discord_user": "goat731",
+      "discord_server_nick": "Goat",
+      "created_at": "2025 24 12 11:11",
+      "expires_at": "2025 24 12 11:16",
+      "used": false
     }
   }
 };
