@@ -3770,6 +3770,15 @@ module.exports = {
         "moderator_username": "Alberto114"
       },
       "telegram_subscribed_at": "2025-12-24T12:13:35.345677"
+    },
+    "ZJO6": {
+      "discord_id": 613103041322811523,
+      "discord_username": "encrypted5505",
+      "discord_user": "encrypted5505",
+      "discord_server_nick": "MadenI",
+      "created_at": "2025 26 12 11:37",
+      "expires_at": "2025 26 12 11:42",
+      "used": false
     }
   }
 };
