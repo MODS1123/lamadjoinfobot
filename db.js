@@ -2293,10 +2293,17 @@ module.exports = {
       "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:03.200228",
       "telegram_unsubscribed_at": "2025-12-26T10:23:22.843680",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-12-26T10:25:37.555428",
-      "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-11-02T02:11:03.236975"
+      "telegram_unbanned_at": "2025-12-26T18:20:39.855285",
+      "telegram_unsubscribed": false,
+      "telegram_requires_subscription": true,
+      "telegram_unbanned_by": {
+        "moderator_id": 921182112,
+        "moderator_username": "Alberto114"
+      },
+      "grace_period_until": "2025-12-27T06:20:39.855299",
+      "telegram_unban_previous_reason": "unsubscribed"
     },
     "XJYC": {
       "discord_id": 468513276960178236,
