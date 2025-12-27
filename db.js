@@ -13,13 +13,13 @@ module.exports = {
         "telegram_username": "Lex_M_A_V",
         "activated_at": "2025-10-14T00:31:23.574998"
       },
-      "telegram_subscribed": false,
-      "telegram_resubscribed_at": "2025-12-26T10:50:11.141041",
+      "telegram_subscribed": true,
+      "telegram_resubscribed_at": "2025-12-27T09:24:36.970905",
       "telegram_unsubscribed_at": "2025-12-27T09:20:49.647890",
-      "telegram_banned": true,
+      "telegram_banned": false,
       "telegram_banned_at": "2025-12-27T09:21:21.330748",
       "telegram_ban_reason": "unsubscribed",
-      "telegram_unbanned_at": "2025-12-26T10:50:11.215481"
+      "telegram_unbanned_at": "2025-12-27T09:24:37.007304"
     },
     "H0IU": {
       "discord_id": 852959671353606155,
