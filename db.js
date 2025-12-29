@@ -2304,8 +2304,7 @@ module.exports = {
       "telegram_unban_previous_reason": "unsubscribed",
       "telegram_subscribed_at": "2025-12-26T18:23:00.295684",
       "last_invite_issued_at": "2025-12-26T18:26:19.715776",
-      "telegram_requires_subscription": true,
-      "grace_period_until": "2025-12-29T09:00:42.044180"
+      "telegram_requires_subscription": true
     },
     "XJYC": {
       "discord_id": 468513276960178236,
