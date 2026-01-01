@@ -13,11 +13,11 @@ module.exports = {
         "telegram_username": "Lex_M_A_V",
         "activated_at": "2025-10-14T00:31:23.574998"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-12-29T16:00:09.320127",
-      "telegram_unsubscribed_at": "2025-12-29T15:58:27.470152",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-12-29T15:58:38.849600",
+      "telegram_unsubscribed_at": "2026-01-01T14:50:01.581584",
+      "telegram_banned": true,
+      "telegram_banned_at": "2026-01-01T14:50:02.895595",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-12-29T16:00:09.360276"
     },
@@ -222,11 +222,11 @@ module.exports = {
         "telegram_username": "ddn770",
         "activated_at": "2025-10-14T17:49:22.142746"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-14T00:38:29.281877",
-      "telegram_unsubscribed_at": "2025-10-23T19:24:57.688874",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-10-23T19:25:00.422011",
+      "telegram_unsubscribed_at": "2026-01-01T14:50:10.283174",
+      "telegram_banned": true,
+      "telegram_banned_at": "2026-01-01T14:50:10.879951",
       "telegram_unsubscribed": false,
       "telegram_requires_subscription": true,
       "telegram_unbanned_at": "2025-11-14T00:34:16.215319",
@@ -236,7 +236,8 @@ module.exports = {
       },
       "telegram_unban_previous_reason": "unsubscribed",
       "last_invite_issued_at": "2025-11-14T00:39:18.196770",
-      "invite_link_issued": true
+      "invite_link_issued": true,
+      "telegram_ban_reason": "unsubscribed"
     },
     "TQWQ": {
       "discord_id": 919220816707719228,
