@@ -119,8 +119,9 @@ module.exports = {
         "moderator_username": "Alberto114"
       },
       "telegram_unban_previous_reason": "unsubscribed",
-      "last_invite_issued_at": "2025-10-23T20:12:15.296491",
-      "grace_period_until": "2026-01-03T02:32:54.330376"
+      "last_invite_issued_at": "2026-01-02T14:35:40.271345",
+      "grace_period_until": "2026-01-03T02:32:54.330376",
+      "invite_link_issued": true
     },
     "LWSY": {
       "discord_id": 352882115223879681,
