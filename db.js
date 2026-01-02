@@ -177,11 +177,11 @@ module.exports = {
         "telegram_username": "dgbbncdfjkk",
         "activated_at": "2025-10-14T02:25:34.412902"
       },
-      "telegram_subscribed": true,
+      "telegram_subscribed": false,
       "telegram_resubscribed_at": "2025-11-02T02:11:10.546382",
-      "telegram_unsubscribed_at": "2025-11-02T02:10:44.886105",
-      "telegram_banned": false,
-      "telegram_banned_at": "2025-11-02T02:10:44.921505",
+      "telegram_unsubscribed_at": "2026-01-02T18:09:24.745952",
+      "telegram_banned": true,
+      "telegram_banned_at": "2026-01-02T18:09:24.974981",
       "telegram_ban_reason": "unsubscribed",
       "telegram_unbanned_at": "2025-11-02T02:11:10.587350"
     },
@@ -2489,8 +2489,12 @@ module.exports = {
         "telegram_username": "smokeswag",
         "activated_at": "2025-11-03T01:48:40.436535"
       },
-      "telegram_subscribed": true,
-      "telegram_resubscribed_at": "2025-11-03T01:48:43.588993"
+      "telegram_subscribed": false,
+      "telegram_resubscribed_at": "2025-11-03T01:48:43.588993",
+      "telegram_unsubscribed_at": "2026-01-02T18:09:41.359487",
+      "telegram_banned": true,
+      "telegram_banned_at": "2026-01-02T18:09:42.026680",
+      "telegram_ban_reason": "unsubscribed"
     },
     "WHZT": {
       "discord_id": 459251533821902868,
