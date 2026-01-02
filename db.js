@@ -2702,7 +2702,9 @@ module.exports = {
       },
       "grace_period_until": "2026-01-03T02:34:16.908442",
       "telegram_unban_previous_reason": "unsubscribed",
-      "telegram_subscribed_at": "2026-01-02T14:35:27.231408"
+      "telegram_subscribed_at": "2026-01-02T14:35:27.231408",
+      "last_invite_issued_at": "2026-01-02T14:35:45.004785",
+      "invite_link_issued": true
     },
     "NB8W": {
       "discord_id": 531530942976622594,
