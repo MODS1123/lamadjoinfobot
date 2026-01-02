@@ -120,7 +120,6 @@ module.exports = {
       },
       "telegram_unban_previous_reason": "unsubscribed",
       "last_invite_issued_at": "2026-01-02T14:35:40.271345",
-      "grace_period_until": "2026-01-03T02:32:54.330376",
       "invite_link_issued": true
     },
     "LWSY": {
@@ -2702,9 +2701,7 @@ module.exports = {
       },
       "grace_period_until": "2026-01-03T02:34:16.908442",
       "telegram_unban_previous_reason": "unsubscribed",
-      "telegram_subscribed_at": "2026-01-02T14:35:27.231408",
-      "last_invite_issued_at": "2026-01-02T14:35:45.004785",
-      "invite_link_issued": true
+      "telegram_subscribed_at": "2026-01-02T14:35:27.231408"
     },
     "NB8W": {
       "discord_id": 531530942976622594,
